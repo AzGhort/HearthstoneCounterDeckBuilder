@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SabberStoneCore">
+      <HintPath>..\..\..\..\..\..\downloads\SabberStone-master (2)\SabberStone-master\SabberStoneGui\bin\Release\SabberStoneCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

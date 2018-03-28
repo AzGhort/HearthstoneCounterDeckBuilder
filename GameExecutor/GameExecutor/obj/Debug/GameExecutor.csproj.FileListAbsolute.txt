@@ -1,0 +1,15 @@
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\bin\Debug\GameExecutor.exe.config
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\bin\Debug\GameExecutor.exe
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\bin\Debug\GameExecutor.pdb
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\bin\Debug\SabberStoneCore.dll
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\bin\Debug\SabberStoneCore.pdb
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\obj\Debug\GameExecutor.csprojResolveAssemblyReference.cache
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\obj\Debug\GameExecutor.exe
+D:\mff\bakal\mine\SabberStone-master\GameExecutor\GameExecutor\obj\Debug\GameExecutor.pdb
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Debug\GameExecutor.exe.config
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Debug\GameExecutor.exe
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Debug\GameExecutor.pdb
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Debug\SabberStoneCore.pdb
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Debug\GameExecutor.csprojResolveAssemblyReference.cache
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Debug\GameExecutor.exe
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Debug\GameExecutor.pdb

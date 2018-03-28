@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Northshire Cleric</string>
+    <string>Northshire Cleric</string>
+    <string>Pint-Size Potion</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Shadow Visions</string>
+    <string>Shadow Visions</string>
+    <string>Shadow Word: Death</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Shadowreaper Anduin</string>
+    <string>Ysera</string>
+    <string>Mind Control</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

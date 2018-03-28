@@ -1,0 +1,44 @@
+Worst 20 mutations:
+1	Humongous Razorleaf 		(nemùže útoèit)
+2	Blubber Baron			(bez synergie nepoužitelná karta)
+3 	Humongous Razorleaf		(nemùže útoèit)
+4	Wicked Skeleton			(bez synergie nepoužitelná karta)
+5	Finja, the Flying Star		(bez synergie nepoužitelná karta)
+6	Ticking Abomination		(všeobecnì špatná)	
+7	Wrathion			(bez synergie nepoužitelná karta)
+8	Humongous Razorleaf		(nemùže útoèit)
+9	Wrathion			(bez synergie nepoužitelná karta)
+10	Slithid Swarmer			(nemùže útoèit)
+11	Sated Threshadon 		!!! tato karta se vìtšinou považuje za pomìrnì dobrou, nejspíš však nahradila nìjakou "dùležitìjší"
+12	Wicked Skeleton			(bez synergie nepoužitelná karta)
+13	Wrathion			(bez synergie nepoužitelná karta)
+14 	Lorewalker Cho			(všeobecnì špatná)
+15	Wrathion			(bez synergie nepoužitelná karta) 	
+16 	Tomb Lurker			(bez synergie nepoužitelná karta) 	
+17 	Meat Wagon			(všeobecnì špatná)
+18	Ticking Abomination		(všeobecnì špatná)
+19	Venture CoMercenary		(situaèní)
+20	Wicked Skeleton			(bez synergie nepoužitelná karta)	
+
+
+Best 20 mutations:
+1	Emperor Cobra			(spíš karta do areny)
+2	Tar Creeper			(jeden z nejlepších 3-dropù)
+3 	Primordial Drake		(velmi dobrá drahá karta)
+4	Violet Illusionist 		!!! pro mága témìø k nièemu, možná chyba v simulátoru/vyhodnocení?
+5 	King Mukla			(agresivní karta, vzhledem k nastavení metrik nejspíš jedna z "oblíbených" AI)
+6	The Lich King			(velmi dobrá drahá karta)
+7	King Mukla			(agresivní karta, vzhledem k nastavení metrik nejspíš jedna z "oblíbených" AI)
+8	Tar Creeper			(jeden z nejlepších 3-dropù)
+9	Backroom Bouncer		(spíš do areny)
+10	Psychotron			(do areny/obranná karta)
+11	Tar Creeper			(jeden z nejlepších 3-dropù)
+12 	Kabal Lackey			!!! - vysoce synergická karta se zbytkem balíèku
+13	Kabal Lackey			!!! - vysoce synergická karta se zbytkem balíèku
+14 	Flame Geyser			(pomìrnì kvalitní kouzlo)
+15	Raging Worgen			(vzhledem k nastavení metrik nejspíš jedna z "oblíbených" karet AI)
+16	Stubborn Gastropod		(spíš do areny)
+17 	Daring Reporter			(spíš do areny)
+18	Cyclopian Horror		(spíš do areny)
+19	Cyclopian Horror		(spíš do areny)
+20 	Mistress of Mixtures		(pomìrnì kvalitní karta)

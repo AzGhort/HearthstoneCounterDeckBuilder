@@ -1,0 +1,20 @@
+SM#1
+x2_Kabal Lackey
+x2_Mana Wyrm
+x2_Arcanologist
+x2_Frostbolt
+x2_Medivh's Valet
+x2_Primordial Glyph
+x2_Sorcerer's Apprentice
+x1_Arcane Intellect
+x2_Counterspell
+x1_Explosive Runes
+x1_Ice Block
+x2_Kirin Tor Mage
+x1_Mirror Entity
+x2_Fireball
+x1_Aluneth
+x2_Kabal Crystal Runner
+x1_Firelands Portal
+x1_Pyroblast
+x1_Spellbreaker

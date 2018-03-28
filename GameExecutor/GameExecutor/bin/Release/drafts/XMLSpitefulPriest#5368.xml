@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Northshire Cleric</string>
+    <string>Northshire Cleric</string>
+    <string>Netherspite Historian</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Kabal Talonpriest</string>
+    <string>Twilight Drake</string>
+    <string>Cobalt Scalebane</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Grand Archivist</string>
+    <string>Mind Control</string>
+    <string>Mind Control</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

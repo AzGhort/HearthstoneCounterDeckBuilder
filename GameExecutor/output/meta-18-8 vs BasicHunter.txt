@@ -1,0 +1,70 @@
+Simulation no.1:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: DRUID JadeDruid#4090, Player2 played with: HUNTER BasicHunter
+Player1 won 41 games, Player2 won 59!
+Win percentage: Player1: 41%, Player2: 59%
+Time elapsed: 6,775 seconds
+---------------------------------------------------
+
+Simulation no.2:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: PRIEST ControlPriest#4134, Player2 played with: HUNTER BasicHunter
+Player1 won 5 games, Player2 won 95!
+Win percentage: Player1: 5%, Player2: 95%
+Time elapsed: 7,312 seconds
+---------------------------------------------------
+
+Simulation no.3:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: DRUID AggroTokenDruid#4028, Player2 played with: HUNTER BasicHunter
+Player1 won 67 games, Player2 won 33!
+Win percentage: Player1: 67%, Player2: 33%
+Time elapsed: 6,445 seconds
+---------------------------------------------------
+
+Simulation no.4:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: PALADIN MidrangePaladin#4073, Player2 played with: HUNTER BasicHunter
+Player1 won 77 games, Player2 won 23!
+Win percentage: Player1: 77%, Player2: 23%
+Time elapsed: 8,025 seconds
+---------------------------------------------------
+
+Simulation no.5:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: SHAMAN EvolveShaman#4139, Player2 played with: HUNTER BasicHunter
+Player1 won 77 games, Player2 won 23!
+Win percentage: Player1: 77%, Player2: 23%
+Time elapsed: 8,572 seconds
+---------------------------------------------------
+
+Simulation no.6:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: PALADIN MurlocPaladin#4118, Player2 played with: HUNTER BasicHunter
+Player1 won 78 games, Player2 won 22!
+Win percentage: Player1: 78%, Player2: 22%
+Time elapsed: 7,007 seconds
+---------------------------------------------------
+
+Simulation no.7:
+----------------------------------------------------
+Total games played 100
+Player1 AI: Random Greedy AI Player2 AI: Random Greedy AI
+Player1 played with: WARRIOR PirateWarrior#4145, Player2 played with: HUNTER BasicHunter
+Player1 won 91 games, Player2 won 9!
+Win percentage: Player1: 91%, Player2: 9%
+Time elapsed: 6,158 seconds
+---------------------------------------------------
+

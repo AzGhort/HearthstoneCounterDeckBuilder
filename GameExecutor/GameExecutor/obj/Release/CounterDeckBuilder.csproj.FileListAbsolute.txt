@@ -1,0 +1,11 @@
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\GameExecutor.exe.config
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\GameExecutor.exe
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\GameExecutor.pdb
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\SabberStoneCore.dll
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\SabberStoneCore.pdb
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Release\CounterDeckBuilder.csproj.CoreCompileInputs.cache
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Release\GameExecutor.exe
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Release\GameExecutor.pdb
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Release\CounterDeckBuilder.csprojResolveAssemblyReference.cache
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\CounterDeckBuilderCore.dll
+D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\CounterDeckBuilderCore.pdb

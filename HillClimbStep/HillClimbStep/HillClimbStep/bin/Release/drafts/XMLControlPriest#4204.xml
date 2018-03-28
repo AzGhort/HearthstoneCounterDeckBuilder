@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Obsidian Statue</string>
+    <string>Obsidian Statue</string>
+    <string>Y'Shaarj, Rage Unbound</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Holy Smite</string>
+    <string>Pint-Size Potion</string>
+    <string>Shadow Word: Pain</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Shadow Word: Pain</string>
+    <string>Barnes</string>
+    <string>Shadowreaper Anduin</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Argent Squire</string>
+    <string>Argent Squire</string>
+    <string>Lost in the Jungle</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Dire Wolf Alpha</string>
+    <string>Rallying Blade</string>
+    <string>Vinecleaver</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Crystal Lion</string>
+    <string>Sunkeeper Tarim</string>
+    <string>Vinecleaver</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

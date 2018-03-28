@@ -1,0 +1,33 @@
+Worst 15 mutations:
+1	Ticking Abomination		(všeobecnì špatná)
+2	Humongous Razorleaf		(nemùže útoèit)
+3 	Slithid Swarmer			(nemùže útoèit)
+4	Furnacefire Colossus		(pro mága k nièemu)
+5	Street Trickster		(nemùže útoèit)
+6	Ancient Watcher			(nemùže útoèit)
+7	Wrathion			(bez synergie k nièemu)
+8	Tomb Lurker			(bez synergie k nièemu)
+9 	Slithid Swarmer			(nemùže útoèit)
+10	Wrathion			(bez synergie k nièemu)	
+11 	Wicked Skeleton 		(bez synergie k nièemu)	
+12	Lorewalker Cho			(všeobecnì špatná, nemùže útoèit)
+13	Prince Malchezaar		!! pomìrnì dobrá karta
+14	Humongous Razorleaf		(nemùže útoèit)
+15	Ticking Abomination		(všeobecnì špatná)
+
+Best 15 mutations:
+1	Tar Creeper			(jeden z nejlepších 3-dropù)
+2	Kabal Lackey			!! synergická karta se zbytkem balíèku
+3	Shattered Sun Cleric		(dobré staty)
+4	Coldwraith			(dobré staty)
+5	Pin-Sized Summoner		(prùmìrná karta)
+6	Shattered Sun Cleric		(dobré staty)
+7	Stubborn Gastropod		(dobrá obranná karta)
+8	Tar Creeper			(jeden z nejlepších 3-dropù)
+9	Flamestrike			(jedno z nejlepších AOE)
+10	Bloodfen Raptor			(prùmìrná karta)
+11	Kabal Lackey			!! synergická karta se zbytkem balíèku
+12	Stubborn Gastropod		(dobrá obranná karta)
+13	Shattered Sun Cleric		(dobré staty)
+14	Eggnapper			(nadprùmìrná karta)
+15	Meteor 				(AOE)

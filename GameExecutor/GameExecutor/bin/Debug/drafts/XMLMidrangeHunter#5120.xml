@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Secretkeeper</string>
+    <string>Secretkeeper</string>
+    <string>Tracking</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Freezing Trap</string>
+    <string>Eaglehorn Bow</string>
+    <string>Violet Wurm</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Kathrena Winterwisp</string>
+    <string>Violet Wurm</string>
+    <string>King Krush</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

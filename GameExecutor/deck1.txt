@@ -1,0 +1,9920 @@
+Winrate - 35,8024691358025
+Arcane Intellect
+Kabal Crystal Runner
+Mana Wyrm
+Arcane Golem
+Kirin Tor Mage
+Primordial Glyph
+Mirror Entity
+Mana Wyrm
+Medivh's Valet
+Fireball
+Archmage Antonidas
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Counterspell
+Arcanologist
+Arcanologist
+Counterspell
+Medivh's Valet
+Frostbolt
+The Black Knight
+Ghastly Conjurer
+Mana Bind
+Primordial Glyph
+Kabal Crystal Runner
+Kirin Tor Mage
+---------------------------------------
+Winrate - 38,2716049382716
+Medivh's Valet
+Kabal Crystal Runner
+Bloodsail Raider
+The Black Knight
+Burgly Bully
+Mana Wyrm
+Primordial Glyph
+Counterspell
+Arcanologist
+Arcane Intellect
+Frostbolt
+Arcane Intellect
+Ghastly Conjurer
+Mana Bind
+Archmage Antonidas
+Fireball
+Mana Wyrm
+Firelands Portal
+Fireball
+Sorcerer's Apprentice
+Counterspell
+Medivh's Valet
+Kirin Tor Mage
+Mirror Entity
+Arcanologist
+Sorcerer's Apprentice
+Kirin Tor Mage
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 38,2716049382716
+Mana Wyrm
+Mana Wyrm
+Lorewalker Cho
+Ghastly Conjurer
+Sorcerer's Apprentice
+Frostbolt
+Kabal Crystal Runner
+Mirror Entity
+Arcanologist
+Arcanologist
+Counterspell
+Kirin Tor Mage
+Primordial Glyph
+Fireball
+Archmage Antonidas
+Arcane Intellect
+Medivh's Valet
+Firelands Portal
+Firelands Portal
+Burgly Bully
+Primordial Glyph
+Kirin Tor Mage
+Kabal Crystal Runner
+Arcane Intellect
+Counterspell
+Medivh's Valet
+The Black Knight
+Mana Bind
+Sorcerer's Apprentice
+Fireball
+---------------------------------------
+Winrate - 38,2716049382716
+Sorcerer's Apprentice
+Emerald Hive Queen
+Primordial Glyph
+Kabal Crystal Runner
+Arcanologist
+Firelands Portal
+Mana Bind
+Medivh's Valet
+Ghastly Conjurer
+Arcane Intellect
+Arcane Intellect
+Mana Wyrm
+The Black Knight
+Archmage Antonidas
+Kabal Crystal Runner
+Frostbolt
+Fireball
+Counterspell
+Medivh's Valet
+Fireball
+Mirror Entity
+Kirin Tor Mage
+Kirin Tor Mage
+Mana Wyrm
+Sorcerer's Apprentice
+Firelands Portal
+Primordial Glyph
+Burgly Bully
+Arcanologist
+Counterspell
+---------------------------------------
+Winrate - 38,2716049382716
+Arcanologist
+Archmage Antonidas
+Arcane Intellect
+Humongous Razorleaf
+Sorcerer's Apprentice
+Arcane Intellect
+Arcanologist
+Mirror Entity
+Medivh's Valet
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Mana Bind
+Kabal Crystal Runner
+Ghastly Conjurer
+Counterspell
+Fireball
+Primordial Glyph
+Kabal Crystal Runner
+Fireball
+Firelands Portal
+The Black Knight
+Frostbolt
+Kirin Tor Mage
+Mana Wyrm
+Counterspell
+Sorcerer's Apprentice
+Medivh's Valet
+Burgly Bully
+Firelands Portal
+---------------------------------------
+Winrate - 38,2716049382716
+Fireball
+Abusive Sergeant
+Mirror Entity
+Arcanologist
+Counterspell
+Kabal Crystal Runner
+Arcane Intellect
+Burgly Bully
+Primordial Glyph
+Kabal Crystal Runner
+Archmage Antonidas
+Counterspell
+Firelands Portal
+Medivh's Valet
+Frostbolt
+The Black Knight
+Mana Wyrm
+Arcane Intellect
+Mana Bind
+Kirin Tor Mage
+Kirin Tor Mage
+Arcanologist
+Sorcerer's Apprentice
+Ghastly Conjurer
+Sorcerer's Apprentice
+Medivh's Valet
+Fireball
+Mana Wyrm
+Firelands Portal
+Primordial Glyph
+---------------------------------------
+Winrate - 39,5061728395062
+Primordial Glyph
+Sorcerer's Apprentice
+Ghastly Conjurer
+Vaporize
+Arcane Intellect
+Frostbolt
+Arcanologist
+Mana Wyrm
+Medivh's Valet
+Fireball
+Firelands Portal
+Mana Wyrm
+Counterspell
+Medivh's Valet
+Archmage Antonidas
+Kirin Tor Mage
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Mirror Entity
+Kabal Crystal Runner
+Arcanologist
+Firelands Portal
+Primordial Glyph
+Arcane Intellect
+Counterspell
+Burgly Bully
+Kirin Tor Mage
+The Black Knight
+Mana Bind
+Fireball
+---------------------------------------
+Winrate - 39,5061728395062
+Counterspell
+Mana Bind
+Counterspell
+Arcane Golem
+Burgly Bully
+Kirin Tor Mage
+Arcanologist
+Ghastly Conjurer
+Primordial Glyph
+Sorcerer's Apprentice
+Arcanologist
+Kabal Crystal Runner
+Firelands Portal
+Fireball
+Archmage Antonidas
+Mana Wyrm
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcane Intellect
+Fireball
+Firelands Portal
+Frostbolt
+Mirror Entity
+The Black Knight
+Arcane Intellect
+Kirin Tor Mage
+Medivh's Valet
+Mana Wyrm
+Primordial Glyph
+Frostbolt
+---------------------------------------
+Winrate - 39,5061728395062
+Frostbolt
+Mana Wyrm
+Mana Wyrm
+Mirror Entity
+Firelands Portal
+Kabal Crystal Runner
+Kirin Tor Mage
+Sorcerer's Apprentice
+Ghastly Conjurer
+Primordial Glyph
+Sorcerer's Apprentice
+Mirror Entity
+Medivh's Valet
+Arcane Intellect
+Burgly Bully
+The Black Knight
+Mana Bind
+Counterspell
+Arcanologist
+Arcane Intellect
+Archmage Antonidas
+Fireball
+Fireball
+Firelands Portal
+Primordial Glyph
+Arcanologist
+Counterspell
+Kirin Tor Mage
+Kabal Crystal Runner
+Frostbolt
+---------------------------------------
+Winrate - 40,7407407407407
+The Black Knight
+Burgly Bully
+Dirty Rat
+Arcanologist
+Kabal Crystal Runner
+Kabal Crystal Runner
+Counterspell
+Arcane Intellect
+Mirror Entity
+Frostbolt
+Ghastly Conjurer
+Primordial Glyph
+Primordial Glyph
+Kirin Tor Mage
+Fireball
+Firelands Portal
+Arcane Intellect
+Mana Wyrm
+Sorcerer's Apprentice
+Firelands Portal
+Mana Bind
+Archmage Antonidas
+Medivh's Valet
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+Counterspell
+Arcanologist
+Medivh's Valet
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 40,7407407407407
+Burgly Bully
+Murloc Tidecaller
+Primordial Glyph
+Archmage Antonidas
+Fireball
+Counterspell
+Firelands Portal
+Ghastly Conjurer
+Frostbolt
+Primordial Glyph
+Kirin Tor Mage
+Fireball
+Mirror Entity
+Kabal Crystal Runner
+Counterspell
+Mana Bind
+Arcanologist
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcanologist
+Medivh's Valet
+Medivh's Valet
+Arcane Intellect
+Mana Wyrm
+Sorcerer's Apprentice
+Mana Wyrm
+The Black Knight
+Arcane Intellect
+---------------------------------------
+Winrate - 40,7407407407407
+Burgly Bully
+Frostbolt
+Counterspell
+Devilsaur Egg
+Sorcerer's Apprentice
+Kirin Tor Mage
+Kirin Tor Mage
+Medivh's Valet
+Mana Wyrm
+The Black Knight
+Mana Bind
+Ghastly Conjurer
+Kabal Crystal Runner
+Kabal Crystal Runner
+Arcane Intellect
+Arcane Intellect
+Primordial Glyph
+Mirror Entity
+Firelands Portal
+Archmage Antonidas
+Fireball
+Arcanologist
+Primordial Glyph
+Mana Wyrm
+Sorcerer's Apprentice
+Counterspell
+Medivh's Valet
+Arcanologist
+Fireball
+Firelands Portal
+---------------------------------------
+Winrate - 40,7407407407407
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+Frozen Clone
+Mana Wyrm
+Ghastly Conjurer
+Arcanologist
+Counterspell
+Kabal Crystal Runner
+Mana Bind
+Firelands Portal
+Burgly Bully
+Fireball
+Counterspell
+Sorcerer's Apprentice
+The Black Knight
+Mirror Entity
+Archmage Antonidas
+Sorcerer's Apprentice
+Primordial Glyph
+Mana Wyrm
+Frostbolt
+Kirin Tor Mage
+Kirin Tor Mage
+Medivh's Valet
+Arcane Intellect
+Frostbolt
+Fireball
+Kabal Crystal Runner
+Arcanologist
+---------------------------------------
+Winrate - 40,7407407407407
+Arcane Intellect
+Kirin Tor Mage
+Millhouse Manastorm
+Firelands Portal
+Primordial Glyph
+Medivh's Valet
+Fireball
+Ghastly Conjurer
+Primordial Glyph
+Mirror Entity
+Arcane Intellect
+Arcanologist
+Counterspell
+Mana Wyrm
+Archmage Antonidas
+Kirin Tor Mage
+Firelands Portal
+Arcanologist
+Counterspell
+Kabal Crystal Runner
+Kabal Crystal Runner
+Frostbolt
+Mana Wyrm
+The Black Knight
+Mana Bind
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Fireball
+Medivh's Valet
+Burgly Bully
+---------------------------------------
+Winrate - 41,9753086419753
+Archmage Antonidas
+Tentacle of N'Zoth
+Mana Wyrm
+Burgly Bully
+The Black Knight
+Firelands Portal
+Kabal Crystal Runner
+Mana Wyrm
+Frostbolt
+Counterspell
+Medivh's Valet
+Sorcerer's Apprentice
+Arcanologist
+Counterspell
+Sorcerer's Apprentice
+Arcane Intellect
+Kirin Tor Mage
+Firelands Portal
+Primordial Glyph
+Mirror Entity
+Kirin Tor Mage
+Ghastly Conjurer
+Mana Bind
+Medivh's Valet
+Kabal Crystal Runner
+Fireball
+Arcanologist
+Arcane Intellect
+Fireball
+Primordial Glyph
+---------------------------------------
+Winrate - 41,9753086419753
+Frostbolt
+Stonetusk Boar
+Arcanologist
+Primordial Glyph
+Kabal Crystal Runner
+Burgly Bully
+Mana Bind
+Mana Wyrm
+Ghastly Conjurer
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Archmage Antonidas
+Kirin Tor Mage
+Mirror Entity
+Arcanologist
+Counterspell
+Mana Wyrm
+Firelands Portal
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+The Black Knight
+Frostbolt
+Counterspell
+Firelands Portal
+Medivh's Valet
+Primordial Glyph
+Fireball
+Arcane Intellect
+Kirin Tor Mage
+---------------------------------------
+Winrate - 41,9753086419753
+Mirror Entity
+Kabal Crystal Runner
+Arcanologist
+Acolyte of Pain
+The Black Knight
+Kabal Crystal Runner
+Mana Wyrm
+Arcane Intellect
+Fireball
+Archmage Antonidas
+Kirin Tor Mage
+Firelands Portal
+Medivh's Valet
+Mana Wyrm
+Kirin Tor Mage
+Arcane Intellect
+Fireball
+Primordial Glyph
+Firelands Portal
+Counterspell
+Arcanologist
+Burgly Bully
+Primordial Glyph
+Mana Bind
+Ghastly Conjurer
+Sorcerer's Apprentice
+Medivh's Valet
+Frostbolt
+Sorcerer's Apprentice
+Counterspell
+---------------------------------------
+Winrate - 41,9753086419753
+Archmage Antonidas
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Wolfrider
+The Black Knight
+Burgly Bully
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Firelands Portal
+Mirror Entity
+Kirin Tor Mage
+Mana Wyrm
+Ghastly Conjurer
+Frostbolt
+Fireball
+Fireball
+Firelands Portal
+Primordial Glyph
+Arcane Intellect
+Counterspell
+Counterspell
+Kabal Crystal Runner
+Arcane Intellect
+Sorcerer's Apprentice
+Medivh's Valet
+Arcanologist
+Medivh's Valet
+Mana Bind
+Arcanologist
+---------------------------------------
+Winrate - 41,9753086419753
+Primordial Glyph
+Fireball
+Kabal Crystal Runner
+Mana Bind
+Arcane Intellect
+Arcane Intellect
+Sorcerer's Apprentice
+Mana Wyrm
+Sorcerer's Apprentice
+Mirror Entity
+Medivh's Valet
+Counterspell
+Archmage Antonidas
+Fireball
+Kirin Tor Mage
+Kabal Crystal Runner
+Firelands Portal
+Mana Bind
+Primordial Glyph
+Arcanologist
+Firelands Portal
+The Black Knight
+Medivh's Valet
+Arcanologist
+Mana Wyrm
+Counterspell
+Frostbolt
+Burgly Bully
+Ghastly Conjurer
+Kirin Tor Mage
+---------------------------------------
+Winrate - 41,9753086419753
+Sorcerer's Apprentice
+Medivh's Valet
+Kabal Crystal Runner
+Coldlight Oracle
+Counterspell
+Firelands Portal
+Frostbolt
+Arcane Intellect
+Fireball
+Arcanologist
+Arcanologist
+Firelands Portal
+The Black Knight
+Kirin Tor Mage
+Burgly Bully
+Frostbolt
+Counterspell
+Primordial Glyph
+Fireball
+Mana Bind
+Sorcerer's Apprentice
+Mirror Entity
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Arcane Intellect
+Mana Wyrm
+Archmage Antonidas
+Kabal Crystal Runner
+Ghastly Conjurer
+---------------------------------------
+Winrate - 41,9753086419753
+Firelands Portal
+Ghastly Conjurer
+Counterspell
+Wolfrider
+Mana Bind
+Kirin Tor Mage
+Mana Wyrm
+Kabal Crystal Runner
+Burgly Bully
+Sorcerer's Apprentice
+The Black Knight
+Medivh's Valet
+Fireball
+Counterspell
+Firelands Portal
+Arcane Intellect
+Archmage Antonidas
+Mirror Entity
+Fireball
+Kabal Crystal Runner
+Primordial Glyph
+Primordial Glyph
+Frostbolt
+Kirin Tor Mage
+Arcane Intellect
+Mana Wyrm
+Frostbolt
+Arcanologist
+Sorcerer's Apprentice
+Arcanologist
+---------------------------------------
+Winrate - 41,9753086419753
+Sorcerer's Apprentice
+Mana Wyrm
+Dirty Rat
+Ghastly Conjurer
+Arcane Intellect
+Archmage Antonidas
+Mana Bind
+Medivh's Valet
+Kirin Tor Mage
+Fireball
+Arcane Intellect
+Burgly Bully
+Arcanologist
+Fireball
+Kabal Crystal Runner
+Counterspell
+Arcanologist
+Kirin Tor Mage
+Frostbolt
+Counterspell
+Primordial Glyph
+Firelands Portal
+The Black Knight
+Firelands Portal
+Sorcerer's Apprentice
+Primordial Glyph
+Mirror Entity
+Frostbolt
+Mana Wyrm
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 43,2098765432099
+Frostbolt
+Sorcerer's Apprentice
+Arcanologist
+Alarm-o-Bot
+Firelands Portal
+Arcane Intellect
+The Black Knight
+Medivh's Valet
+Fireball
+Primordial Glyph
+Counterspell
+Fireball
+Mirror Entity
+Ghastly Conjurer
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Firelands Portal
+Burgly Bully
+Medivh's Valet
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcane Intellect
+Primordial Glyph
+Mana Wyrm
+Arcanologist
+Counterspell
+Mana Wyrm
+Mana Bind
+Archmage Antonidas
+Kirin Tor Mage
+---------------------------------------
+Winrate - 43,2098765432099
+Arcane Intellect
+Firelands Portal
+Crazed Alchemist
+Counterspell
+Arcanologist
+Medivh's Valet
+Burgly Bully
+Primordial Glyph
+Kabal Crystal Runner
+Ghastly Conjurer
+Mana Wyrm
+Arcane Intellect
+Mana Bind
+Arcanologist
+Mana Wyrm
+Kirin Tor Mage
+Archmage Antonidas
+Sorcerer's Apprentice
+Fireball
+Firelands Portal
+The Black Knight
+Counterspell
+Medivh's Valet
+Kirin Tor Mage
+Sorcerer's Apprentice
+Mirror Entity
+Frostbolt
+Primordial Glyph
+Fireball
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 43,2098765432099
+Medivh's Valet
+Grimscale Oracle
+Firelands Portal
+Arcanologist
+Kabal Crystal Runner
+Kirin Tor Mage
+The Black Knight
+Mana Bind
+Frostbolt
+Sorcerer's Apprentice
+Medivh's Valet
+Burgly Bully
+Firelands Portal
+Counterspell
+Arcanologist
+Archmage Antonidas
+Fireball
+Fireball
+Kirin Tor Mage
+Mirror Entity
+Arcane Intellect
+Primordial Glyph
+Counterspell
+Primordial Glyph
+Mana Wyrm
+Arcane Intellect
+Ghastly Conjurer
+Mana Wyrm
+Sorcerer's Apprentice
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 43,2098765432099
+Arcane Intellect
+Fireball
+The Black Knight
+Ice Block
+Ghastly Conjurer
+Mirror Entity
+Kirin Tor Mage
+Arcanologist
+Burgly Bully
+Primordial Glyph
+Kirin Tor Mage
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Mana Wyrm
+Frostbolt
+Frostbolt
+Mana Wyrm
+Arcanologist
+Archmage Antonidas
+Sorcerer's Apprentice
+Fireball
+Counterspell
+Mana Bind
+Medivh's Valet
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Counterspell
+Arcane Intellect
+---------------------------------------
+Winrate - 43,2098765432099
+Kabal Crystal Runner
+Firelands Portal
+Primordial Glyph
+Doomed Apprentice
+Frostbolt
+The Black Knight
+Arcane Intellect
+Arcanologist
+Frostbolt
+Kirin Tor Mage
+Ghastly Conjurer
+Burgly Bully
+Kirin Tor Mage
+Mirror Entity
+Kabal Crystal Runner
+Counterspell
+Firelands Portal
+Mana Wyrm
+Fireball
+Arcane Intellect
+Mana Wyrm
+Sorcerer's Apprentice
+Counterspell
+Arcanologist
+Mana Bind
+Medivh's Valet
+Archmage Antonidas
+Fireball
+Sorcerer's Apprentice
+Primordial Glyph
+---------------------------------------
+Winrate - 43,2098765432099
+Sorcerer's Apprentice
+Mana Wyrm
+Arcane Intellect
+Ice Barrier
+Frostbolt
+Kirin Tor Mage
+Fireball
+Counterspell
+Fireball
+Kirin Tor Mage
+Mirror Entity
+Primordial Glyph
+Kabal Crystal Runner
+Arcanologist
+Ghastly Conjurer
+Sorcerer's Apprentice
+Firelands Portal
+Mana Bind
+Firelands Portal
+The Black Knight
+Counterspell
+Arcane Intellect
+Burgly Bully
+Mana Wyrm
+Frostbolt
+Primordial Glyph
+Archmage Antonidas
+Medivh's Valet
+Arcanologist
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 43,2098765432099
+Mana Wyrm
+Sorcerer's Apprentice
+Ancient Watcher
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcane Intellect
+Kabal Crystal Runner
+Medivh's Valet
+Fireball
+The Black Knight
+Archmage Antonidas
+Medivh's Valet
+Frostbolt
+Arcane Intellect
+Mana Bind
+Burgly Bully
+Sorcerer's Apprentice
+Fireball
+Counterspell
+Arcanologist
+Firelands Portal
+Counterspell
+Mana Wyrm
+Firelands Portal
+Mirror Entity
+Primordial Glyph
+Arcanologist
+Kirin Tor Mage
+Ghastly Conjurer
+Primordial Glyph
+---------------------------------------
+Winrate - 43,2098765432099
+Sorcerer's Apprentice
+Kirin Tor Mage
+Kobold Geomancer
+Firelands Portal
+Arcanologist
+Archmage Antonidas
+Ghastly Conjurer
+Kabal Crystal Runner
+Medivh's Valet
+Primordial Glyph
+Arcane Intellect
+Fireball
+Kabal Crystal Runner
+Counterspell
+Arcanologist
+Firelands Portal
+Mana Wyrm
+Arcane Intellect
+Frostbolt
+Mana Bind
+Counterspell
+Kirin Tor Mage
+Primordial Glyph
+Sorcerer's Apprentice
+Mana Wyrm
+Fireball
+The Black Knight
+Burgly Bully
+Medivh's Valet
+Mirror Entity
+---------------------------------------
+Winrate - 43,2098765432099
+Frostbolt
+Firelands Portal
+Duskboar
+Counterspell
+Primordial Glyph
+Fireball
+Arcane Intellect
+The Black Knight
+Burgly Bully
+Kabal Crystal Runner
+Kabal Crystal Runner
+Kirin Tor Mage
+Firelands Portal
+Sorcerer's Apprentice
+Mana Wyrm
+Counterspell
+Ghastly Conjurer
+Arcanologist
+Mirror Entity
+Primordial Glyph
+Arcane Intellect
+Mana Bind
+Medivh's Valet
+Mana Wyrm
+Arcanologist
+Archmage Antonidas
+Kirin Tor Mage
+Medivh's Valet
+Sorcerer's Apprentice
+Fireball
+---------------------------------------
+Winrate - 43,2098765432099
+Arcanologist
+Primordial Glyph
+River Crocolisk
+Counterspell
+Medivh's Valet
+Arcanologist
+Fireball
+Firelands Portal
+Arcane Intellect
+Kabal Crystal Runner
+Firelands Portal
+Fireball
+Sorcerer's Apprentice
+Kirin Tor Mage
+Mana Wyrm
+Ghastly Conjurer
+Arcane Intellect
+Medivh's Valet
+Mana Bind
+Kirin Tor Mage
+Frostbolt
+The Black Knight
+Kabal Crystal Runner
+Counterspell
+Burgly Bully
+Primordial Glyph
+Sorcerer's Apprentice
+Archmage Antonidas
+Mirror Entity
+Mana Wyrm
+---------------------------------------
+Winrate - 43,2098765432099
+Sorcerer's Apprentice
+Archmage Antonidas
+Kabal Crystal Runner
+Magma Rager
+Arcanologist
+Firelands Portal
+Primordial Glyph
+Medivh's Valet
+Fireball
+Arcane Intellect
+Kirin Tor Mage
+Mana Wyrm
+Counterspell
+Kabal Crystal Runner
+Medivh's Valet
+Arcane Intellect
+Firelands Portal
+Ghastly Conjurer
+Primordial Glyph
+Arcanologist
+Sorcerer's Apprentice
+The Black Knight
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+Mana Bind
+Frostbolt
+Counterspell
+Burgly Bully
+Mirror Entity
+---------------------------------------
+Winrate - 43,2098765432099
+Sorcerer's Apprentice
+Arcanologist
+Gadgetzan Socialite
+Mana Wyrm
+Ghastly Conjurer
+Kabal Crystal Runner
+Kabal Crystal Runner
+Counterspell
+Mana Bind
+Arcane Intellect
+Kirin Tor Mage
+Arcane Intellect
+Frostbolt
+Arcanologist
+Fireball
+Burgly Bully
+Firelands Portal
+Firelands Portal
+Medivh's Valet
+Frostbolt
+Mana Wyrm
+Mirror Entity
+Counterspell
+Primordial Glyph
+Archmage Antonidas
+Fireball
+The Black Knight
+Sorcerer's Apprentice
+Primordial Glyph
+Kirin Tor Mage
+---------------------------------------
+Winrate - 43,2098765432099
+Primordial Glyph
+Frostbolt
+Mana Bind
+Simulacrum
+Kirin Tor Mage
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+Sorcerer's Apprentice
+Kirin Tor Mage
+Primordial Glyph
+Burgly Bully
+Counterspell
+Firelands Portal
+Counterspell
+Arcanologist
+Kabal Crystal Runner
+Mana Wyrm
+Frostbolt
+Mana Wyrm
+Medivh's Valet
+The Black Knight
+Firelands Portal
+Fireball
+Arcanologist
+Arcane Intellect
+Ghastly Conjurer
+Archmage Antonidas
+Mirror Entity
+---------------------------------------
+Winrate - 44,4444444444444
+Firelands Portal
+Arcanologist
+Ancient Watcher
+The Black Knight
+Ghastly Conjurer
+Frostbolt
+Primordial Glyph
+Kirin Tor Mage
+Counterspell
+Sorcerer's Apprentice
+Burgly Bully
+Mana Wyrm
+Fireball
+Mana Bind
+Medivh's Valet
+Arcanologist
+Frostbolt
+Counterspell
+Primordial Glyph
+Kabal Crystal Runner
+Arcane Intellect
+Sorcerer's Apprentice
+Arcane Intellect
+Kabal Crystal Runner
+Mirror Entity
+Firelands Portal
+Archmage Antonidas
+Mana Wyrm
+Fireball
+Kirin Tor Mage
+---------------------------------------
+Winrate - 44,4444444444444
+Arcanologist
+Medivh's Valet
+Netherspite Historian
+Frostbolt
+The Black Knight
+Counterspell
+Mana Wyrm
+Kirin Tor Mage
+Arcane Intellect
+Burgly Bully
+Kirin Tor Mage
+Arcanologist
+Kabal Crystal Runner
+Primordial Glyph
+Arcane Intellect
+Sorcerer's Apprentice
+Mirror Entity
+Fireball
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Fireball
+Sorcerer's Apprentice
+Ghastly Conjurer
+Firelands Portal
+Mana Bind
+Counterspell
+Archmage Antonidas
+Medivh's Valet
+Mana Wyrm
+---------------------------------------
+Winrate - 44,4444444444444
+Frostbolt
+Angry Chicken
+Mana Wyrm
+Burgly Bully
+Arcane Intellect
+Sorcerer's Apprentice
+Firelands Portal
+Primordial Glyph
+Fireball
+Mirror Entity
+Frostbolt
+Archmage Antonidas
+Primordial Glyph
+Arcane Intellect
+Ghastly Conjurer
+Firelands Portal
+Kabal Crystal Runner
+Counterspell
+Medivh's Valet
+Mana Wyrm
+Counterspell
+Arcanologist
+The Black Knight
+Kirin Tor Mage
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Mana Bind
+Kirin Tor Mage
+Arcanologist
+Fireball
+---------------------------------------
+Winrate - 44,4444444444444
+Arcanologist
+Bloodsail Corsair
+Kabal Crystal Runner
+Arcane Intellect
+Frostbolt
+Kirin Tor Mage
+Mirror Entity
+Fireball
+Mana Bind
+Arcanologist
+Medivh's Valet
+Primordial Glyph
+Primordial Glyph
+Kabal Crystal Runner
+Counterspell
+Mana Wyrm
+Archmage Antonidas
+Counterspell
+Firelands Portal
+Arcane Intellect
+Burgly Bully
+Sorcerer's Apprentice
+Firelands Portal
+Sorcerer's Apprentice
+The Black Knight
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+Medivh's Valet
+Ghastly Conjurer
+---------------------------------------
+Winrate - 44,4444444444444
+Arcanologist
+Medivh's Valet
+Lorewalker Cho
+Fireball
+Sorcerer's Apprentice
+Arcanologist
+Frostbolt
+Ghastly Conjurer
+Firelands Portal
+Archmage Antonidas
+Mana Wyrm
+Sorcerer's Apprentice
+Frostbolt
+Fireball
+Counterspell
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Counterspell
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Firelands Portal
+Burgly Bully
+The Black Knight
+Mirror Entity
+Mana Bind
+Kabal Crystal Runner
+Arcane Intellect
+Arcane Intellect
+---------------------------------------
+Winrate - 44,4444444444444
+Archmage Antonidas
+Mirror Entity
+Pyros
+Primordial Glyph
+Sorcerer's Apprentice
+Kirin Tor Mage
+Primordial Glyph
+Fireball
+Arcane Intellect
+Arcanologist
+The Black Knight
+Sorcerer's Apprentice
+Fireball
+Arcanologist
+Ghastly Conjurer
+Firelands Portal
+Mana Bind
+Kabal Crystal Runner
+Arcane Intellect
+Mana Wyrm
+Frostbolt
+Kabal Crystal Runner
+Counterspell
+Medivh's Valet
+Burgly Bully
+Kirin Tor Mage
+Medivh's Valet
+Mana Wyrm
+Firelands Portal
+Counterspell
+---------------------------------------
+Winrate - 44,4444444444444
+Sorcerer's Apprentice
+Medivh's Valet
+River Crocolisk
+Arcanologist
+Frostbolt
+Kirin Tor Mage
+Mana Wyrm
+Burgly Bully
+Primordial Glyph
+Kabal Crystal Runner
+Arcane Intellect
+Mana Bind
+Arcane Intellect
+Primordial Glyph
+Counterspell
+Counterspell
+The Black Knight
+Firelands Portal
+Frostbolt
+Mirror Entity
+Kirin Tor Mage
+Kabal Crystal Runner
+Ghastly Conjurer
+Fireball
+Mana Wyrm
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Arcanologist
+Archmage Antonidas
+---------------------------------------
+Winrate - 44,4444444444444
+Arcanologist
+Firelands Portal
+Shimmering Tempest
+Kirin Tor Mage
+Primordial Glyph
+Arcane Intellect
+Firelands Portal
+Counterspell
+Primordial Glyph
+Arcanologist
+Medivh's Valet
+Counterspell
+Sorcerer's Apprentice
+Mana Wyrm
+Arcane Intellect
+Archmage Antonidas
+Kabal Crystal Runner
+Mana Bind
+Fireball
+Ghastly Conjurer
+Frostbolt
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Mirror Entity
+The Black Knight
+Kirin Tor Mage
+Mana Wyrm
+Medivh's Valet
+Burgly Bully
+---------------------------------------
+Winrate - 44,4444444444444
+Arcanologist
+Archmage Antonidas
+Arcane Explosion
+Counterspell
+Kabal Crystal Runner
+Firelands Portal
+Primordial Glyph
+Mana Wyrm
+Fireball
+Burgly Bully
+Sorcerer's Apprentice
+The Black Knight
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Mirror Entity
+Arcane Intellect
+Counterspell
+Ghastly Conjurer
+Kirin Tor Mage
+Sorcerer's Apprentice
+Frostbolt
+Frostbolt
+Arcane Intellect
+Firelands Portal
+Arcanologist
+Mana Bind
+Medivh's Valet
+Fireball
+---------------------------------------
+Winrate - 44,4444444444444
+Fireball
+Medivh's Valet
+Doomsayer
+Firelands Portal
+Arcanologist
+Ghastly Conjurer
+Kabal Crystal Runner
+Kirin Tor Mage
+Frostbolt
+Mana Wyrm
+Mana Bind
+Sorcerer's Apprentice
+The Black Knight
+Arcanologist
+Arcane Intellect
+Primordial Glyph
+Archmage Antonidas
+Counterspell
+Burgly Bully
+Counterspell
+Sorcerer's Apprentice
+Kirin Tor Mage
+Frostbolt
+Arcane Intellect
+Mana Wyrm
+Kabal Crystal Runner
+Primordial Glyph
+Mirror Entity
+Fireball
+Firelands Portal
+---------------------------------------
+Winrate - 44,4444444444444
+Fireball
+Archmage Antonidas
+Blowgill Sniper
+Sorcerer's Apprentice
+Mirror Entity
+Arcanologist
+Frostbolt
+Frostbolt
+Arcane Intellect
+Fireball
+Counterspell
+Kirin Tor Mage
+Mana Wyrm
+Kirin Tor Mage
+Arcane Intellect
+Kabal Crystal Runner
+Arcanologist
+Primordial Glyph
+Counterspell
+Firelands Portal
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Sorcerer's Apprentice
+Mana Bind
+Burgly Bully
+The Black Knight
+Medivh's Valet
+Ghastly Conjurer
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 44,4444444444444
+Arcanologist
+Deadscale Knight
+Sorcerer's Apprentice
+Kirin Tor Mage
+Archmage Antonidas
+Kabal Crystal Runner
+Primordial Glyph
+Fireball
+Arcane Intellect
+Mana Wyrm
+Mana Wyrm
+Frostbolt
+Mana Bind
+Arcanologist
+Arcane Intellect
+Ghastly Conjurer
+Kirin Tor Mage
+Primordial Glyph
+Medivh's Valet
+Counterspell
+Firelands Portal
+Burgly Bully
+Counterspell
+The Black Knight
+Kabal Crystal Runner
+Mirror Entity
+Frostbolt
+Sorcerer's Apprentice
+Firelands Portal
+Fireball
+---------------------------------------
+Winrate - 44,4444444444444
+Frostbolt
+Lightwarden
+Mana Wyrm
+Primordial Glyph
+Kabal Crystal Runner
+Mana Bind
+Arcane Intellect
+Kirin Tor Mage
+The Black Knight
+Counterspell
+Mana Wyrm
+Primordial Glyph
+Arcanologist
+Kirin Tor Mage
+Fireball
+Firelands Portal
+Sorcerer's Apprentice
+Medivh's Valet
+Kabal Crystal Runner
+Counterspell
+Mirror Entity
+Sorcerer's Apprentice
+Medivh's Valet
+Arcane Intellect
+Fireball
+Burgly Bully
+Ghastly Conjurer
+Archmage Antonidas
+Arcanologist
+Firelands Portal
+---------------------------------------
+Winrate - 44,4444444444444
+Sorcerer's Apprentice
+Ghastly Conjurer
+Primordial Glyph
+Ironbeak Owl
+Counterspell
+Kirin Tor Mage
+Archmage Antonidas
+Kabal Crystal Runner
+Fireball
+Medivh's Valet
+Mana Bind
+Mana Wyrm
+Arcane Intellect
+Medivh's Valet
+Kirin Tor Mage
+Sorcerer's Apprentice
+Firelands Portal
+Mirror Entity
+Arcanologist
+Arcane Intellect
+Frostbolt
+Mana Wyrm
+The Black Knight
+Burgly Bully
+Kabal Crystal Runner
+Arcanologist
+Fireball
+Counterspell
+Primordial Glyph
+Firelands Portal
+---------------------------------------
+Winrate - 44,4444444444444
+Medivh's Valet
+Primordial Glyph
+Primordial Glyph
+Frost Nova
+Kirin Tor Mage
+Counterspell
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+Mana Wyrm
+Mana Bind
+The Black Knight
+Sorcerer's Apprentice
+Fireball
+Firelands Portal
+Frostbolt
+Counterspell
+Arcanologist
+Kabal Crystal Runner
+Arcane Intellect
+Mirror Entity
+Kabal Crystal Runner
+Archmage Antonidas
+Sorcerer's Apprentice
+Ghastly Conjurer
+Medivh's Valet
+Firelands Portal
+Burgly Bully
+Arcane Intellect
+Arcanologist
+---------------------------------------
+Winrate - 44,4444444444444
+The Black Knight
+Arcane Intellect
+Burgly Bully
+Drakkari Enchanter
+Sorcerer's Apprentice
+Primordial Glyph
+Ghastly Conjurer
+Medivh's Valet
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Kirin Tor Mage
+Kirin Tor Mage
+Archmage Antonidas
+Kabal Crystal Runner
+Frostbolt
+Primordial Glyph
+Mana Wyrm
+Arcanologist
+Counterspell
+Arcane Intellect
+Arcanologist
+Mirror Entity
+Fireball
+Fireball
+Mana Wyrm
+Counterspell
+Firelands Portal
+Mana Bind
+Frostbolt
+Firelands Portal
+---------------------------------------
+Winrate - 45,679012345679
+Frostbolt
+Arcane Intellect
+Ghastly Conjurer
+Alarm-o-Bot
+Archmage Antonidas
+Kirin Tor Mage
+Mana Bind
+Primordial Glyph
+Arcane Intellect
+Mirror Entity
+Primordial Glyph
+Fireball
+Counterspell
+Frostbolt
+Arcanologist
+Arcanologist
+Kabal Crystal Runner
+Firelands Portal
+Medivh's Valet
+Fireball
+Mana Wyrm
+Sorcerer's Apprentice
+Firelands Portal
+Sorcerer's Apprentice
+Burgly Bully
+Kirin Tor Mage
+The Black Knight
+Mana Wyrm
+Counterspell
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 45,679012345679
+Archmage Antonidas
+Primordial Glyph
+Doomsayer
+Kirin Tor Mage
+Kirin Tor Mage
+Arcane Intellect
+Sorcerer's Apprentice
+Medivh's Valet
+The Black Knight
+Arcanologist
+Arcanologist
+Mana Wyrm
+Kabal Crystal Runner
+Firelands Portal
+Firelands Portal
+Mana Bind
+Burgly Bully
+Ghastly Conjurer
+Fireball
+Sorcerer's Apprentice
+Mana Wyrm
+Arcane Intellect
+Counterspell
+Fireball
+Frostbolt
+Kabal Crystal Runner
+Primordial Glyph
+Medivh's Valet
+Counterspell
+Mirror Entity
+---------------------------------------
+Winrate - 45,679012345679
+Primordial Glyph
+Mirror Entity
+Firelands Portal
+Simulacrum
+Sorcerer's Apprentice
+Arcane Intellect
+Burgly Bully
+Fireball
+Primordial Glyph
+Mana Wyrm
+The Black Knight
+Kabal Crystal Runner
+Kirin Tor Mage
+Kirin Tor Mage
+Mana Bind
+Ghastly Conjurer
+Mana Wyrm
+Counterspell
+Medivh's Valet
+Archmage Antonidas
+Frostbolt
+Fireball
+Arcane Intellect
+Arcanologist
+Arcanologist
+Kabal Crystal Runner
+Counterspell
+Medivh's Valet
+Sorcerer's Apprentice
+Firelands Portal
+---------------------------------------
+Winrate - 45,679012345679
+Ghastly Conjurer
+Mirror Image
+Primordial Glyph
+Arcanologist
+Medivh's Valet
+Firelands Portal
+Medivh's Valet
+Kirin Tor Mage
+Mana Wyrm
+Counterspell
+Archmage Antonidas
+Counterspell
+Arcanologist
+Burgly Bully
+Kabal Crystal Runner
+Arcane Intellect
+The Black Knight
+Kirin Tor Mage
+Primordial Glyph
+Firelands Portal
+Mirror Entity
+Frostbolt
+Arcane Intellect
+Mana Wyrm
+Fireball
+Fireball
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Mana Bind
+---------------------------------------
+Winrate - 45,679012345679
+Archmage Antonidas
+Southsea Deckhand
+Kabal Crystal Runner
+Primordial Glyph
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Kirin Tor Mage
+Sorcerer's Apprentice
+Frostbolt
+Kirin Tor Mage
+The Black Knight
+Burgly Bully
+Fireball
+Mana Wyrm
+Primordial Glyph
+Mana Bind
+Arcanologist
+Ghastly Conjurer
+Arcane Intellect
+Frostbolt
+Mirror Entity
+Counterspell
+Medivh's Valet
+Firelands Portal
+Fireball
+Arcane Intellect
+Firelands Portal
+Mana Wyrm
+Counterspell
+---------------------------------------
+Winrate - 45,679012345679
+Mirror Entity
+Arcanologist
+Acidic Swamp Ooze
+Sorcerer's Apprentice
+Medivh's Valet
+Frostbolt
+Primordial Glyph
+Kirin Tor Mage
+Arcanologist
+Firelands Portal
+Burgly Bully
+Kabal Crystal Runner
+Arcane Intellect
+Mana Bind
+Frostbolt
+Kirin Tor Mage
+Arcane Intellect
+Kabal Crystal Runner
+Counterspell
+Archmage Antonidas
+The Black Knight
+Sorcerer's Apprentice
+Firelands Portal
+Counterspell
+Mana Wyrm
+Primordial Glyph
+Fireball
+Mana Wyrm
+Ghastly Conjurer
+Fireball
+---------------------------------------
+Winrate - 45,679012345679
+Counterspell
+Firelands Portal
+Shatter
+Arcane Intellect
+Primordial Glyph
+Counterspell
+Frostbolt
+Sorcerer's Apprentice
+Medivh's Valet
+Mana Bind
+Fireball
+Arcanologist
+Fireball
+Burgly Bully
+Sorcerer's Apprentice
+Archmage Antonidas
+Kabal Crystal Runner
+The Black Knight
+Kirin Tor Mage
+Arcanologist
+Mana Wyrm
+Kabal Crystal Runner
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Ghastly Conjurer
+Mirror Entity
+Arcane Intellect
+Firelands Portal
+Medivh's Valet
+---------------------------------------
+Winrate - 45,679012345679
+Mirror Entity
+Ghastly Conjurer
+Primordial Glyph
+Vaporize
+Counterspell
+Kirin Tor Mage
+Fireball
+Archmage Antonidas
+Kabal Crystal Runner
+Firelands Portal
+Firelands Portal
+Mana Wyrm
+Mana Wyrm
+Frostbolt
+Arcanologist
+Sorcerer's Apprentice
+Burgly Bully
+Kabal Crystal Runner
+Arcane Intellect
+Mana Bind
+Counterspell
+Arcanologist
+Primordial Glyph
+The Black Knight
+Fireball
+Medivh's Valet
+Arcane Intellect
+Sorcerer's Apprentice
+Kirin Tor Mage
+Frostbolt
+---------------------------------------
+Winrate - 45,679012345679
+Burgly Bully
+Firelands Portal
+Arcane Intellect
+Coldlight Oracle
+Sorcerer's Apprentice
+Primordial Glyph
+Fireball
+Mirror Entity
+Primordial Glyph
+Medivh's Valet
+Arcanologist
+Mana Bind
+Mana Wyrm
+Kirin Tor Mage
+The Black Knight
+Frostbolt
+Firelands Portal
+Fireball
+Kirin Tor Mage
+Medivh's Valet
+Kabal Crystal Runner
+Mana Wyrm
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Counterspell
+Counterspell
+Arcanologist
+Archmage Antonidas
+Ghastly Conjurer
+Arcane Intellect
+---------------------------------------
+Winrate - 45,679012345679
+Burgly Bully
+Mana Bind
+Mana Wyrm
+Silithid Swarmer
+Mana Wyrm
+Sorcerer's Apprentice
+Primordial Glyph
+Ghastly Conjurer
+Frostbolt
+Counterspell
+Medivh's Valet
+Counterspell
+Archmage Antonidas
+Sorcerer's Apprentice
+Kirin Tor Mage
+Medivh's Valet
+Arcanologist
+Mirror Entity
+Fireball
+Arcanologist
+Kabal Crystal Runner
+The Black Knight
+Kirin Tor Mage
+Arcane Intellect
+Fireball
+Kabal Crystal Runner
+Arcane Intellect
+Primordial Glyph
+Firelands Portal
+Firelands Portal
+---------------------------------------
+Winrate - 45,679012345679
+Kirin Tor Mage
+Patches the Pirate
+Ghastly Conjurer
+Mana Bind
+Mana Wyrm
+Burgly Bully
+Archmage Antonidas
+Primordial Glyph
+Kabal Crystal Runner
+Medivh's Valet
+Arcane Intellect
+Arcanologist
+Counterspell
+Mana Wyrm
+Frostbolt
+Kirin Tor Mage
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+Kabal Crystal Runner
+Sorcerer's Apprentice
+The Black Knight
+Mirror Entity
+Frostbolt
+Counterspell
+Fireball
+Sorcerer's Apprentice
+Fireball
+Arcanologist
+Firelands Portal
+---------------------------------------
+Winrate - 45,679012345679
+Fireball
+Firelands Portal
+Tuskarr Fisherman
+Mana Wyrm
+Counterspell
+Kabal Crystal Runner
+Medivh's Valet
+Mana Bind
+Kirin Tor Mage
+Frostbolt
+Archmage Antonidas
+Sorcerer's Apprentice
+Burgly Bully
+Arcane Intellect
+Mirror Entity
+Kirin Tor Mage
+Arcanologist
+Kabal Crystal Runner
+Medivh's Valet
+Sorcerer's Apprentice
+Arcanologist
+Counterspell
+Fireball
+Mana Wyrm
+Arcane Intellect
+The Black Knight
+Ghastly Conjurer
+Firelands Portal
+Primordial Glyph
+Primordial Glyph
+---------------------------------------
+Winrate - 45,679012345679
+Frostbolt
+Ghastly Conjurer
+Fireball
+Frozen Clone
+Fireball
+Sorcerer's Apprentice
+Kirin Tor Mage
+Archmage Antonidas
+Arcanologist
+Kirin Tor Mage
+Mana Wyrm
+Medivh's Valet
+Arcane Intellect
+Arcane Intellect
+Kabal Crystal Runner
+Mana Bind
+The Black Knight
+Firelands Portal
+Primordial Glyph
+Primordial Glyph
+Counterspell
+Medivh's Valet
+Burgly Bully
+Firelands Portal
+Counterspell
+Mirror Entity
+Sorcerer's Apprentice
+Mana Wyrm
+Arcanologist
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 46,9135802469136
+Primordial Glyph
+Sorcerer's Apprentice
+Arcane Intellect
+Deathspeaker
+Mirror Entity
+Frostbolt
+The Black Knight
+Mana Wyrm
+Counterspell
+Mana Bind
+Arcanologist
+Mana Wyrm
+Firelands Portal
+Primordial Glyph
+Ghastly Conjurer
+Sorcerer's Apprentice
+Arcane Intellect
+Firelands Portal
+Kabal Crystal Runner
+Counterspell
+Archmage Antonidas
+Frostbolt
+Kabal Crystal Runner
+Medivh's Valet
+Burgly Bully
+Fireball
+Kirin Tor Mage
+Arcanologist
+Fireball
+Kirin Tor Mage
+---------------------------------------
+Winrate - 46,9135802469136
+Firelands Portal
+Secretkeeper
+Ghastly Conjurer
+Archmage Antonidas
+Primordial Glyph
+Sorcerer's Apprentice
+Fireball
+Arcane Intellect
+Mirror Entity
+Primordial Glyph
+The Black Knight
+Arcanologist
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Frostbolt
+Kirin Tor Mage
+Burgly Bully
+Medivh's Valet
+Counterspell
+Firelands Portal
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Arcane Intellect
+Counterspell
+Arcanologist
+Mana Wyrm
+Mana Bind
+Frostbolt
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 46,9135802469136
+Archmage Antonidas
+Leper Gnome
+Fireball
+Sorcerer's Apprentice
+Burgly Bully
+Kirin Tor Mage
+Kabal Crystal Runner
+Mana Bind
+Ghastly Conjurer
+Mana Wyrm
+Counterspell
+Frostbolt
+Arcanologist
+Primordial Glyph
+Counterspell
+Mirror Entity
+Primordial Glyph
+Mana Wyrm
+Arcanologist
+The Black Knight
+Kirin Tor Mage
+Arcane Intellect
+Fireball
+Medivh's Valet
+Sorcerer's Apprentice
+Frostbolt
+Arcane Intellect
+Firelands Portal
+Firelands Portal
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 46,9135802469136
+Burgly Bully
+Deadscale Knight
+Mirror Entity
+Primordial Glyph
+Ghastly Conjurer
+Kabal Crystal Runner
+Fireball
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Arcane Intellect
+Medivh's Valet
+Firelands Portal
+Counterspell
+Arcane Intellect
+Medivh's Valet
+Frostbolt
+Mana Wyrm
+Arcanologist
+Mana Bind
+Archmage Antonidas
+Kirin Tor Mage
+The Black Knight
+Firelands Portal
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Counterspell
+---------------------------------------
+Winrate - 46,9135802469136
+Fireball
+Primordial Glyph
+Kirin Tor Mage
+Tinkmaster Overspark
+Firelands Portal
+Counterspell
+Medivh's Valet
+Medivh's Valet
+Burgly Bully
+Mana Wyrm
+Mana Bind
+Kabal Crystal Runner
+Arcane Intellect
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Arcanologist
+Kabal Crystal Runner
+Arcane Intellect
+Counterspell
+Kirin Tor Mage
+Mirror Entity
+Frostbolt
+Fireball
+Mana Wyrm
+Firelands Portal
+Primordial Glyph
+Ghastly Conjurer
+The Black Knight
+Arcanologist
+Archmage Antonidas
+---------------------------------------
+Winrate - 46,9135802469136
+Sorcerer's Apprentice
+Argent Squire
+Frostbolt
+Counterspell
+Kabal Crystal Runner
+Archmage Antonidas
+Fireball
+Sorcerer's Apprentice
+Arcane Intellect
+Firelands Portal
+Primordial Glyph
+Mana Wyrm
+Medivh's Valet
+Arcanologist
+Frostbolt
+Mana Bind
+Arcanologist
+Kirin Tor Mage
+Ghastly Conjurer
+Mirror Entity
+Kirin Tor Mage
+Kabal Crystal Runner
+Primordial Glyph
+Mana Wyrm
+The Black Knight
+Counterspell
+Burgly Bully
+Fireball
+Arcane Intellect
+Firelands Portal
+---------------------------------------
+Winrate - 46,9135802469136
+Sorcerer's Apprentice
+Murloc Raider
+Mirror Entity
+Arcane Intellect
+Firelands Portal
+Fireball
+Archmage Antonidas
+Primordial Glyph
+Firelands Portal
+Frostbolt
+Kabal Crystal Runner
+Kabal Crystal Runner
+Mana Wyrm
+Primordial Glyph
+Sorcerer's Apprentice
+Burgly Bully
+Arcanologist
+Frostbolt
+Mana Bind
+Counterspell
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Kirin Tor Mage
+Arcanologist
+Arcane Intellect
+Medivh's Valet
+Counterspell
+The Black Knight
+Ghastly Conjurer
+---------------------------------------
+Winrate - 46,9135802469136
+Burgly Bully
+Kabal Crystal Runner
+Tainted Zealot
+Counterspell
+Firelands Portal
+The Black Knight
+Arcanologist
+Sorcerer's Apprentice
+Mana Wyrm
+Mana Bind
+Primordial Glyph
+Archmage Antonidas
+Arcane Intellect
+Arcane Intellect
+Firelands Portal
+Kabal Crystal Runner
+Mana Wyrm
+Kirin Tor Mage
+Frostbolt
+Mirror Entity
+Arcanologist
+Kirin Tor Mage
+Primordial Glyph
+Sorcerer's Apprentice
+Ghastly Conjurer
+Fireball
+Fireball
+Medivh's Valet
+Medivh's Valet
+Counterspell
+---------------------------------------
+Winrate - 46,9135802469136
+Kabal Crystal Runner
+Medivh's Valet
+Youthful Brewmaster
+Mana Bind
+The Black Knight
+Arcanologist
+Sorcerer's Apprentice
+Primordial Glyph
+Primordial Glyph
+Firelands Portal
+Ghastly Conjurer
+Sorcerer's Apprentice
+Arcane Intellect
+Burgly Bully
+Counterspell
+Frostbolt
+Medivh's Valet
+Kirin Tor Mage
+Fireball
+Mana Wyrm
+Firelands Portal
+Kirin Tor Mage
+Archmage Antonidas
+Fireball
+Mana Wyrm
+Arcane Intellect
+Kabal Crystal Runner
+Counterspell
+Mirror Entity
+Arcanologist
+---------------------------------------
+Winrate - 46,9135802469136
+Arcanologist
+Breath of Sindragosa
+Kirin Tor Mage
+Sorcerer's Apprentice
+Ghastly Conjurer
+The Black Knight
+Counterspell
+Mana Bind
+Arcane Intellect
+Arcanologist
+Arcane Intellect
+Kirin Tor Mage
+Firelands Portal
+Counterspell
+Firelands Portal
+Sorcerer's Apprentice
+Fireball
+Primordial Glyph
+Frostbolt
+Burgly Bully
+Archmage Antonidas
+Fireball
+Mana Wyrm
+Mirror Entity
+Kabal Crystal Runner
+Mana Wyrm
+Primordial Glyph
+Medivh's Valet
+Kabal Crystal Runner
+Frostbolt
+---------------------------------------
+Winrate - 48,1481481481481
+Burgly Bully
+Kirin Tor Mage
+Mana Wraith
+Primordial Glyph
+Firelands Portal
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+Medivh's Valet
+Sorcerer's Apprentice
+Counterspell
+Sorcerer's Apprentice
+Mirror Entity
+Mana Wyrm
+Primordial Glyph
+Arcane Intellect
+Frostbolt
+Fireball
+Mana Bind
+Archmage Antonidas
+Ghastly Conjurer
+Medivh's Valet
+Firelands Portal
+Arcane Intellect
+Kabal Crystal Runner
+Kirin Tor Mage
+Counterspell
+The Black Knight
+Arcanologist
+Arcanologist
+---------------------------------------
+Winrate - 48,1481481481481
+Counterspell
+The Black Knight
+Arcane Intellect
+Blood Knight
+Fireball
+Counterspell
+Sorcerer's Apprentice
+Firelands Portal
+Mana Bind
+Firelands Portal
+Kirin Tor Mage
+Frostbolt
+Primordial Glyph
+Kabal Crystal Runner
+Arcanologist
+Mana Wyrm
+Sorcerer's Apprentice
+Primordial Glyph
+Burgly Bully
+Archmage Antonidas
+Ghastly Conjurer
+Fireball
+Medivh's Valet
+Arcane Intellect
+Mirror Entity
+Arcanologist
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Medivh's Valet
+---------------------------------------
+Winrate - 48,1481481481481
+Fireball
+Kabal Crystal Runner
+Kabal Crystal Runner
+Drakkari Enchanter
+Archmage Antonidas
+The Black Knight
+Counterspell
+Counterspell
+Arcane Intellect
+Firelands Portal
+Mana Bind
+Mana Wyrm
+Mirror Entity
+Firelands Portal
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+Medivh's Valet
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Ghastly Conjurer
+Arcanologist
+Arcanologist
+Sorcerer's Apprentice
+Medivh's Valet
+Kirin Tor Mage
+Primordial Glyph
+Burgly Bully
+Arcane Intellect
+---------------------------------------
+Winrate - 48,1481481481481
+Mana Wyrm
+Hungry Crab
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Fireball
+Ghastly Conjurer
+Firelands Portal
+Mana Wyrm
+Primordial Glyph
+Kabal Crystal Runner
+Burgly Bully
+Fireball
+Kirin Tor Mage
+Arcanologist
+Counterspell
+Counterspell
+Arcanologist
+Mirror Entity
+Kirin Tor Mage
+Kabal Crystal Runner
+The Black Knight
+Arcane Intellect
+Medivh's Valet
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+Mana Bind
+Frostbolt
+Archmage Antonidas
+Medivh's Valet
+---------------------------------------
+Winrate - 48,1481481481481
+Burgly Bully
+Mana Wyrm
+Mana Bind
+Moroes
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+Kirin Tor Mage
+Sorcerer's Apprentice
+Primordial Glyph
+Sorcerer's Apprentice
+Firelands Portal
+Kabal Crystal Runner
+Arcane Intellect
+Firelands Portal
+Medivh's Valet
+Counterspell
+Frostbolt
+Fireball
+Counterspell
+The Black Knight
+Arcanologist
+Ghastly Conjurer
+Archmage Antonidas
+Primordial Glyph
+Arcanologist
+Mirror Entity
+Kirin Tor Mage
+Frostbolt
+Arcane Intellect
+---------------------------------------
+Winrate - 48,1481481481481
+Primordial Glyph
+Open the Waygate
+Frostbolt
+Kabal Crystal Runner
+Kirin Tor Mage
+Kabal Crystal Runner
+The Black Knight
+Mirror Entity
+Ghastly Conjurer
+Mana Wyrm
+Archmage Antonidas
+Fireball
+Counterspell
+Firelands Portal
+Arcanologist
+Arcane Intellect
+Burgly Bully
+Arcanologist
+Counterspell
+Mana Bind
+Sorcerer's Apprentice
+Primordial Glyph
+Mana Wyrm
+Arcane Intellect
+Medivh's Valet
+Medivh's Valet
+Kirin Tor Mage
+Firelands Portal
+Fireball
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 48,1481481481481
+Ghastly Conjurer
+Mana Wyrm
+Mirror Entity
+Ironfur Grizzly
+Arcane Intellect
+Arcanologist
+Counterspell
+Firelands Portal
+Kirin Tor Mage
+Primordial Glyph
+Kabal Crystal Runner
+Fireball
+Fireball
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Kirin Tor Mage
+Mana Wyrm
+Frostbolt
+Archmage Antonidas
+Arcane Intellect
+Primordial Glyph
+Medivh's Valet
+Counterspell
+Frostbolt
+Arcanologist
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+The Black Knight
+Mana Bind
+---------------------------------------
+Winrate - 48,1481481481481
+Counterspell
+The Black Knight
+Mana Wyrm
+Imp Master
+Counterspell
+Firelands Portal
+Fireball
+Primordial Glyph
+Sorcerer's Apprentice
+Mirror Entity
+Arcanologist
+Frostbolt
+Mana Wyrm
+Burgly Bully
+Arcanologist
+Mana Bind
+Firelands Portal
+Arcane Intellect
+Primordial Glyph
+Frostbolt
+Kabal Crystal Runner
+Arcane Intellect
+Kirin Tor Mage
+Sorcerer's Apprentice
+Kirin Tor Mage
+Medivh's Valet
+Fireball
+Ghastly Conjurer
+Archmage Antonidas
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 48,1481481481481
+Frostbolt
+Kabal Crystal Runner
+Netherspite Historian
+Kirin Tor Mage
+Counterspell
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Fireball
+Sorcerer's Apprentice
+Counterspell
+Firelands Portal
+Ghastly Conjurer
+Frostbolt
+Medivh's Valet
+Fireball
+Arcane Intellect
+Archmage Antonidas
+Firelands Portal
+Mana Bind
+Mana Wyrm
+Arcane Intellect
+Mana Wyrm
+Burgly Bully
+Primordial Glyph
+Mirror Entity
+Arcanologist
+The Black Knight
+Primordial Glyph
+Kirin Tor Mage
+---------------------------------------
+Winrate - 48,1481481481481
+Sorcerer's Apprentice
+Fireball
+Mana Bind
+Am'gam Rager
+Mana Wyrm
+Counterspell
+Sorcerer's Apprentice
+Arcanologist
+Mirror Entity
+Arcane Intellect
+Medivh's Valet
+Primordial Glyph
+Kirin Tor Mage
+Kabal Crystal Runner
+Mana Wyrm
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Counterspell
+Medivh's Valet
+Ghastly Conjurer
+Firelands Portal
+Arcane Intellect
+Kirin Tor Mage
+Frostbolt
+Fireball
+Burgly Bully
+Archmage Antonidas
+The Black Knight
+Arcanologist
+---------------------------------------
+Winrate - 48,1481481481481
+Mana Bind
+Small-Time Buccaneer
+The Black Knight
+Mirror Entity
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Arcanologist
+Arcane Intellect
+Kabal Crystal Runner
+Frostbolt
+Ghastly Conjurer
+Frostbolt
+Arcanologist
+Fireball
+Sorcerer's Apprentice
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+Archmage Antonidas
+Primordial Glyph
+Counterspell
+Counterspell
+Medivh's Valet
+Arcane Intellect
+Burgly Bully
+Sorcerer's Apprentice
+Kirin Tor Mage
+Firelands Portal
+Firelands Portal
+---------------------------------------
+Winrate - 48,1481481481481
+Medivh's Valet
+Mana Wyrm
+Bloodmage Thalnos
+Kabal Crystal Runner
+Kirin Tor Mage
+Fireball
+Arcanologist
+Ghastly Conjurer
+Arcane Intellect
+Firelands Portal
+Fireball
+Firelands Portal
+Counterspell
+Primordial Glyph
+Kabal Crystal Runner
+The Black Knight
+Medivh's Valet
+Arcane Intellect
+Archmage Antonidas
+Counterspell
+Frostbolt
+Arcanologist
+Mana Wyrm
+Primordial Glyph
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Mirror Entity
+Kirin Tor Mage
+Burgly Bully
+Mana Bind
+---------------------------------------
+Winrate - 49,3827160493827
+Sorcerer's Apprentice
+Fireball
+Medivh's Valet
+Dalaran Mage
+Kirin Tor Mage
+Arcanologist
+Kabal Crystal Runner
+Firelands Portal
+Firelands Portal
+Kirin Tor Mage
+Mirror Entity
+Archmage Antonidas
+Ghastly Conjurer
+Sorcerer's Apprentice
+Mana Wyrm
+Arcanologist
+Mana Bind
+Frostbolt
+Counterspell
+The Black Knight
+Fireball
+Primordial Glyph
+Primordial Glyph
+Mana Wyrm
+Arcane Intellect
+Arcane Intellect
+Burgly Bully
+Counterspell
+Medivh's Valet
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 49,3827160493827
+Counterspell
+Frostbolt
+Archmage Antonidas
+Dalaran Mage
+Firelands Portal
+Burgly Bully
+Ghastly Conjurer
+Sorcerer's Apprentice
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcanologist
+Fireball
+Arcane Intellect
+Medivh's Valet
+Fireball
+Mana Bind
+Frostbolt
+Primordial Glyph
+Mana Wyrm
+Kirin Tor Mage
+The Black Knight
+Primordial Glyph
+Kabal Crystal Runner
+Arcanologist
+Counterspell
+Mana Wyrm
+Arcane Intellect
+Kirin Tor Mage
+Mirror Entity
+---------------------------------------
+Winrate - 49,3827160493827
+Kirin Tor Mage
+Young Dragonhawk
+Burgly Bully
+Arcane Intellect
+Primordial Glyph
+Mana Bind
+Medivh's Valet
+Mirror Entity
+Firelands Portal
+Fireball
+Counterspell
+Mana Wyrm
+Sorcerer's Apprentice
+Kirin Tor Mage
+The Black Knight
+Fireball
+Arcanologist
+Archmage Antonidas
+Frostbolt
+Medivh's Valet
+Primordial Glyph
+Arcane Intellect
+Counterspell
+Kabal Crystal Runner
+Kabal Crystal Runner
+Mana Wyrm
+Ghastly Conjurer
+Firelands Portal
+Arcanologist
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 49,3827160493827
+Kabal Crystal Runner
+Murloc Tidecaller
+Kirin Tor Mage
+Counterspell
+Sorcerer's Apprentice
+Firelands Portal
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Frostbolt
+Primordial Glyph
+Ghastly Conjurer
+Kirin Tor Mage
+The Black Knight
+Arcanologist
+Medivh's Valet
+Kabal Crystal Runner
+Arcane Intellect
+Mana Wyrm
+Archmage Antonidas
+Primordial Glyph
+Fireball
+Arcane Intellect
+Counterspell
+Mana Wyrm
+Burgly Bully
+Mirror Entity
+Frostbolt
+Mana Bind
+Arcanologist
+---------------------------------------
+Winrate - 49,3827160493827
+Sorcerer's Apprentice
+Fireball
+Arcanologist
+Thunder Lizard
+Counterspell
+Mirror Entity
+Frostbolt
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Medivh's Valet
+Kabal Crystal Runner
+Mana Bind
+Arcane Intellect
+Firelands Portal
+Burgly Bully
+Medivh's Valet
+Primordial Glyph
+Mana Wyrm
+Mana Wyrm
+Ghastly Conjurer
+Counterspell
+Fireball
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcanologist
+The Black Knight
+Primordial Glyph
+Archmage Antonidas
+Arcane Intellect
+---------------------------------------
+Winrate - 49,3827160493827
+Mana Wyrm
+Arcanologist
+Grimestreet Informant
+Counterspell
+Kabal Crystal Runner
+Counterspell
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Frostbolt
+Burgly Bully
+Kirin Tor Mage
+Arcane Intellect
+Medivh's Valet
+Arcane Intellect
+Frostbolt
+Firelands Portal
+Ghastly Conjurer
+Mana Bind
+Archmage Antonidas
+Sorcerer's Apprentice
+Primordial Glyph
+Arcanologist
+Fireball
+Fireball
+Firelands Portal
+Mana Wyrm
+Primordial Glyph
+Mirror Entity
+The Black Knight
+Kirin Tor Mage
+---------------------------------------
+Winrate - 49,3827160493827
+Fireball
+Mistress of Mixtures
+Archmage Antonidas
+Kabal Crystal Runner
+Counterspell
+Kirin Tor Mage
+Sorcerer's Apprentice
+Firelands Portal
+Mirror Entity
+Arcanologist
+Firelands Portal
+Sorcerer's Apprentice
+Mana Wyrm
+Burgly Bully
+Primordial Glyph
+Mana Wyrm
+Arcanologist
+Medivh's Valet
+Kabal Crystal Runner
+The Black Knight
+Arcane Intellect
+Counterspell
+Kirin Tor Mage
+Ghastly Conjurer
+Primordial Glyph
+Arcane Intellect
+Frostbolt
+Fireball
+Mana Bind
+Frostbolt
+---------------------------------------
+Winrate - 49,3827160493827
+Arcane Intellect
+Glacial Shard
+Kirin Tor Mage
+Mana Wyrm
+Firelands Portal
+Archmage Antonidas
+Arcane Intellect
+Mirror Entity
+Fireball
+Counterspell
+Primordial Glyph
+Fireball
+Arcanologist
+Kabal Crystal Runner
+Medivh's Valet
+Arcanologist
+Primordial Glyph
+Burgly Bully
+Mana Wyrm
+Medivh's Valet
+Counterspell
+Ghastly Conjurer
+Kirin Tor Mage
+Firelands Portal
+Frostbolt
+Sorcerer's Apprentice
+The Black Knight
+Mana Bind
+Kabal Crystal Runner
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 49,3827160493827
+Counterspell
+Emerald Reaver
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Firelands Portal
+Counterspell
+Primordial Glyph
+Mana Bind
+Medivh's Valet
+Firelands Portal
+Mirror Entity
+Medivh's Valet
+Arcanologist
+Kirin Tor Mage
+The Black Knight
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Kirin Tor Mage
+Archmage Antonidas
+Mana Wyrm
+Arcane Intellect
+Mana Wyrm
+Burgly Bully
+Fireball
+Kabal Crystal Runner
+Fireball
+Ghastly Conjurer
+Arcane Intellect
+---------------------------------------
+Winrate - 49,3827160493827
+Mirror Entity
+Burgly Bully
+Prince Keleseth
+Sorcerer's Apprentice
+Counterspell
+Counterspell
+Frostbolt
+Arcanologist
+Firelands Portal
+Firelands Portal
+Mana Wyrm
+Medivh's Valet
+Sorcerer's Apprentice
+Frostbolt
+Kabal Crystal Runner
+Fireball
+Kirin Tor Mage
+Arcanologist
+Archmage Antonidas
+Arcane Intellect
+Fireball
+Mana Wyrm
+Ghastly Conjurer
+Kirin Tor Mage
+Mana Bind
+Kabal Crystal Runner
+The Black Knight
+Arcane Intellect
+Primordial Glyph
+Primordial Glyph
+---------------------------------------
+Winrate - 49,3827160493827
+Frostbolt
+Counterspell
+Wild Pyromancer
+Mana Wyrm
+Mana Wyrm
+Fireball
+Kirin Tor Mage
+Arcane Intellect
+The Black Knight
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcanologist
+Medivh's Valet
+Ghastly Conjurer
+Medivh's Valet
+Firelands Portal
+Arcanologist
+Mana Bind
+Firelands Portal
+Arcane Intellect
+Counterspell
+Fireball
+Primordial Glyph
+Archmage Antonidas
+Burgly Bully
+Kabal Crystal Runner
+Mirror Entity
+Kabal Crystal Runner
+Primordial Glyph
+---------------------------------------
+Winrate - 49,3827160493827
+Burgly Bully
+Primordial Glyph
+Twilight Geomancer
+Fireball
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcanologist
+Arcanologist
+Sorcerer's Apprentice
+Medivh's Valet
+Firelands Portal
+Fireball
+Primordial Glyph
+Mana Wyrm
+The Black Knight
+Frostbolt
+Medivh's Valet
+Firelands Portal
+Arcane Intellect
+Counterspell
+Kirin Tor Mage
+Ghastly Conjurer
+Archmage Antonidas
+Counterspell
+Mana Wyrm
+Kirin Tor Mage
+Kabal Crystal Runner
+Mirror Entity
+Arcane Intellect
+Mana Bind
+---------------------------------------
+Winrate - 49,3827160493827
+Arcane Intellect
+Acherus Veteran
+Counterspell
+Primordial Glyph
+Primordial Glyph
+Fireball
+Kabal Crystal Runner
+Arcanologist
+Mana Bind
+Archmage Antonidas
+Mirror Entity
+Frostbolt
+Firelands Portal
+Kirin Tor Mage
+Ghastly Conjurer
+Kabal Crystal Runner
+Medivh's Valet
+Firelands Portal
+Medivh's Valet
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+Mana Wyrm
+Burgly Bully
+The Black Knight
+Sorcerer's Apprentice
+Arcanologist
+Kirin Tor Mage
+Mana Wyrm
+Counterspell
+---------------------------------------
+Winrate - 49,3827160493827
+Kabal Crystal Runner
+Archmage Antonidas
+Dire Wolf Alpha
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Arcanologist
+Mana Wyrm
+Mana Wyrm
+Arcanologist
+Counterspell
+Firelands Portal
+Burgly Bully
+Mirror Entity
+The Black Knight
+Kirin Tor Mage
+Sorcerer's Apprentice
+Ghastly Conjurer
+Fireball
+Arcane Intellect
+Fireball
+Mana Bind
+Arcane Intellect
+Sorcerer's Apprentice
+Medivh's Valet
+Primordial Glyph
+Medivh's Valet
+Firelands Portal
+Counterspell
+Frostbolt
+---------------------------------------
+Winrate - 49,3827160493827
+Arcanologist
+Goldshire Footman
+Arcane Intellect
+The Black Knight
+Archmage Antonidas
+Kirin Tor Mage
+Frostbolt
+Ghastly Conjurer
+Fireball
+Kirin Tor Mage
+Kabal Crystal Runner
+Burgly Bully
+Sorcerer's Apprentice
+Arcanologist
+Mirror Entity
+Mana Bind
+Kabal Crystal Runner
+Mana Wyrm
+Sorcerer's Apprentice
+Arcane Intellect
+Frostbolt
+Mana Wyrm
+Medivh's Valet
+Primordial Glyph
+Firelands Portal
+Counterspell
+Firelands Portal
+Counterspell
+Fireball
+Primordial Glyph
+---------------------------------------
+Winrate - 49,3827160493827
+Arcanologist
+Arcane Intellect
+Ice Walker
+Primordial Glyph
+Arcane Intellect
+Medivh's Valet
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Arcanologist
+Medivh's Valet
+Fireball
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Counterspell
+Burgly Bully
+Kirin Tor Mage
+Mana Bind
+Mirror Entity
+The Black Knight
+Counterspell
+Mana Wyrm
+Firelands Portal
+Archmage Antonidas
+Ghastly Conjurer
+Kirin Tor Mage
+Frostbolt
+Mana Wyrm
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 49,3827160493827
+Arcane Intellect
+Mana Bind
+Primordial Glyph
+Ironforge Rifleman
+Firelands Portal
+Counterspell
+Burgly Bully
+Kirin Tor Mage
+The Black Knight
+Sorcerer's Apprentice
+Medivh's Valet
+Fireball
+Mana Wyrm
+Counterspell
+Arcanologist
+Primordial Glyph
+Sorcerer's Apprentice
+Fireball
+Arcanologist
+Kabal Crystal Runner
+Ghastly Conjurer
+Mirror Entity
+Medivh's Valet
+Kabal Crystal Runner
+Mana Wyrm
+Firelands Portal
+Archmage Antonidas
+Kirin Tor Mage
+Arcane Intellect
+Frostbolt
+---------------------------------------
+Winrate - 49,3827160493827
+Mana Bind
+Fireball
+Arcane Intellect
+Ice Barrier
+Counterspell
+Frostbolt
+The Black Knight
+Counterspell
+Archmage Antonidas
+Fireball
+Mana Wyrm
+Kabal Crystal Runner
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Ghastly Conjurer
+Arcane Intellect
+Sorcerer's Apprentice
+Kirin Tor Mage
+Firelands Portal
+Primordial Glyph
+Sorcerer's Apprentice
+Arcanologist
+Arcanologist
+Firelands Portal
+Burgly Bully
+Mirror Entity
+Medivh's Valet
+Medivh's Valet
+---------------------------------------
+Winrate - 49,3827160493827
+Fireball
+Fireball
+Mana Wyrm
+Demolisher
+Frostbolt
+Mirror Entity
+The Black Knight
+Archmage Antonidas
+Kirin Tor Mage
+Firelands Portal
+Frostbolt
+Mana Wyrm
+Counterspell
+Primordial Glyph
+Counterspell
+Firelands Portal
+Primordial Glyph
+Kirin Tor Mage
+Sorcerer's Apprentice
+Arcanologist
+Ghastly Conjurer
+Arcanologist
+Arcane Intellect
+Arcane Intellect
+Mana Bind
+Kabal Crystal Runner
+Kabal Crystal Runner
+Burgly Bully
+Sorcerer's Apprentice
+Medivh's Valet
+---------------------------------------
+Winrate - 49,3827160493827
+Primordial Glyph
+Fireball
+Tuskarr Fisherman
+Counterspell
+The Black Knight
+Firelands Portal
+Arcanologist
+Counterspell
+Burgly Bully
+Mana Wyrm
+Primordial Glyph
+Frostbolt
+Kabal Crystal Runner
+Kirin Tor Mage
+Medivh's Valet
+Fireball
+Arcane Intellect
+Mana Bind
+Kabal Crystal Runner
+Ghastly Conjurer
+Arcane Intellect
+Firelands Portal
+Archmage Antonidas
+Kirin Tor Mage
+Mana Wyrm
+Arcanologist
+Sorcerer's Apprentice
+Frostbolt
+Mirror Entity
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 49,3827160493827
+Frostbolt
+Frostbolt
+Sorcerer's Apprentice
+Backstreet Leper
+Mana Wyrm
+Arcanologist
+Kabal Crystal Runner
+Archmage Antonidas
+Arcanologist
+Primordial Glyph
+Kabal Crystal Runner
+Firelands Portal
+Mirror Entity
+Kirin Tor Mage
+Primordial Glyph
+Ghastly Conjurer
+Kirin Tor Mage
+Fireball
+Arcane Intellect
+Medivh's Valet
+Sorcerer's Apprentice
+Fireball
+Burgly Bully
+The Black Knight
+Arcane Intellect
+Counterspell
+Counterspell
+Mana Wyrm
+Firelands Portal
+Mana Bind
+---------------------------------------
+Winrate - 50,6172839506173
+Primordial Glyph
+Sorcerer's Apprentice
+Nat, the Darkfisher
+Mana Wyrm
+Sorcerer's Apprentice
+Archmage Antonidas
+Mirror Entity
+Primordial Glyph
+Fireball
+Kirin Tor Mage
+Frostbolt
+Firelands Portal
+Counterspell
+Kabal Crystal Runner
+Ghastly Conjurer
+Kirin Tor Mage
+The Black Knight
+Burgly Bully
+Fireball
+Kabal Crystal Runner
+Arcanologist
+Firelands Portal
+Mana Wyrm
+Mana Bind
+Arcanologist
+Counterspell
+Arcane Intellect
+Medivh's Valet
+Medivh's Valet
+Arcane Intellect
+---------------------------------------
+Winrate - 50,6172839506173
+Sorcerer's Apprentice
+Mana Wyrm
+Bilefin Tidehunter
+Medivh's Valet
+Mirror Entity
+Counterspell
+Firelands Portal
+Fireball
+Fireball
+Frostbolt
+Burgly Bully
+Counterspell
+Archmage Antonidas
+Arcanologist
+Primordial Glyph
+Arcane Intellect
+Firelands Portal
+Primordial Glyph
+Mana Bind
+Kirin Tor Mage
+Medivh's Valet
+Arcanologist
+Kabal Crystal Runner
+Kabal Crystal Runner
+Mana Wyrm
+Arcane Intellect
+Ghastly Conjurer
+The Black Knight
+Kirin Tor Mage
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 50,6172839506173
+Arcanologist
+Arcanologist
+Fireball
+Disciple of C'Thun
+Mana Bind
+Sorcerer's Apprentice
+Arcane Intellect
+Mirror Entity
+Counterspell
+Arcane Intellect
+Medivh's Valet
+Kirin Tor Mage
+Kirin Tor Mage
+Counterspell
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Fireball
+Mana Wyrm
+Archmage Antonidas
+Medivh's Valet
+Ghastly Conjurer
+Mana Wyrm
+Frostbolt
+Primordial Glyph
+Firelands Portal
+The Black Knight
+Primordial Glyph
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 50,6172839506173
+Kirin Tor Mage
+Firelands Portal
+Mana Wyrm
+Spawn of N'Zoth
+Arcane Intellect
+Firelands Portal
+Sorcerer's Apprentice
+Fireball
+Kabal Crystal Runner
+Primordial Glyph
+Sorcerer's Apprentice
+Mana Wyrm
+Arcane Intellect
+Frostbolt
+Medivh's Valet
+The Black Knight
+Burgly Bully
+Archmage Antonidas
+Counterspell
+Fireball
+Arcanologist
+Mana Bind
+Medivh's Valet
+Counterspell
+Kirin Tor Mage
+Mirror Entity
+Primordial Glyph
+Arcanologist
+Ghastly Conjurer
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 50,6172839506173
+Ghastly Conjurer
+Young Priestess
+Arcane Intellect
+Mana Wyrm
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Kirin Tor Mage
+Arcane Intellect
+Frostbolt
+Archmage Antonidas
+Primordial Glyph
+Fireball
+Burgly Bully
+Arcanologist
+Counterspell
+Medivh's Valet
+Arcanologist
+Counterspell
+Firelands Portal
+The Black Knight
+Frostbolt
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Primordial Glyph
+Sorcerer's Apprentice
+Fireball
+Firelands Portal
+Mirror Entity
+Mana Bind
+---------------------------------------
+Winrate - 50,6172839506173
+Mana Wyrm
+Archmage Antonidas
+Kabal Crystal Runner
+Zoobot
+Counterspell
+Kirin Tor Mage
+The Black Knight
+Fireball
+Arcanologist
+Counterspell
+Mana Wyrm
+Ghastly Conjurer
+Mirror Entity
+Burgly Bully
+Arcane Intellect
+Kirin Tor Mage
+Primordial Glyph
+Sorcerer's Apprentice
+Arcanologist
+Medivh's Valet
+Firelands Portal
+Kabal Crystal Runner
+Fireball
+Frostbolt
+Sorcerer's Apprentice
+Arcane Intellect
+Medivh's Valet
+Mana Bind
+Primordial Glyph
+Firelands Portal
+---------------------------------------
+Winrate - 50,6172839506173
+Arcanologist
+Leper Gnome
+Sorcerer's Apprentice
+Ghastly Conjurer
+Frostbolt
+The Black Knight
+Mana Bind
+Burgly Bully
+Arcanologist
+Kabal Crystal Runner
+Kirin Tor Mage
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+Kabal Crystal Runner
+Fireball
+Arcane Intellect
+Mana Wyrm
+Primordial Glyph
+Sorcerer's Apprentice
+Firelands Portal
+Counterspell
+Arcane Intellect
+Medivh's Valet
+Archmage Antonidas
+Counterspell
+Firelands Portal
+Primordial Glyph
+Medivh's Valet
+Mirror Entity
+---------------------------------------
+Winrate - 50,6172839506173
+Fireball
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Pantry Spider
+Medivh's Valet
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Primordial Glyph
+Mirror Entity
+Mana Wyrm
+Kirin Tor Mage
+Arcane Intellect
+Primordial Glyph
+Mana Wyrm
+Firelands Portal
+Mana Bind
+Burgly Bully
+Kabal Crystal Runner
+The Black Knight
+Counterspell
+Counterspell
+Medivh's Valet
+Archmage Antonidas
+Ghastly Conjurer
+Frostbolt
+Arcanologist
+Arcanologist
+Arcane Intellect
+---------------------------------------
+Winrate - 50,6172839506173
+Counterspell
+Medivh's Valet
+Archmage Antonidas
+Potion of Polymorph
+Sorcerer's Apprentice
+Frostbolt
+Arcane Intellect
+Mirror Entity
+Firelands Portal
+Sorcerer's Apprentice
+Counterspell
+Primordial Glyph
+Ghastly Conjurer
+Mana Wyrm
+Burgly Bully
+Kabal Crystal Runner
+Frostbolt
+Arcanologist
+Mana Bind
+Fireball
+Arcanologist
+The Black Knight
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Firelands Portal
+Kirin Tor Mage
+Fireball
+Arcane Intellect
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 50,6172839506173
+Burgly Bully
+Kabal Crystal Runner
+Fireball
+Jungle Panther
+Mirror Entity
+Arcane Intellect
+Arcanologist
+Firelands Portal
+Mana Wyrm
+Primordial Glyph
+Ghastly Conjurer
+Kirin Tor Mage
+Frostbolt
+Mana Bind
+Kirin Tor Mage
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Medivh's Valet
+Firelands Portal
+Counterspell
+Archmage Antonidas
+Kabal Crystal Runner
+Arcanologist
+Primordial Glyph
+Medivh's Valet
+Arcane Intellect
+Counterspell
+Fireball
+The Black Knight
+Mana Wyrm
+---------------------------------------
+Winrate - 50,6172839506173
+Medivh's Valet
+Secretkeeper
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Frostbolt
+Kabal Crystal Runner
+Fireball
+Sorcerer's Apprentice
+Arcanologist
+Medivh's Valet
+Mirror Entity
+Mana Bind
+Primordial Glyph
+Archmage Antonidas
+Mana Wyrm
+Fireball
+Sorcerer's Apprentice
+Counterspell
+Kabal Crystal Runner
+The Black Knight
+Arcane Intellect
+Arcanologist
+Kirin Tor Mage
+Burgly Bully
+Firelands Portal
+Counterspell
+Ghastly Conjurer
+Kirin Tor Mage
+Arcane Intellect
+---------------------------------------
+Winrate - 50,6172839506173
+Sorcerer's Apprentice
+Mana Wyrm
+Kabal Crystal Runner
+Blubber Baron
+Archmage Antonidas
+Sorcerer's Apprentice
+Ghastly Conjurer
+Medivh's Valet
+Arcane Intellect
+Kirin Tor Mage
+Mirror Entity
+Mana Bind
+Fireball
+Counterspell
+Frostbolt
+Arcanologist
+Mana Wyrm
+Fireball
+Counterspell
+Kirin Tor Mage
+Primordial Glyph
+Kabal Crystal Runner
+Firelands Portal
+The Black Knight
+Burgly Bully
+Arcane Intellect
+Primordial Glyph
+Firelands Portal
+Arcanologist
+Frostbolt
+---------------------------------------
+Winrate - 50,6172839506173
+Arcanologist
+Arcane Intellect
+Burgly Bully
+Zoobot
+Kabal Crystal Runner
+Mirror Entity
+Fireball
+Arcane Intellect
+Primordial Glyph
+Kabal Crystal Runner
+Mana Bind
+The Black Knight
+Archmage Antonidas
+Kirin Tor Mage
+Kirin Tor Mage
+Counterspell
+Mana Wyrm
+Mana Wyrm
+Frostbolt
+Frostbolt
+Counterspell
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Firelands Portal
+Firelands Portal
+Ghastly Conjurer
+Fireball
+Arcanologist
+Primordial Glyph
+Medivh's Valet
+---------------------------------------
+Winrate - 50,6172839506173
+Primordial Glyph
+Goldshire Footman
+Frostbolt
+Medivh's Valet
+Kabal Crystal Runner
+Firelands Portal
+Fireball
+Kabal Crystal Runner
+Arcanologist
+The Black Knight
+Sorcerer's Apprentice
+Kirin Tor Mage
+Kirin Tor Mage
+Sorcerer's Apprentice
+Firelands Portal
+Arcane Intellect
+Primordial Glyph
+Counterspell
+Mana Bind
+Arcanologist
+Fireball
+Ghastly Conjurer
+Mana Wyrm
+Burgly Bully
+Medivh's Valet
+Archmage Antonidas
+Mana Wyrm
+Mirror Entity
+Counterspell
+Arcane Intellect
+---------------------------------------
+Winrate - 50,6172839506173
+Medivh's Valet
+Arcane Anomaly
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcane Intellect
+Primordial Glyph
+Burgly Bully
+Arcanologist
+Archmage Antonidas
+Arcane Intellect
+The Black Knight
+Kabal Crystal Runner
+Fireball
+Counterspell
+Sorcerer's Apprentice
+Mirror Entity
+Firelands Portal
+Kabal Crystal Runner
+Primordial Glyph
+Frostbolt
+Kirin Tor Mage
+Medivh's Valet
+Ghastly Conjurer
+Counterspell
+Arcanologist
+Mana Wyrm
+Fireball
+Mana Wyrm
+Mana Bind
+Firelands Portal
+---------------------------------------
+Winrate - 50,6172839506173
+Arcane Intellect
+Kabal Crystal Runner
+Mana Wyrm
+Magma Rager
+The Black Knight
+Frostbolt
+Sorcerer's Apprentice
+Mana Bind
+Burgly Bully
+Firelands Portal
+Counterspell
+Archmage Antonidas
+Counterspell
+Sorcerer's Apprentice
+Kirin Tor Mage
+Mana Wyrm
+Arcanologist
+Fireball
+Arcanologist
+Kirin Tor Mage
+Firelands Portal
+Primordial Glyph
+Arcane Intellect
+Kabal Crystal Runner
+Mirror Entity
+Medivh's Valet
+Ghastly Conjurer
+Fireball
+Primordial Glyph
+Frostbolt
+---------------------------------------
+Winrate - 50,6172839506173
+Mana Wyrm
+Fireball
+Pint-Sized Summoner
+Kirin Tor Mage
+Frostbolt
+Arcanologist
+Fireball
+Kabal Crystal Runner
+Archmage Antonidas
+Sorcerer's Apprentice
+Counterspell
+Mirror Entity
+Counterspell
+Primordial Glyph
+Arcane Intellect
+Firelands Portal
+Sorcerer's Apprentice
+Frostbolt
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Burgly Bully
+The Black Knight
+Arcanologist
+Primordial Glyph
+Medivh's Valet
+Arcane Intellect
+Mana Bind
+Firelands Portal
+Ghastly Conjurer
+---------------------------------------
+Winrate - 50,6172839506173
+Firelands Portal
+Arcanologist
+Sorcerer's Apprentice
+Shallow Gravedigger
+Kabal Crystal Runner
+Kirin Tor Mage
+Mana Wyrm
+Ghastly Conjurer
+Kirin Tor Mage
+Sorcerer's Apprentice
+Counterspell
+Fireball
+Frostbolt
+Kabal Crystal Runner
+Mana Wyrm
+Mirror Entity
+Archmage Antonidas
+The Black Knight
+Fireball
+Medivh's Valet
+Arcane Intellect
+Primordial Glyph
+Firelands Portal
+Mana Bind
+Arcane Intellect
+Burgly Bully
+Primordial Glyph
+Arcanologist
+Frostbolt
+Counterspell
+---------------------------------------
+Winrate - 50,6172839506173
+Burgly Bully
+Mirror Entity
+Youthful Brewmaster
+Primordial Glyph
+Frostbolt
+Kabal Crystal Runner
+Arcanologist
+Frostbolt
+Archmage Antonidas
+Sorcerer's Apprentice
+Firelands Portal
+The Black Knight
+Counterspell
+Sorcerer's Apprentice
+Arcane Intellect
+Mana Bind
+Firelands Portal
+Fireball
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Kirin Tor Mage
+Mana Wyrm
+Kabal Crystal Runner
+Fireball
+Arcanologist
+Arcane Intellect
+Medivh's Valet
+Ghastly Conjurer
+Counterspell
+---------------------------------------
+Winrate - 50,6172839506173
+The Black Knight
+Medivh's Valet
+Novice Engineer
+Ghastly Conjurer
+Kabal Crystal Runner
+Kirin Tor Mage
+Kirin Tor Mage
+Mana Wyrm
+Arcanologist
+Firelands Portal
+Burgly Bully
+Sorcerer's Apprentice
+Mana Bind
+Arcanologist
+Fireball
+Mirror Entity
+Fireball
+Mana Wyrm
+Kabal Crystal Runner
+Counterspell
+Sorcerer's Apprentice
+Primordial Glyph
+Primordial Glyph
+Frostbolt
+Arcane Intellect
+Archmage Antonidas
+Firelands Portal
+Frostbolt
+Counterspell
+Arcane Intellect
+---------------------------------------
+Winrate - 50,6172839506173
+Counterspell
+Sorcerer's Apprentice
+Bloodmage Thalnos
+Kirin Tor Mage
+Kabal Crystal Runner
+Arcanologist
+Firelands Portal
+Mana Wyrm
+The Black Knight
+Counterspell
+Kabal Crystal Runner
+Frostbolt
+Sorcerer's Apprentice
+Mana Bind
+Mana Wyrm
+Archmage Antonidas
+Arcanologist
+Fireball
+Ghastly Conjurer
+Primordial Glyph
+Fireball
+Firelands Portal
+Burgly Bully
+Arcane Intellect
+Arcane Intellect
+Frostbolt
+Primordial Glyph
+Kirin Tor Mage
+Mirror Entity
+Medivh's Valet
+---------------------------------------
+Winrate - 50,6172839506173
+Firelands Portal
+Kirin Tor Mage
+Wild Pyromancer
+Mirror Entity
+Counterspell
+Sorcerer's Apprentice
+Firelands Portal
+Kabal Crystal Runner
+Mana Wyrm
+Arcane Intellect
+Arcanologist
+Frostbolt
+Frostbolt
+Counterspell
+Ghastly Conjurer
+Mana Bind
+Medivh's Valet
+Primordial Glyph
+Kirin Tor Mage
+Fireball
+Arcanologist
+Burgly Bully
+The Black Knight
+Mana Wyrm
+Fireball
+Archmage Antonidas
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Primordial Glyph
+Arcane Intellect
+---------------------------------------
+Winrate - 50,6172839506173
+Arcanologist
+Wretched Tiller
+Kirin Tor Mage
+Frostbolt
+Arcane Intellect
+Counterspell
+Sorcerer's Apprentice
+Mana Wyrm
+Mana Bind
+Sorcerer's Apprentice
+Fireball
+The Black Knight
+Ghastly Conjurer
+Arcane Intellect
+Kabal Crystal Runner
+Primordial Glyph
+Arcanologist
+Counterspell
+Primordial Glyph
+Medivh's Valet
+Mirror Entity
+Firelands Portal
+Mana Wyrm
+Fireball
+Frostbolt
+Kirin Tor Mage
+Kabal Crystal Runner
+Archmage Antonidas
+Firelands Portal
+Burgly Bully
+---------------------------------------
+Winrate - 50,6172839506173
+Arcanologist
+Kabal Crystal Runner
+Mana Wyrm
+Silverback Patriarch
+Archmage Antonidas
+Mana Bind
+Counterspell
+Fireball
+Kirin Tor Mage
+Firelands Portal
+Arcane Intellect
+Counterspell
+Firelands Portal
+Ghastly Conjurer
+Primordial Glyph
+Arcane Intellect
+Kirin Tor Mage
+Fireball
+Burgly Bully
+Frostbolt
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Medivh's Valet
+Primordial Glyph
+Mana Wyrm
+Arcanologist
+Medivh's Valet
+Sorcerer's Apprentice
+The Black Knight
+Mirror Entity
+---------------------------------------
+Winrate - 51,8518518518518
+Arcane Intellect
+Arcane Intellect
+Frostbolt
+Silverback Patriarch
+Frostbolt
+Arcanologist
+Ghastly Conjurer
+Sorcerer's Apprentice
+Kirin Tor Mage
+Mirror Entity
+Mana Bind
+Fireball
+Firelands Portal
+Burgly Bully
+Mana Wyrm
+Medivh's Valet
+Counterspell
+Kabal Crystal Runner
+Primordial Glyph
+Counterspell
+Mana Wyrm
+Primordial Glyph
+Fireball
+Sorcerer's Apprentice
+Arcanologist
+Archmage Antonidas
+Firelands Portal
+Kirin Tor Mage
+Kabal Crystal Runner
+The Black Knight
+---------------------------------------
+Winrate - 51,8518518518518
+Counterspell
+Mirror Image
+Mirror Entity
+Firelands Portal
+Mana Wyrm
+Arcane Intellect
+Kirin Tor Mage
+Kabal Crystal Runner
+The Black Knight
+Mana Wyrm
+Ghastly Conjurer
+Sorcerer's Apprentice
+Primordial Glyph
+Medivh's Valet
+Counterspell
+Burgly Bully
+Arcane Intellect
+Arcanologist
+Mana Bind
+Frostbolt
+Frostbolt
+Kirin Tor Mage
+Kabal Crystal Runner
+Firelands Portal
+Archmage Antonidas
+Primordial Glyph
+Arcanologist
+Fireball
+Fireball
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 51,8518518518518
+Kirin Tor Mage
+Mana Wyrm
+Ravasaur Runt
+Mana Bind
+Primordial Glyph
+Counterspell
+Arcanologist
+Mirror Entity
+Kirin Tor Mage
+Firelands Portal
+Ghastly Conjurer
+Counterspell
+Arcanologist
+Medivh's Valet
+Frostbolt
+Kabal Crystal Runner
+Medivh's Valet
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Archmage Antonidas
+Arcane Intellect
+The Black Knight
+Primordial Glyph
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Burgly Bully
+Fireball
+Mana Wyrm
+Firelands Portal
+---------------------------------------
+Winrate - 51,8518518518518
+Fireball
+Burgly Bully
+Arcane Explosion
+Mana Wyrm
+Archmage Antonidas
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Arcane Intellect
+Medivh's Valet
+Counterspell
+Firelands Portal
+Mirror Entity
+Arcanologist
+Mana Wyrm
+Kirin Tor Mage
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Counterspell
+Arcanologist
+Ghastly Conjurer
+Medivh's Valet
+Firelands Portal
+Sorcerer's Apprentice
+The Black Knight
+Arcane Intellect
+Primordial Glyph
+Frostbolt
+Mana Bind
+Fireball
+---------------------------------------
+Winrate - 51,8518518518518
+Frostbolt
+Counterspell
+Frostwolf Grunt
+Counterspell
+Arcane Intellect
+Primordial Glyph
+Medivh's Valet
+Kirin Tor Mage
+Arcanologist
+Firelands Portal
+Mana Bind
+Primordial Glyph
+Firelands Portal
+Fireball
+Fireball
+Archmage Antonidas
+Sorcerer's Apprentice
+Frostbolt
+Sorcerer's Apprentice
+The Black Knight
+Burgly Bully
+Arcane Intellect
+Kabal Crystal Runner
+Kabal Crystal Runner
+Mirror Entity
+Kirin Tor Mage
+Arcanologist
+Mana Wyrm
+Mana Wyrm
+Ghastly Conjurer
+---------------------------------------
+Winrate - 51,8518518518518
+Sorcerer's Apprentice
+Weasel Tunneler
+Arcanologist
+Mana Wyrm
+Fireball
+Kirin Tor Mage
+Counterspell
+Arcanologist
+Mana Wyrm
+Ghastly Conjurer
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Firelands Portal
+Fireball
+Primordial Glyph
+Medivh's Valet
+Firelands Portal
+The Black Knight
+Counterspell
+Kirin Tor Mage
+Kabal Crystal Runner
+Frostbolt
+Arcane Intellect
+Frostbolt
+Mana Bind
+Arcane Intellect
+Primordial Glyph
+Mirror Entity
+Archmage Antonidas
+Burgly Bully
+---------------------------------------
+Winrate - 51,8518518518518
+The Black Knight
+Burgly Bully
+Kabal Crystal Runner
+Eggnapper
+Arcane Intellect
+Frostbolt
+Medivh's Valet
+Kirin Tor Mage
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Ghastly Conjurer
+Primordial Glyph
+Kabal Crystal Runner
+Fireball
+Arcanologist
+Counterspell
+Mirror Entity
+Archmage Antonidas
+Mana Bind
+Firelands Portal
+Fireball
+Medivh's Valet
+Counterspell
+Firelands Portal
+Arcane Intellect
+Arcanologist
+Mana Wyrm
+---------------------------------------
+Winrate - 51,8518518518518
+Fireball
+Arcane Intellect
+Mana Bind
+Kabal Courier
+Arcanologist
+Counterspell
+Medivh's Valet
+Mana Wyrm
+Kabal Crystal Runner
+Mirror Entity
+Frostbolt
+Kirin Tor Mage
+Frostbolt
+The Black Knight
+Kabal Crystal Runner
+Primordial Glyph
+Counterspell
+Firelands Portal
+Arcanologist
+Firelands Portal
+Sorcerer's Apprentice
+Ghastly Conjurer
+Primordial Glyph
+Archmage Antonidas
+Arcane Intellect
+Kirin Tor Mage
+Sorcerer's Apprentice
+Mana Wyrm
+Fireball
+Burgly Bully
+---------------------------------------
+Winrate - 51,8518518518518
+Frostbolt
+Young Dragonhawk
+Primordial Glyph
+Mana Wyrm
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcanologist
+Primordial Glyph
+Firelands Portal
+Mana Bind
+Frostbolt
+Kabal Crystal Runner
+Medivh's Valet
+Ghastly Conjurer
+Arcane Intellect
+Arcanologist
+Archmage Antonidas
+Arcane Intellect
+Kirin Tor Mage
+Fireball
+Sorcerer's Apprentice
+Mana Wyrm
+Fireball
+Counterspell
+Counterspell
+The Black Knight
+Mirror Entity
+Firelands Portal
+Kabal Crystal Runner
+Burgly Bully
+---------------------------------------
+Winrate - 51,8518518518518
+Mana Bind
+Stonetusk Boar
+Firelands Portal
+Burgly Bully
+Fireball
+Frostbolt
+Mana Wyrm
+Arcane Intellect
+Counterspell
+Primordial Glyph
+The Black Knight
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Fireball
+Primordial Glyph
+Counterspell
+Medivh's Valet
+Arcanologist
+Medivh's Valet
+Mana Wyrm
+Archmage Antonidas
+Ghastly Conjurer
+Kirin Tor Mage
+Mirror Entity
+Arcanologist
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcane Intellect
+---------------------------------------
+Winrate - 51,8518518518518
+Burgly Bully
+Southsea Deckhand
+Medivh's Valet
+Kabal Crystal Runner
+Mana Bind
+Arcanologist
+Firelands Portal
+Sorcerer's Apprentice
+Arcane Intellect
+Frostbolt
+Medivh's Valet
+Primordial Glyph
+Sorcerer's Apprentice
+Counterspell
+Mana Wyrm
+Counterspell
+Ghastly Conjurer
+Archmage Antonidas
+Fireball
+Arcane Intellect
+Mana Wyrm
+Kirin Tor Mage
+Kabal Crystal Runner
+Fireball
+Primordial Glyph
+Arcanologist
+Kirin Tor Mage
+The Black Knight
+Firelands Portal
+Mirror Entity
+---------------------------------------
+Winrate - 51,8518518518518
+Fireball
+Primordial Glyph
+Murloc Tidehunter
+Kirin Tor Mage
+Burgly Bully
+Arcanologist
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Ghastly Conjurer
+Firelands Portal
+Mana Bind
+Firelands Portal
+Medivh's Valet
+Counterspell
+Primordial Glyph
+Kabal Crystal Runner
+Kirin Tor Mage
+Frostbolt
+Arcanologist
+Arcane Intellect
+Fireball
+Arcane Intellect
+Medivh's Valet
+Mana Wyrm
+Mirror Entity
+The Black Knight
+Archmage Antonidas
+Mana Wyrm
+Counterspell
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 51,8518518518518
+Mirror Entity
+Kabal Crystal Runner
+Arcanologist
+Scarlet Crusader
+Kabal Crystal Runner
+Kirin Tor Mage
+Mana Bind
+The Black Knight
+Firelands Portal
+Counterspell
+Mana Wyrm
+Mana Wyrm
+Frostbolt
+Arcane Intellect
+Primordial Glyph
+Arcanologist
+Medivh's Valet
+Arcane Intellect
+Ghastly Conjurer
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Frostbolt
+Fireball
+Archmage Antonidas
+Counterspell
+Primordial Glyph
+Burgly Bully
+Kirin Tor Mage
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 51,8518518518518
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+Questing Adventurer
+Arcanologist
+Kabal Crystal Runner
+Primordial Glyph
+Arcane Intellect
+Archmage Antonidas
+Fireball
+Primordial Glyph
+Kirin Tor Mage
+Arcanologist
+The Black Knight
+Counterspell
+Sorcerer's Apprentice
+Medivh's Valet
+Mirror Entity
+Ghastly Conjurer
+Mana Wyrm
+Counterspell
+Burgly Bully
+Frostbolt
+Firelands Portal
+Medivh's Valet
+Arcane Intellect
+Sorcerer's Apprentice
+Kirin Tor Mage
+Mana Bind
+Firelands Portal
+---------------------------------------
+Winrate - 51,8518518518518
+Sorcerer's Apprentice
+Mana Wyrm
+Mirror Entity
+Mindbreaker
+Arcane Intellect
+The Black Knight
+Primordial Glyph
+Kirin Tor Mage
+Burgly Bully
+Kirin Tor Mage
+Counterspell
+Frostbolt
+Counterspell
+Sorcerer's Apprentice
+Arcanologist
+Ghastly Conjurer
+Firelands Portal
+Mana Wyrm
+Medivh's Valet
+Kabal Crystal Runner
+Mana Bind
+Archmage Antonidas
+Arcane Intellect
+Primordial Glyph
+Medivh's Valet
+Fireball
+Fireball
+Arcanologist
+Firelands Portal
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 51,8518518518518
+Primordial Glyph
+Kabal Crystal Runner
+Arcane Intellect
+Moroes
+Kirin Tor Mage
+Archmage Antonidas
+Fireball
+Burgly Bully
+Counterspell
+Kabal Crystal Runner
+Firelands Portal
+Sorcerer's Apprentice
+Frostbolt
+Mana Bind
+Counterspell
+Medivh's Valet
+Medivh's Valet
+The Black Knight
+Sorcerer's Apprentice
+Primordial Glyph
+Mana Wyrm
+Mirror Entity
+Arcanologist
+Mana Wyrm
+Firelands Portal
+Fireball
+Arcane Intellect
+Ghastly Conjurer
+Arcanologist
+Kirin Tor Mage
+---------------------------------------
+Winrate - 51,8518518518518
+Frostbolt
+Kabal Crystal Runner
+Arcane Intellect
+Ironbeak Owl
+Fireball
+Arcane Intellect
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Archmage Antonidas
+Kirin Tor Mage
+Medivh's Valet
+Counterspell
+Frostbolt
+Sorcerer's Apprentice
+Fireball
+Burgly Bully
+Firelands Portal
+Mana Wyrm
+Mirror Entity
+Counterspell
+Ghastly Conjurer
+Arcanologist
+Mana Wyrm
+Kirin Tor Mage
+Arcanologist
+Mana Bind
+The Black Knight
+Primordial Glyph
+Firelands Portal
+Primordial Glyph
+---------------------------------------
+Winrate - 51,8518518518518
+Counterspell
+Wretched Tiller
+Burgly Bully
+Fireball
+Mirror Entity
+Arcanologist
+Fireball
+Kirin Tor Mage
+Firelands Portal
+Mana Wyrm
+Firelands Portal
+Archmage Antonidas
+Frostbolt
+Sorcerer's Apprentice
+Counterspell
+Ghastly Conjurer
+The Black Knight
+Mana Wyrm
+Kabal Crystal Runner
+Medivh's Valet
+Mana Bind
+Primordial Glyph
+Arcane Intellect
+Arcane Intellect
+Medivh's Valet
+Kabal Crystal Runner
+Kirin Tor Mage
+Sorcerer's Apprentice
+Primordial Glyph
+Arcanologist
+---------------------------------------
+Winrate - 51,8518518518518
+Fireball
+Angry Chicken
+Kabal Crystal Runner
+Ghastly Conjurer
+Mana Wyrm
+Arcanologist
+Mana Wyrm
+Fireball
+Mana Bind
+Mirror Entity
+Sorcerer's Apprentice
+Firelands Portal
+Burgly Bully
+Frostbolt
+Medivh's Valet
+Archmage Antonidas
+Arcanologist
+Medivh's Valet
+Arcane Intellect
+Primordial Glyph
+Primordial Glyph
+Arcane Intellect
+Kabal Crystal Runner
+The Black Knight
+Sorcerer's Apprentice
+Kirin Tor Mage
+Counterspell
+Kirin Tor Mage
+Counterspell
+Firelands Portal
+---------------------------------------
+Winrate - 51,8518518518518
+Mana Bind
+Sorcerer's Apprentice
+Fallen Sun Cleric
+Kabal Crystal Runner
+Frostbolt
+Frostbolt
+Primordial Glyph
+Mirror Entity
+Medivh's Valet
+Arcane Intellect
+Mana Wyrm
+Ghastly Conjurer
+Arcanologist
+The Black Knight
+Kirin Tor Mage
+Mana Wyrm
+Counterspell
+Arcane Intellect
+Primordial Glyph
+Kirin Tor Mage
+Counterspell
+Sorcerer's Apprentice
+Archmage Antonidas
+Firelands Portal
+Fireball
+Firelands Portal
+Burgly Bully
+Fireball
+Kabal Crystal Runner
+Arcanologist
+---------------------------------------
+Winrate - 51,8518518518518
+Sorcerer's Apprentice
+Burgly Bully
+Bloodfen Raptor
+Arcanologist
+Frostbolt
+The Black Knight
+Arcane Intellect
+Kabal Crystal Runner
+Ghastly Conjurer
+Counterspell
+Arcane Intellect
+Arcanologist
+Mana Wyrm
+Kirin Tor Mage
+Primordial Glyph
+Fireball
+Counterspell
+Medivh's Valet
+Mirror Entity
+Fireball
+Kirin Tor Mage
+Firelands Portal
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Archmage Antonidas
+Mana Wyrm
+Frostbolt
+Primordial Glyph
+Firelands Portal
+Mana Bind
+---------------------------------------
+Winrate - 53,0864197530864
+Arcanologist
+Kirin Tor Mage
+Frostbolt
+Emperor Cobra
+Mana Bind
+Arcane Intellect
+Counterspell
+Kabal Crystal Runner
+Kirin Tor Mage
+Counterspell
+Firelands Portal
+Fireball
+Medivh's Valet
+Burgly Bully
+Kabal Crystal Runner
+Mana Wyrm
+Archmage Antonidas
+The Black Knight
+Primordial Glyph
+Fireball
+Arcane Intellect
+Primordial Glyph
+Firelands Portal
+Mirror Entity
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Mana Wyrm
+Arcanologist
+Frostbolt
+Ghastly Conjurer
+---------------------------------------
+Winrate - 53,0864197530864
+Mana Wyrm
+Arcane Missiles
+Arcane Intellect
+Medivh's Valet
+Arcanologist
+Counterspell
+Mirror Entity
+Kirin Tor Mage
+The Black Knight
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Mana Bind
+Arcanologist
+Ghastly Conjurer
+Burgly Bully
+Frostbolt
+Fireball
+Firelands Portal
+Kirin Tor Mage
+Arcane Intellect
+Counterspell
+Primordial Glyph
+Sorcerer's Apprentice
+Fireball
+Medivh's Valet
+Primordial Glyph
+Firelands Portal
+Kabal Crystal Runner
+Archmage Antonidas
+Mana Wyrm
+---------------------------------------
+Winrate - 53,0864197530864
+Sorcerer's Apprentice
+Fireball
+Beckoner of Evil
+Kabal Crystal Runner
+Arcane Intellect
+Mirror Entity
+Kabal Crystal Runner
+Counterspell
+Mana Bind
+Kirin Tor Mage
+Burgly Bully
+Kirin Tor Mage
+Arcanologist
+Firelands Portal
+Ghastly Conjurer
+Frostbolt
+Primordial Glyph
+Archmage Antonidas
+Firelands Portal
+Medivh's Valet
+Primordial Glyph
+Counterspell
+The Black Knight
+Mana Wyrm
+Arcanologist
+Fireball
+Sorcerer's Apprentice
+Arcane Intellect
+Medivh's Valet
+Mana Wyrm
+---------------------------------------
+Winrate - 53,0864197530864
+Arcanologist
+Kirin Tor Mage
+Burgly Bully
+Mirror Entity
+Counterspell
+Counterspell
+Primordial Glyph
+Sorcerer's Apprentice
+Ghastly Conjurer
+Fireball
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+Arcane Intellect
+Arcanologist
+Archmage Antonidas
+Kirin Tor Mage
+The Black Knight
+Arcane Intellect
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Mana Wyrm
+Mana Bind
+Medivh's Valet
+Firelands Portal
+Mirror Entity
+Firelands Portal
+Medivh's Valet
+---------------------------------------
+Winrate - 53,0864197530864
+Mana Wyrm
+Fireball
+Arcane Intellect
+Frost Nova
+Counterspell
+Firelands Portal
+Arcane Intellect
+Primordial Glyph
+Medivh's Valet
+Kabal Crystal Runner
+Firelands Portal
+Mirror Entity
+Mana Wyrm
+Kabal Crystal Runner
+Counterspell
+Sorcerer's Apprentice
+Fireball
+Kirin Tor Mage
+Frostbolt
+Arcanologist
+Mana Bind
+Arcanologist
+Burgly Bully
+Kirin Tor Mage
+The Black Knight
+Sorcerer's Apprentice
+Archmage Antonidas
+Frostbolt
+Primordial Glyph
+Ghastly Conjurer
+---------------------------------------
+Winrate - 53,0864197530864
+Fireball
+Grimscale Oracle
+Archmage Antonidas
+Arcanologist
+Ghastly Conjurer
+Firelands Portal
+Primordial Glyph
+Counterspell
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Medivh's Valet
+Frostbolt
+Mana Bind
+The Black Knight
+Burgly Bully
+Kirin Tor Mage
+Firelands Portal
+Sorcerer's Apprentice
+Mana Wyrm
+Kabal Crystal Runner
+Arcane Intellect
+Fireball
+Arcanologist
+Frostbolt
+Arcane Intellect
+Kabal Crystal Runner
+Mirror Entity
+Sorcerer's Apprentice
+Counterspell
+---------------------------------------
+Winrate - 53,0864197530864
+Counterspell
+Mana Wyrm
+Arcanologist
+Sergeant Sally
+Frostbolt
+Burgly Bully
+Firelands Portal
+Primordial Glyph
+Counterspell
+Mana Wyrm
+Frostbolt
+The Black Knight
+Kirin Tor Mage
+Kirin Tor Mage
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Fireball
+Mirror Entity
+Firelands Portal
+Fireball
+Mana Bind
+Ghastly Conjurer
+Arcane Intellect
+Medivh's Valet
+Archmage Antonidas
+Primordial Glyph
+Arcanologist
+Arcane Intellect
+Kabal Crystal Runner
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 53,0864197530864
+Fireball
+Mirror Entity
+Mana Wyrm
+Earthen Ring Farseer
+Medivh's Valet
+Counterspell
+Kirin Tor Mage
+Archmage Antonidas
+Primordial Glyph
+Kabal Crystal Runner
+Frostbolt
+Ghastly Conjurer
+Kabal Crystal Runner
+Arcanologist
+Arcane Intellect
+Sorcerer's Apprentice
+Counterspell
+Primordial Glyph
+Burgly Bully
+Mana Wyrm
+Frostbolt
+Fireball
+Kirin Tor Mage
+Firelands Portal
+Mana Bind
+Sorcerer's Apprentice
+The Black Knight
+Arcane Intellect
+Firelands Portal
+Arcanologist
+---------------------------------------
+Winrate - 53,0864197530864
+Primordial Glyph
+Kirin Tor Mage
+Kabal Crystal Runner
+Street Trickster
+Mana Bind
+Mirror Entity
+The Black Knight
+Medivh's Valet
+Firelands Portal
+Fireball
+Counterspell
+Arcane Intellect
+Sorcerer's Apprentice
+Arcanologist
+Primordial Glyph
+Mana Wyrm
+Archmage Antonidas
+Counterspell
+Fireball
+Frostbolt
+Ghastly Conjurer
+Sorcerer's Apprentice
+Arcanologist
+Firelands Portal
+Burgly Bully
+Arcane Intellect
+Kirin Tor Mage
+Kabal Crystal Runner
+Frostbolt
+Mana Wyrm
+---------------------------------------
+Winrate - 53,0864197530864
+Sorcerer's Apprentice
+Counterspell
+Tainted Zealot
+Archmage Antonidas
+Firelands Portal
+Arcanologist
+Medivh's Valet
+Kirin Tor Mage
+Burgly Bully
+The Black Knight
+Sorcerer's Apprentice
+Mirror Entity
+Primordial Glyph
+Fireball
+Mana Wyrm
+Arcanologist
+Firelands Portal
+Arcane Intellect
+Mana Wyrm
+Arcane Intellect
+Ghastly Conjurer
+Frostbolt
+Frostbolt
+Kirin Tor Mage
+Fireball
+Kabal Crystal Runner
+Mana Bind
+Kabal Crystal Runner
+Primordial Glyph
+Counterspell
+---------------------------------------
+Winrate - 53,0864197530864
+Primordial Glyph
+Mana Wyrm
+Ghastly Conjurer
+Shallow Gravedigger
+Fireball
+Arcanologist
+Mana Bind
+Sorcerer's Apprentice
+Arcanologist
+Medivh's Valet
+Archmage Antonidas
+Kabal Crystal Runner
+Counterspell
+Fireball
+Counterspell
+The Black Knight
+Sorcerer's Apprentice
+Primordial Glyph
+Mirror Entity
+Mana Wyrm
+Medivh's Valet
+Kirin Tor Mage
+Firelands Portal
+Burgly Bully
+Firelands Portal
+Arcane Intellect
+Frostbolt
+Arcane Intellect
+Kabal Crystal Runner
+Kirin Tor Mage
+---------------------------------------
+Winrate - 53,0864197530864
+Mana Wyrm
+Kabal Crystal Runner
+Fireball
+Happy Ghoul
+Primordial Glyph
+Counterspell
+Counterspell
+Medivh's Valet
+Mana Bind
+Arcanologist
+Arcane Intellect
+The Black Knight
+Frostbolt
+Mana Wyrm
+Arcane Intellect
+Primordial Glyph
+Burgly Bully
+Fireball
+Arcanologist
+Archmage Antonidas
+Kabal Crystal Runner
+Firelands Portal
+Kirin Tor Mage
+Sorcerer's Apprentice
+Firelands Portal
+Mirror Entity
+Sorcerer's Apprentice
+Kirin Tor Mage
+Medivh's Valet
+Ghastly Conjurer
+---------------------------------------
+Winrate - 53,0864197530864
+Firelands Portal
+Breath of Sindragosa
+Mirror Entity
+Medivh's Valet
+Sorcerer's Apprentice
+Kirin Tor Mage
+Firelands Portal
+Counterspell
+Ghastly Conjurer
+Arcanologist
+Frostbolt
+Mana Wyrm
+Fireball
+Kirin Tor Mage
+Kabal Crystal Runner
+Fireball
+Archmage Antonidas
+Medivh's Valet
+Burgly Bully
+Sorcerer's Apprentice
+Primordial Glyph
+The Black Knight
+Mana Bind
+Kabal Crystal Runner
+Arcane Intellect
+Arcane Intellect
+Counterspell
+Mana Wyrm
+Primordial Glyph
+Arcanologist
+---------------------------------------
+Winrate - 53,0864197530864
+Kabal Crystal Runner
+Counterspell
+Arcanologist
+Hyldnir Frostrider
+Counterspell
+Kirin Tor Mage
+Medivh's Valet
+Frostbolt
+Fireball
+Mana Wyrm
+Mirror Entity
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+The Black Knight
+Burgly Bully
+Fireball
+Ghastly Conjurer
+Arcane Intellect
+Firelands Portal
+Firelands Portal
+Arcane Intellect
+Medivh's Valet
+Mana Wyrm
+Primordial Glyph
+Mana Bind
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Arcanologist
+Archmage Antonidas
+---------------------------------------
+Winrate - 53,0864197530864
+Kirin Tor Mage
+Fireball
+Pompous Thespian
+Mana Wyrm
+Arcane Intellect
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Medivh's Valet
+The Black Knight
+Primordial Glyph
+Archmage Antonidas
+Mana Bind
+Mirror Entity
+Medivh's Valet
+Primordial Glyph
+Ghastly Conjurer
+Mana Wyrm
+Fireball
+Firelands Portal
+Arcane Intellect
+Arcanologist
+Counterspell
+Kirin Tor Mage
+Kabal Crystal Runner
+Burgly Bully
+Arcanologist
+Kabal Crystal Runner
+Counterspell
+Firelands Portal
+Frostbolt
+---------------------------------------
+Winrate - 53,0864197530864
+Counterspell
+Worgen Infiltrator
+Arcanologist
+Firelands Portal
+Mana Bind
+Fireball
+Arcane Intellect
+Ghastly Conjurer
+The Black Knight
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Archmage Antonidas
+Kirin Tor Mage
+Medivh's Valet
+Kirin Tor Mage
+Counterspell
+Arcane Intellect
+Mirror Entity
+Burgly Bully
+Mana Wyrm
+Frostbolt
+Sorcerer's Apprentice
+Arcanologist
+Primordial Glyph
+Mana Wyrm
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Frostbolt
+---------------------------------------
+Winrate - 53,0864197530864
+Arcanologist
+Archmage Antonidas
+Frostwolf Grunt
+Primordial Glyph
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Firelands Portal
+Kirin Tor Mage
+Kabal Crystal Runner
+The Black Knight
+Firelands Portal
+Arcanologist
+Mana Wyrm
+Arcane Intellect
+Fireball
+Counterspell
+Sorcerer's Apprentice
+Mana Wyrm
+Counterspell
+Medivh's Valet
+Burgly Bully
+Frostbolt
+Primordial Glyph
+Arcane Intellect
+Mana Bind
+Mirror Entity
+Ghastly Conjurer
+Kirin Tor Mage
+Medivh's Valet
+---------------------------------------
+Winrate - 53,0864197530864
+Fireball
+Arcane Intellect
+Mana Bind
+Pantry Spider
+Medivh's Valet
+Firelands Portal
+Counterspell
+Archmage Antonidas
+Firelands Portal
+Mana Wyrm
+Frostbolt
+Kirin Tor Mage
+The Black Knight
+Burgly Bully
+Counterspell
+Mirror Entity
+Sorcerer's Apprentice
+Primordial Glyph
+Arcane Intellect
+Mana Wyrm
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Kirin Tor Mage
+Ghastly Conjurer
+Fireball
+Arcanologist
+Frostbolt
+Primordial Glyph
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 53,0864197530864
+The Black Knight
+Fireball
+Medivh's Valet
+Twilight Flamecaller
+Ghastly Conjurer
+Arcanologist
+Frostbolt
+Counterspell
+Counterspell
+Burgly Bully
+Firelands Portal
+Medivh's Valet
+Kirin Tor Mage
+Mana Wyrm
+Archmage Antonidas
+Kabal Crystal Runner
+Mana Wyrm
+Primordial Glyph
+Firelands Portal
+Mana Bind
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcanologist
+Kabal Crystal Runner
+Mirror Entity
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Primordial Glyph
+Arcane Intellect
+---------------------------------------
+Winrate - 53,0864197530864
+Counterspell
+Kirin Tor Mage
+Kobold Geomancer
+Burgly Bully
+Kabal Crystal Runner
+Ghastly Conjurer
+Frostbolt
+Medivh's Valet
+Frostbolt
+Archmage Antonidas
+The Black Knight
+Kirin Tor Mage
+Fireball
+Mana Wyrm
+Counterspell
+Mana Bind
+Arcanologist
+Arcane Intellect
+Arcanologist
+Sorcerer's Apprentice
+Mirror Entity
+Firelands Portal
+Primordial Glyph
+Arcane Intellect
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Sorcerer's Apprentice
+Fireball
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 53,0864197530864
+Fireball
+Medivh's Valet
+Sorcerer's Apprentice
+Spellbender
+Arcanologist
+Firelands Portal
+Kabal Crystal Runner
+Frostbolt
+Archmage Antonidas
+Fireball
+Counterspell
+Arcane Intellect
+Primordial Glyph
+Medivh's Valet
+Mana Wyrm
+Firelands Portal
+Counterspell
+Kabal Crystal Runner
+Sorcerer's Apprentice
+The Black Knight
+Arcanologist
+Mana Bind
+Ghastly Conjurer
+Arcane Intellect
+Mirror Entity
+Primordial Glyph
+Kirin Tor Mage
+Mana Wyrm
+Burgly Bully
+Kirin Tor Mage
+---------------------------------------
+Winrate - 53,0864197530864
+Counterspell
+Abusive Sergeant
+Kirin Tor Mage
+Frostbolt
+Kabal Crystal Runner
+Primordial Glyph
+Ghastly Conjurer
+Arcane Intellect
+Mana Bind
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Fireball
+Mana Wyrm
+Counterspell
+Frostbolt
+Arcane Intellect
+Mirror Entity
+Arcanologist
+Medivh's Valet
+Primordial Glyph
+Sorcerer's Apprentice
+Archmage Antonidas
+Burgly Bully
+Sorcerer's Apprentice
+The Black Knight
+Firelands Portal
+Kabal Crystal Runner
+Arcanologist
+Firelands Portal
+---------------------------------------
+Winrate - 53,0864197530864
+Sorcerer's Apprentice
+Fireball
+Bluegill Warrior
+Arcane Intellect
+Frostbolt
+Mirror Entity
+Counterspell
+Firelands Portal
+Counterspell
+Kirin Tor Mage
+Mana Bind
+Mana Wyrm
+Medivh's Valet
+Burgly Bully
+Archmage Antonidas
+Kirin Tor Mage
+Firelands Portal
+Mana Wyrm
+Arcane Intellect
+Primordial Glyph
+Primordial Glyph
+The Black Knight
+Kabal Crystal Runner
+Arcanologist
+Fireball
+Frostbolt
+Sorcerer's Apprentice
+Ghastly Conjurer
+Kabal Crystal Runner
+Arcanologist
+---------------------------------------
+Winrate - 53,0864197530864
+Mana Bind
+The Black Knight
+Mana Wyrm
+Deathspeaker
+Arcane Intellect
+Primordial Glyph
+Fireball
+Kabal Crystal Runner
+Archmage Antonidas
+Arcanologist
+Kirin Tor Mage
+Primordial Glyph
+Firelands Portal
+Frostbolt
+Sorcerer's Apprentice
+Arcanologist
+Fireball
+Mana Wyrm
+Sorcerer's Apprentice
+Mirror Entity
+Burgly Bully
+Medivh's Valet
+Arcane Intellect
+Medivh's Valet
+Counterspell
+Ghastly Conjurer
+Kirin Tor Mage
+Kabal Crystal Runner
+Counterspell
+Firelands Portal
+---------------------------------------
+Winrate - 53,0864197530864
+Medivh's Valet
+Mirror Entity
+Frostbolt
+Tauren Warrior
+Mana Wyrm
+Primordial Glyph
+Arcanologist
+Kirin Tor Mage
+Burgly Bully
+Primordial Glyph
+Arcane Intellect
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Mana Wyrm
+Fireball
+Counterspell
+The Black Knight
+Kabal Crystal Runner
+Kirin Tor Mage
+Ghastly Conjurer
+Mana Bind
+Firelands Portal
+Fireball
+Arcanologist
+Counterspell
+Archmage Antonidas
+Firelands Portal
+Arcane Intellect
+Frostbolt
+---------------------------------------
+Winrate - 54,320987654321
+Fireball
+Arcane Intellect
+Amani Berserker
+Sorcerer's Apprentice
+Firelands Portal
+Mana Bind
+Counterspell
+Fireball
+Arcanologist
+Burgly Bully
+Sorcerer's Apprentice
+Counterspell
+Kabal Crystal Runner
+Medivh's Valet
+Ghastly Conjurer
+The Black Knight
+Primordial Glyph
+Frostbolt
+Archmage Antonidas
+Arcanologist
+Mana Wyrm
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Mirror Entity
+Firelands Portal
+Arcane Intellect
+Frostbolt
+Kirin Tor Mage
+---------------------------------------
+Winrate - 54,320987654321
+Primordial Glyph
+Arcanologist
+Frostbolt
+Harvest Golem
+Ghastly Conjurer
+Archmage Antonidas
+Mirror Entity
+Kabal Crystal Runner
+Arcanologist
+Kirin Tor Mage
+Sorcerer's Apprentice
+Primordial Glyph
+Firelands Portal
+Kirin Tor Mage
+Arcane Intellect
+Fireball
+Medivh's Valet
+Mana Bind
+Counterspell
+Counterspell
+Frostbolt
+Firelands Portal
+Kabal Crystal Runner
+Burgly Bully
+Arcane Intellect
+Sorcerer's Apprentice
+Mana Wyrm
+Fireball
+The Black Knight
+Mana Wyrm
+---------------------------------------
+Winrate - 54,320987654321
+Arcane Intellect
+Frostbolt
+Crazed Alchemist
+Burgly Bully
+Archmage Antonidas
+Firelands Portal
+Arcanologist
+Arcane Intellect
+Kabal Crystal Runner
+The Black Knight
+Kirin Tor Mage
+Counterspell
+Mana Bind
+Counterspell
+Sorcerer's Apprentice
+Mirror Entity
+Firelands Portal
+Arcanologist
+Mana Wyrm
+Primordial Glyph
+Frostbolt
+Ghastly Conjurer
+Sorcerer's Apprentice
+Mana Wyrm
+Kirin Tor Mage
+Kabal Crystal Runner
+Primordial Glyph
+Fireball
+Fireball
+Medivh's Valet
+---------------------------------------
+Winrate - 54,320987654321
+Primordial Glyph
+Archmage Antonidas
+Kirin Tor Mage
+Hired Gun
+Mana Wyrm
+Frostbolt
+Kabal Crystal Runner
+Kabal Crystal Runner
+The Black Knight
+Counterspell
+Mirror Entity
+Medivh's Valet
+Frostbolt
+Arcanologist
+Sorcerer's Apprentice
+Primordial Glyph
+Firelands Portal
+Ghastly Conjurer
+Arcane Intellect
+Firelands Portal
+Kirin Tor Mage
+Mana Wyrm
+Fireball
+Arcane Intellect
+Counterspell
+Arcanologist
+Burgly Bully
+Sorcerer's Apprentice
+Fireball
+Mana Bind
+---------------------------------------
+Winrate - 54,320987654321
+Arcanologist
+Arcane Intellect
+Bloodsail Raider
+Firelands Portal
+Firelands Portal
+Medivh's Valet
+Frostbolt
+Burgly Bully
+Frostbolt
+Arcanologist
+Counterspell
+Fireball
+Kirin Tor Mage
+Archmage Antonidas
+Mana Wyrm
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Primordial Glyph
+Kabal Crystal Runner
+The Black Knight
+Mana Bind
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Counterspell
+Fireball
+Arcane Intellect
+Mirror Entity
+Ghastly Conjurer
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 54,320987654321
+Fireball
+Hungry Crab
+Sorcerer's Apprentice
+Primordial Glyph
+Mana Bind
+Mana Wyrm
+Sorcerer's Apprentice
+Counterspell
+Kirin Tor Mage
+Frostbolt
+Burgly Bully
+Arcanologist
+Arcane Intellect
+Archmage Antonidas
+Kabal Crystal Runner
+Kabal Crystal Runner
+Mirror Entity
+Arcane Intellect
+Arcanologist
+Medivh's Valet
+Counterspell
+Primordial Glyph
+Fireball
+Mana Wyrm
+Frostbolt
+Firelands Portal
+The Black Knight
+Ghastly Conjurer
+Firelands Portal
+Kirin Tor Mage
+---------------------------------------
+Winrate - 54,320987654321
+Frostbolt
+Burgly Bully
+Dire Wolf Alpha
+Sorcerer's Apprentice
+Kirin Tor Mage
+Mana Bind
+Counterspell
+The Black Knight
+Firelands Portal
+Medivh's Valet
+Kabal Crystal Runner
+Counterspell
+Arcanologist
+Mana Wyrm
+Arcane Intellect
+Mirror Entity
+Firelands Portal
+Sorcerer's Apprentice
+Arcanologist
+Kabal Crystal Runner
+Fireball
+Primordial Glyph
+Primordial Glyph
+Mana Wyrm
+Arcane Intellect
+Frostbolt
+Fireball
+Kirin Tor Mage
+Ghastly Conjurer
+Archmage Antonidas
+---------------------------------------
+Winrate - 54,320987654321
+Fireball
+Acherus Veteran
+Frostbolt
+Archmage Antonidas
+Burgly Bully
+Mana Wyrm
+Kirin Tor Mage
+Kabal Crystal Runner
+Primordial Glyph
+Arcanologist
+Medivh's Valet
+Arcane Intellect
+Sorcerer's Apprentice
+Mirror Entity
+Ghastly Conjurer
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Frostbolt
+Arcanologist
+Primordial Glyph
+Counterspell
+Arcane Intellect
+The Black Knight
+Fireball
+Firelands Portal
+Firelands Portal
+Mana Wyrm
+Kirin Tor Mage
+Counterspell
+Mana Bind
+---------------------------------------
+Winrate - 54,320987654321
+Mana Bind
+The Black Knight
+Arcane Intellect
+Questing Adventurer
+Counterspell
+Fireball
+Frostbolt
+Mana Wyrm
+Frostbolt
+Primordial Glyph
+Burgly Bully
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcane Intellect
+Firelands Portal
+Arcanologist
+Kabal Crystal Runner
+Ghastly Conjurer
+Kabal Crystal Runner
+Firelands Portal
+Fireball
+Archmage Antonidas
+Medivh's Valet
+Mana Wyrm
+Counterspell
+Kirin Tor Mage
+Mirror Entity
+Sorcerer's Apprentice
+Arcanologist
+Primordial Glyph
+---------------------------------------
+Winrate - 54,320987654321
+Arcane Intellect
+Firelands Portal
+Sorcerer's Apprentice
+Vicious Fledgling
+Kirin Tor Mage
+Counterspell
+Burgly Bully
+Mana Wyrm
+Mirror Entity
+Arcanologist
+Fireball
+Medivh's Valet
+Mana Wyrm
+Primordial Glyph
+Arcane Intellect
+Fireball
+Firelands Portal
+Medivh's Valet
+Counterspell
+Archmage Antonidas
+Frostbolt
+Kabal Crystal Runner
+Primordial Glyph
+Sorcerer's Apprentice
+The Black Knight
+Mana Bind
+Ghastly Conjurer
+Kirin Tor Mage
+Kabal Crystal Runner
+Arcanologist
+---------------------------------------
+Winrate - 54,320987654321
+Firelands Portal
+Murloc Raider
+Frostbolt
+Arcanologist
+Medivh's Valet
+The Black Knight
+Arcane Intellect
+Sorcerer's Apprentice
+Archmage Antonidas
+Fireball
+Mana Bind
+Mirror Entity
+Arcanologist
+Ghastly Conjurer
+Arcane Intellect
+Medivh's Valet
+Counterspell
+Kirin Tor Mage
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Fireball
+Kabal Crystal Runner
+Firelands Portal
+Mana Wyrm
+Kirin Tor Mage
+Burgly Bully
+Mana Wyrm
+Primordial Glyph
+Primordial Glyph
+Counterspell
+---------------------------------------
+Winrate - 54,320987654321
+Medivh's Valet
+Kirin Tor Mage
+Frostbolt
+Ice Block
+Arcane Intellect
+Archmage Antonidas
+Firelands Portal
+Kirin Tor Mage
+Fireball
+Medivh's Valet
+The Black Knight
+Arcane Intellect
+Mana Wyrm
+Mana Bind
+Burgly Bully
+Ghastly Conjurer
+Mirror Entity
+Mana Wyrm
+Counterspell
+Kabal Crystal Runner
+Fireball
+Sorcerer's Apprentice
+Primordial Glyph
+Arcanologist
+Counterspell
+Firelands Portal
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Primordial Glyph
+---------------------------------------
+Winrate - 54,320987654321
+Kirin Tor Mage
+Shifter Zerus
+Fireball
+Ghastly Conjurer
+Firelands Portal
+Mana Bind
+Counterspell
+Kabal Crystal Runner
+Archmage Antonidas
+Arcane Intellect
+Mana Wyrm
+Arcane Intellect
+Burgly Bully
+Arcanologist
+Sorcerer's Apprentice
+Mana Wyrm
+Mirror Entity
+Firelands Portal
+Kabal Crystal Runner
+Primordial Glyph
+Primordial Glyph
+Fireball
+Kirin Tor Mage
+Frostbolt
+Medivh's Valet
+Sorcerer's Apprentice
+Arcanologist
+The Black Knight
+Counterspell
+Medivh's Valet
+---------------------------------------
+Winrate - 54,320987654321
+Mana Bind
+Fireball
+Master Swordsmith
+Arcane Intellect
+Kirin Tor Mage
+Ghastly Conjurer
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Mana Wyrm
+Firelands Portal
+Kabal Crystal Runner
+Medivh's Valet
+Arcanologist
+Sorcerer's Apprentice
+Firelands Portal
+Mirror Entity
+Burgly Bully
+Medivh's Valet
+The Black Knight
+Counterspell
+Primordial Glyph
+Archmage Antonidas
+Counterspell
+Frostbolt
+Arcanologist
+Kabal Crystal Runner
+Primordial Glyph
+---------------------------------------
+Winrate - 54,320987654321
+Arcane Intellect
+Mana Bind
+Amani Berserker
+Kabal Crystal Runner
+Primordial Glyph
+Firelands Portal
+Kabal Crystal Runner
+Ghastly Conjurer
+Kirin Tor Mage
+Sorcerer's Apprentice
+Arcanologist
+Kirin Tor Mage
+Counterspell
+Arcanologist
+Frostbolt
+Firelands Portal
+Mana Wyrm
+Counterspell
+Arcane Intellect
+Sorcerer's Apprentice
+Burgly Bully
+Fireball
+Primordial Glyph
+The Black Knight
+Archmage Antonidas
+Mirror Entity
+Fireball
+Medivh's Valet
+Mana Wyrm
+Medivh's Valet
+---------------------------------------
+Winrate - 54,320987654321
+Mana Wyrm
+Arcane Intellect
+Volatile Elemental
+Kirin Tor Mage
+Firelands Portal
+Medivh's Valet
+Kabal Crystal Runner
+The Black Knight
+Firelands Portal
+Medivh's Valet
+Archmage Antonidas
+Counterspell
+Fireball
+Ghastly Conjurer
+Arcane Intellect
+Primordial Glyph
+Kabal Crystal Runner
+Frostbolt
+Burgly Bully
+Mana Bind
+Sorcerer's Apprentice
+Arcanologist
+Primordial Glyph
+Arcanologist
+Mana Wyrm
+Fireball
+Kirin Tor Mage
+Mirror Entity
+Sorcerer's Apprentice
+Counterspell
+---------------------------------------
+Winrate - 54,320987654321
+Mana Wyrm
+Runic Egg
+Mana Bind
+Firelands Portal
+Kirin Tor Mage
+Counterspell
+Arcanologist
+Ghastly Conjurer
+Arcanologist
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Primordial Glyph
+Arcane Intellect
+Fireball
+Counterspell
+Primordial Glyph
+Kabal Crystal Runner
+Medivh's Valet
+Archmage Antonidas
+Medivh's Valet
+Mirror Entity
+Fireball
+Kirin Tor Mage
+Arcane Intellect
+Frostbolt
+Sorcerer's Apprentice
+Mana Wyrm
+The Black Knight
+---------------------------------------
+Winrate - 54,320987654321
+The Black Knight
+Worgen Infiltrator
+Firelands Portal
+Arcane Intellect
+Medivh's Valet
+Fireball
+Arcane Intellect
+Primordial Glyph
+Burgly Bully
+Kabal Crystal Runner
+Firelands Portal
+Mirror Entity
+Kirin Tor Mage
+Ghastly Conjurer
+Primordial Glyph
+Counterspell
+Counterspell
+Mana Wyrm
+Archmage Antonidas
+Fireball
+Sorcerer's Apprentice
+Mana Bind
+Frostbolt
+Medivh's Valet
+Mana Wyrm
+Arcanologist
+Arcanologist
+Kirin Tor Mage
+Kabal Crystal Runner
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 54,320987654321
+The Black Knight
+Arcane Intellect
+Mana Bind
+Volcanic Potion
+Mana Wyrm
+Frostbolt
+Firelands Portal
+Kabal Crystal Runner
+Kirin Tor Mage
+Primordial Glyph
+Medivh's Valet
+Counterspell
+Counterspell
+Frostbolt
+Mana Wyrm
+Archmage Antonidas
+Primordial Glyph
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcane Intellect
+Fireball
+Fireball
+Arcanologist
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcanologist
+Ghastly Conjurer
+Mirror Entity
+Burgly Bully
+Firelands Portal
+---------------------------------------
+Winrate - 54,320987654321
+Ghastly Conjurer
+Archmage Antonidas
+Prince Keleseth
+Fireball
+Kirin Tor Mage
+Mana Wyrm
+The Black Knight
+Arcanologist
+Primordial Glyph
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Counterspell
+Firelands Portal
+Counterspell
+Mana Bind
+Firelands Portal
+Kabal Crystal Runner
+Arcane Intellect
+Mirror Entity
+Mana Wyrm
+Kirin Tor Mage
+Medivh's Valet
+Frostbolt
+Medivh's Valet
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Primordial Glyph
+Burgly Bully
+Arcanologist
+---------------------------------------
+Winrate - 54,320987654321
+Counterspell
+Shieldbearer
+Firelands Portal
+Arcanologist
+Counterspell
+Mana Wyrm
+Arcanologist
+Mana Wyrm
+Kirin Tor Mage
+Ghastly Conjurer
+Kabal Crystal Runner
+Arcane Intellect
+Kirin Tor Mage
+Firelands Portal
+The Black Knight
+Archmage Antonidas
+Primordial Glyph
+Mana Bind
+Mirror Entity
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Burgly Bully
+Frostbolt
+Medivh's Valet
+Primordial Glyph
+Fireball
+Medivh's Valet
+Arcane Intellect
+---------------------------------------
+Winrate - 55,5555555555556
+Arcane Intellect
+Primordial Glyph
+Arcanologist
+Razorfen Hunter
+Archmage Antonidas
+Counterspell
+Arcanologist
+Kirin Tor Mage
+Medivh's Valet
+Mana Wyrm
+Kabal Crystal Runner
+Counterspell
+Mana Bind
+Sorcerer's Apprentice
+Frostbolt
+Medivh's Valet
+Fireball
+Primordial Glyph
+Sorcerer's Apprentice
+Mirror Entity
+Burgly Bully
+Fireball
+Arcane Intellect
+Mana Wyrm
+Ghastly Conjurer
+Kabal Crystal Runner
+Kirin Tor Mage
+Firelands Portal
+Firelands Portal
+The Black Knight
+---------------------------------------
+Winrate - 55,5555555555556
+Fireball
+Arcane Intellect
+Knife Juggler
+Primordial Glyph
+Sorcerer's Apprentice
+Kirin Tor Mage
+Mana Wyrm
+Firelands Portal
+Arcane Intellect
+Kabal Crystal Runner
+Frostbolt
+The Black Knight
+Fireball
+Kabal Crystal Runner
+Ghastly Conjurer
+Mana Wyrm
+Arcanologist
+Arcanologist
+Counterspell
+Archmage Antonidas
+Counterspell
+Kirin Tor Mage
+Burgly Bully
+Medivh's Valet
+Medivh's Valet
+Mirror Entity
+Primordial Glyph
+Sorcerer's Apprentice
+Mana Bind
+Firelands Portal
+---------------------------------------
+Winrate - 55,5555555555556
+Primordial Glyph
+Arcane Missiles
+Counterspell
+Firelands Portal
+Kirin Tor Mage
+Arcanologist
+Archmage Antonidas
+The Black Knight
+Firelands Portal
+Sorcerer's Apprentice
+Fireball
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Ghastly Conjurer
+Kabal Crystal Runner
+Mana Wyrm
+Burgly Bully
+Arcane Intellect
+Arcanologist
+Fireball
+Mana Wyrm
+Arcane Intellect
+Medivh's Valet
+Counterspell
+Mirror Entity
+Frostbolt
+Mana Bind
+Kirin Tor Mage
+---------------------------------------
+Winrate - 55,5555555555556
+Medivh's Valet
+Sorcerer's Apprentice
+Mana Wyrm
+Tinkmaster Overspark
+Kabal Crystal Runner
+Arcanologist
+Firelands Portal
+Arcane Intellect
+Kirin Tor Mage
+Fireball
+Kabal Crystal Runner
+Primordial Glyph
+Ghastly Conjurer
+Counterspell
+Mana Wyrm
+Primordial Glyph
+Archmage Antonidas
+The Black Knight
+Counterspell
+Arcanologist
+Sorcerer's Apprentice
+Frostbolt
+Mana Bind
+Frostbolt
+Fireball
+Kirin Tor Mage
+Firelands Portal
+Burgly Bully
+Mirror Entity
+Arcane Intellect
+---------------------------------------
+Winrate - 55,5555555555556
+Sorcerer's Apprentice
+Firelands Portal
+Mana Bind
+Happy Ghoul
+The Black Knight
+Arcane Intellect
+Arcane Intellect
+Kirin Tor Mage
+Sorcerer's Apprentice
+Counterspell
+Frostbolt
+Arcanologist
+Primordial Glyph
+Mirror Entity
+Firelands Portal
+Kirin Tor Mage
+Fireball
+Mana Wyrm
+Frostbolt
+Fireball
+Kabal Crystal Runner
+Arcanologist
+Mana Wyrm
+Medivh's Valet
+Burgly Bully
+Archmage Antonidas
+Kabal Crystal Runner
+Counterspell
+Ghastly Conjurer
+Primordial Glyph
+---------------------------------------
+Winrate - 55,5555555555556
+Kabal Crystal Runner
+Arcane Intellect
+Arcanologist
+Razorfen Hunter
+Fireball
+Mana Wyrm
+Fireball
+Kirin Tor Mage
+Arcanologist
+Frostbolt
+Counterspell
+Burgly Bully
+Medivh's Valet
+Frostbolt
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+Archmage Antonidas
+Mana Bind
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Firelands Portal
+Primordial Glyph
+Ghastly Conjurer
+Counterspell
+Kirin Tor Mage
+The Black Knight
+Mirror Entity
+Sorcerer's Apprentice
+Mana Wyrm
+---------------------------------------
+Winrate - 55,5555555555556
+Sorcerer's Apprentice
+Elven Archer
+Kabal Crystal Runner
+Archmage Antonidas
+Arcanologist
+Firelands Portal
+Fireball
+Mana Wyrm
+Mana Bind
+Counterspell
+Arcane Intellect
+Frostbolt
+Sorcerer's Apprentice
+Medivh's Valet
+Kirin Tor Mage
+Kirin Tor Mage
+Arcanologist
+Mana Wyrm
+Primordial Glyph
+Ghastly Conjurer
+Primordial Glyph
+Firelands Portal
+Kabal Crystal Runner
+Mirror Entity
+Burgly Bully
+Arcane Intellect
+Fireball
+Frostbolt
+Counterspell
+The Black Knight
+---------------------------------------
+Winrate - 55,5555555555556
+Burgly Bully
+Mirror Entity
+Fallen Sun Cleric
+Mana Wyrm
+Arcanologist
+Sorcerer's Apprentice
+Kirin Tor Mage
+Kabal Crystal Runner
+Fireball
+The Black Knight
+Medivh's Valet
+Archmage Antonidas
+Arcane Intellect
+Frostbolt
+Ghastly Conjurer
+Medivh's Valet
+Arcanologist
+Sorcerer's Apprentice
+Firelands Portal
+Primordial Glyph
+Kirin Tor Mage
+Arcane Intellect
+Counterspell
+Kabal Crystal Runner
+Mana Bind
+Mana Wyrm
+Fireball
+Firelands Portal
+Counterspell
+Primordial Glyph
+---------------------------------------
+Winrate - 55,5555555555556
+Primordial Glyph
+Primordial Glyph
+Archmage Antonidas
+Emperor Cobra
+The Black Knight
+Kabal Crystal Runner
+Kirin Tor Mage
+Counterspell
+Firelands Portal
+Kirin Tor Mage
+Counterspell
+Frostbolt
+Arcanologist
+Fireball
+Firelands Portal
+Mana Wyrm
+Arcanologist
+Fireball
+Arcane Intellect
+Medivh's Valet
+Sorcerer's Apprentice
+Arcane Intellect
+Mana Wyrm
+Sorcerer's Apprentice
+Mirror Entity
+Burgly Bully
+Mana Bind
+Ghastly Conjurer
+Kabal Crystal Runner
+Medivh's Valet
+---------------------------------------
+Winrate - 55,5555555555556
+Counterspell
+Primordial Glyph
+Kirin Tor Mage
+Thrallmar Farseer
+Archmage Antonidas
+Kabal Crystal Runner
+Mana Bind
+Firelands Portal
+Medivh's Valet
+Arcane Intellect
+Mana Wyrm
+Burgly Bully
+Medivh's Valet
+Primordial Glyph
+Firelands Portal
+Arcanologist
+Counterspell
+Arcane Intellect
+The Black Knight
+Frostbolt
+Fireball
+Fireball
+Ghastly Conjurer
+Kirin Tor Mage
+Mirror Entity
+Arcanologist
+Mana Wyrm
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 55,5555555555556
+Sorcerer's Apprentice
+Zealous Initiate
+Kabal Crystal Runner
+Kirin Tor Mage
+The Black Knight
+Firelands Portal
+Counterspell
+Mana Bind
+Burgly Bully
+Arcane Intellect
+Arcanologist
+Medivh's Valet
+Mana Wyrm
+Primordial Glyph
+Firelands Portal
+Fireball
+Archmage Antonidas
+Kirin Tor Mage
+Arcane Intellect
+Frostbolt
+Fireball
+Mirror Entity
+Medivh's Valet
+Arcanologist
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Counterspell
+Ghastly Conjurer
+Primordial Glyph
+Mana Wyrm
+---------------------------------------
+Winrate - 55,5555555555556
+Arcanologist
+Kabal Crystal Runner
+Sunfury Protector
+Medivh's Valet
+Mana Wyrm
+Firelands Portal
+Mirror Entity
+Ghastly Conjurer
+Mana Bind
+Kirin Tor Mage
+Mana Wyrm
+Arcane Intellect
+Sorcerer's Apprentice
+Burgly Bully
+Fireball
+Firelands Portal
+Primordial Glyph
+Fireball
+Counterspell
+Archmage Antonidas
+Kabal Crystal Runner
+Arcane Intellect
+Frostbolt
+Frostbolt
+The Black Knight
+Primordial Glyph
+Arcanologist
+Kirin Tor Mage
+Sorcerer's Apprentice
+Counterspell
+---------------------------------------
+Winrate - 55,5555555555556
+Mana Wyrm
+Mana Bind
+Archmage Antonidas
+Vryghoul
+Kabal Crystal Runner
+Kirin Tor Mage
+Mana Wyrm
+Burgly Bully
+Arcanologist
+Fireball
+Arcane Intellect
+Kabal Crystal Runner
+Frostbolt
+Primordial Glyph
+Kirin Tor Mage
+Arcanologist
+Counterspell
+Sorcerer's Apprentice
+Firelands Portal
+Mirror Entity
+Primordial Glyph
+Fireball
+Frostbolt
+Counterspell
+Firelands Portal
+Ghastly Conjurer
+Sorcerer's Apprentice
+Arcane Intellect
+The Black Knight
+Medivh's Valet
+---------------------------------------
+Winrate - 55,5555555555556
+Frostbolt
+Arcane Intellect
+Counterspell
+Primalfin Lookout
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+Arcanologist
+Medivh's Valet
+Arcane Intellect
+Kirin Tor Mage
+Counterspell
+Firelands Portal
+Ghastly Conjurer
+Primordial Glyph
+Mana Wyrm
+Sorcerer's Apprentice
+Mana Bind
+Mana Wyrm
+Kabal Crystal Runner
+Archmage Antonidas
+The Black Knight
+Arcanologist
+Mirror Entity
+Medivh's Valet
+Fireball
+Kirin Tor Mage
+Fireball
+Kabal Crystal Runner
+Primordial Glyph
+---------------------------------------
+Winrate - 55,5555555555556
+Primordial Glyph
+Primordial Glyph
+Burgly Bully
+Pterrordax Hatchling
+Firelands Portal
+The Black Knight
+Counterspell
+Kabal Crystal Runner
+Mana Wyrm
+Archmage Antonidas
+Fireball
+Counterspell
+Arcanologist
+Kabal Crystal Runner
+Medivh's Valet
+Mana Wyrm
+Fireball
+Sorcerer's Apprentice
+Mana Bind
+Kirin Tor Mage
+Medivh's Valet
+Frostbolt
+Ghastly Conjurer
+Firelands Portal
+Kirin Tor Mage
+Arcanologist
+Arcane Intellect
+Sorcerer's Apprentice
+Arcane Intellect
+Mirror Entity
+---------------------------------------
+Winrate - 55,5555555555556
+Kabal Crystal Runner
+Arcane Anomaly
+Archmage Antonidas
+The Black Knight
+Counterspell
+Arcanologist
+Kirin Tor Mage
+Arcanologist
+Burgly Bully
+Ghastly Conjurer
+Arcane Intellect
+Fireball
+Mana Bind
+Firelands Portal
+Frostbolt
+Kirin Tor Mage
+Mana Wyrm
+Sorcerer's Apprentice
+Primordial Glyph
+Fireball
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Medivh's Valet
+Arcane Intellect
+Mirror Entity
+Sorcerer's Apprentice
+Mana Wyrm
+Frostbolt
+Counterspell
+---------------------------------------
+Winrate - 55,5555555555556
+Arcanologist
+Primordial Glyph
+Firelands Portal
+Raging Worgen
+Fireball
+Sorcerer's Apprentice
+Mana Wyrm
+Arcanologist
+Ghastly Conjurer
+Kabal Crystal Runner
+Mana Wyrm
+Frostbolt
+Kabal Crystal Runner
+Kirin Tor Mage
+Counterspell
+Mana Bind
+Medivh's Valet
+Fireball
+Arcane Intellect
+Primordial Glyph
+Firelands Portal
+Archmage Antonidas
+Sorcerer's Apprentice
+Arcane Intellect
+Mirror Entity
+Burgly Bully
+The Black Knight
+Counterspell
+Frostbolt
+Kirin Tor Mage
+---------------------------------------
+Winrate - 55,5555555555556
+Arcane Intellect
+Firelands Portal
+Sorcerer's Apprentice
+Raid Leader
+Fireball
+Arcanologist
+Counterspell
+Mana Wyrm
+Kirin Tor Mage
+Ghastly Conjurer
+Burgly Bully
+Frostbolt
+Kirin Tor Mage
+Primordial Glyph
+Medivh's Valet
+Arcanologist
+Mana Wyrm
+Firelands Portal
+Frostbolt
+Counterspell
+Primordial Glyph
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Kabal Crystal Runner
+Mana Bind
+Kabal Crystal Runner
+Archmage Antonidas
+The Black Knight
+Mirror Entity
+---------------------------------------
+Winrate - 55,5555555555556
+Fireball
+Burgly Bully
+The Black Knight
+Raid Leader
+Fireball
+Frostbolt
+Mana Wyrm
+Firelands Portal
+Ghastly Conjurer
+Primordial Glyph
+Kirin Tor Mage
+Counterspell
+Arcane Intellect
+Kabal Crystal Runner
+Arcanologist
+Medivh's Valet
+Sorcerer's Apprentice
+Arcanologist
+Arcane Intellect
+Counterspell
+Archmage Antonidas
+Medivh's Valet
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Kirin Tor Mage
+Mana Wyrm
+Firelands Portal
+Mirror Entity
+Primordial Glyph
+Mana Bind
+---------------------------------------
+Winrate - 55,5555555555556
+Sorcerer's Apprentice
+Babbling Book
+Burgly Bully
+Mana Wyrm
+Arcanologist
+Kabal Crystal Runner
+Kirin Tor Mage
+Medivh's Valet
+Primordial Glyph
+Arcane Intellect
+Frostbolt
+Firelands Portal
+Frostbolt
+Sorcerer's Apprentice
+Firelands Portal
+Ghastly Conjurer
+Counterspell
+Arcanologist
+Archmage Antonidas
+Kabal Crystal Runner
+Fireball
+Fireball
+The Black Knight
+Arcane Intellect
+Mana Wyrm
+Kirin Tor Mage
+Mana Bind
+Counterspell
+Mirror Entity
+Primordial Glyph
+---------------------------------------
+Winrate - 56,7901234567901
+The Black Knight
+Frostbolt
+Golakka Crawler
+Arcanologist
+Primordial Glyph
+Medivh's Valet
+Mana Wyrm
+Medivh's Valet
+Archmage Antonidas
+Kabal Crystal Runner
+Kirin Tor Mage
+Ghastly Conjurer
+Arcane Intellect
+Kirin Tor Mage
+Arcane Intellect
+Mana Bind
+Arcanologist
+Sorcerer's Apprentice
+Primordial Glyph
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Fireball
+Counterspell
+Burgly Bully
+Counterspell
+Firelands Portal
+Mirror Entity
+Mana Wyrm
+Firelands Portal
+---------------------------------------
+Winrate - 56,7901234567901
+Mana Bind
+Arcane Intellect
+Bluegill Warrior
+Kirin Tor Mage
+Arcanologist
+Arcane Intellect
+The Black Knight
+Mirror Entity
+Kirin Tor Mage
+Medivh's Valet
+Firelands Portal
+Medivh's Valet
+Fireball
+Ghastly Conjurer
+Primordial Glyph
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Arcanologist
+Sorcerer's Apprentice
+Mana Wyrm
+Burgly Bully
+Counterspell
+Fireball
+Mana Wyrm
+Archmage Antonidas
+Counterspell
+Kabal Crystal Runner
+Firelands Portal
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 56,7901234567901
+Medivh's Valet
+Medivh's Valet
+The Black Knight
+Imp Master
+Primordial Glyph
+Kabal Crystal Runner
+Firelands Portal
+Primordial Glyph
+Arcanologist
+Burgly Bully
+Kirin Tor Mage
+Sorcerer's Apprentice
+Mana Wyrm
+Arcanologist
+Arcane Intellect
+Archmage Antonidas
+Kirin Tor Mage
+Counterspell
+Mirror Entity
+Fireball
+Mana Bind
+Kabal Crystal Runner
+Frostbolt
+Fireball
+Firelands Portal
+Counterspell
+Ghastly Conjurer
+Sorcerer's Apprentice
+Mana Wyrm
+Arcane Intellect
+---------------------------------------
+Winrate - 56,7901234567901
+Frostbolt
+Sorcerer's Apprentice
+Mana Addict
+Arcanologist
+Medivh's Valet
+Firelands Portal
+Ghastly Conjurer
+Arcane Intellect
+Mana Wyrm
+Burgly Bully
+Kirin Tor Mage
+Arcanologist
+Medivh's Valet
+Sorcerer's Apprentice
+Mana Wyrm
+Archmage Antonidas
+Counterspell
+Primordial Glyph
+The Black Knight
+Counterspell
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcane Intellect
+Mana Bind
+Mirror Entity
+Fireball
+Primordial Glyph
+Firelands Portal
+Kabal Crystal Runner
+Fireball
+---------------------------------------
+Winrate - 56,7901234567901
+Kabal Crystal Runner
+The Black Knight
+Arcane Intellect
+Auctionmaster Beardo
+Mana Wyrm
+Mirror Entity
+Burgly Bully
+Arcane Intellect
+Frostbolt
+Frostbolt
+Firelands Portal
+Mana Wyrm
+Kirin Tor Mage
+Ghastly Conjurer
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcanologist
+Arcanologist
+Counterspell
+Sorcerer's Apprentice
+Medivh's Valet
+Primordial Glyph
+Primordial Glyph
+Kirin Tor Mage
+Counterspell
+Archmage Antonidas
+Firelands Portal
+Fireball
+Fireball
+Mana Bind
+---------------------------------------
+Winrate - 56,7901234567901
+Mana Wyrm
+Babbling Book
+Mana Wyrm
+Arcanologist
+Frostbolt
+Ghastly Conjurer
+Counterspell
+Arcane Intellect
+Mirror Entity
+Mana Bind
+Arcane Intellect
+Arcanologist
+Medivh's Valet
+Burgly Bully
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Firelands Portal
+Sorcerer's Apprentice
+Primordial Glyph
+Counterspell
+Archmage Antonidas
+Kirin Tor Mage
+Firelands Portal
+The Black Knight
+Primordial Glyph
+Fireball
+Kirin Tor Mage
+Medivh's Valet
+Kabal Crystal Runner
+Fireball
+---------------------------------------
+Winrate - 56,7901234567901
+Sorcerer's Apprentice
+Fireball
+Archmage Antonidas
+Doomed Apprentice
+Arcanologist
+Kirin Tor Mage
+Mana Wyrm
+Arcane Intellect
+Arcanologist
+Arcane Intellect
+Burgly Bully
+Primordial Glyph
+Counterspell
+Primordial Glyph
+Mana Wyrm
+Medivh's Valet
+Firelands Portal
+The Black Knight
+Counterspell
+Kirin Tor Mage
+Medivh's Valet
+Sorcerer's Apprentice
+Frostbolt
+Kabal Crystal Runner
+Mirror Entity
+Kabal Crystal Runner
+Firelands Portal
+Mana Bind
+Fireball
+Ghastly Conjurer
+---------------------------------------
+Winrate - 56,7901234567901
+Primordial Glyph
+Shieldbearer
+Arcanologist
+Kirin Tor Mage
+Medivh's Valet
+Kabal Crystal Runner
+Arcane Intellect
+Arcane Intellect
+Primordial Glyph
+Kirin Tor Mage
+Mana Wyrm
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Fireball
+Frostbolt
+Archmage Antonidas
+Arcanologist
+Frostbolt
+Counterspell
+Counterspell
+The Black Knight
+Mana Wyrm
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Firelands Portal
+Mana Bind
+Burgly Bully
+Ghastly Conjurer
+Mirror Entity
+---------------------------------------
+Winrate - 56,7901234567901
+Mana Bind
+Mana Wyrm
+Mana Wyrm
+Earthen Ring Farseer
+Ghastly Conjurer
+Primordial Glyph
+Counterspell
+Mirror Entity
+Kirin Tor Mage
+Fireball
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+Arcanologist
+Kabal Crystal Runner
+Arcanologist
+The Black Knight
+Medivh's Valet
+Frostbolt
+Medivh's Valet
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Archmage Antonidas
+Counterspell
+Fireball
+Arcane Intellect
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Burgly Bully
+---------------------------------------
+Winrate - 56,7901234567901
+Kabal Crystal Runner
+Mana Wyrm
+Kabal Crystal Runner
+Acolyte of Pain
+Kirin Tor Mage
+Mana Bind
+The Black Knight
+Firelands Portal
+Frostbolt
+Mirror Entity
+Arcane Intellect
+Arcane Intellect
+Counterspell
+Burgly Bully
+Archmage Antonidas
+Arcanologist
+Firelands Portal
+Arcanologist
+Fireball
+Sorcerer's Apprentice
+Kirin Tor Mage
+Frostbolt
+Primordial Glyph
+Primordial Glyph
+Counterspell
+Fireball
+Sorcerer's Apprentice
+Mana Wyrm
+Ghastly Conjurer
+Medivh's Valet
+---------------------------------------
+Winrate - 56,7901234567901
+Mana Wyrm
+Firelands Portal
+Sorcerer's Apprentice
+Coldlight Seer
+Arcanologist
+Arcane Intellect
+The Black Knight
+Ghastly Conjurer
+Kirin Tor Mage
+Medivh's Valet
+Arcanologist
+Sorcerer's Apprentice
+Fireball
+Mana Bind
+Kirin Tor Mage
+Primordial Glyph
+Frostbolt
+Burgly Bully
+Kabal Crystal Runner
+Mana Wyrm
+Frostbolt
+Counterspell
+Primordial Glyph
+Arcane Intellect
+Firelands Portal
+Archmage Antonidas
+Counterspell
+Fireball
+Kabal Crystal Runner
+Mirror Entity
+---------------------------------------
+Winrate - 56,7901234567901
+Kabal Crystal Runner
+Counterspell
+Sunfury Protector
+Counterspell
+Arcanologist
+Firelands Portal
+Arcane Intellect
+Fireball
+Primordial Glyph
+Arcane Intellect
+Kirin Tor Mage
+Kirin Tor Mage
+Sorcerer's Apprentice
+The Black Knight
+Mana Bind
+Ghastly Conjurer
+Medivh's Valet
+Frostbolt
+Kabal Crystal Runner
+Medivh's Valet
+Mirror Entity
+Mana Wyrm
+Firelands Portal
+Archmage Antonidas
+Mana Wyrm
+Primordial Glyph
+Burgly Bully
+Fireball
+Arcanologist
+Sorcerer's Apprentice
+---------------------------------------
+Winrate - 56,7901234567901
+Kabal Crystal Runner
+Lightwarden
+Mana Wyrm
+Firelands Portal
+Counterspell
+Firelands Portal
+Burgly Bully
+Arcane Intellect
+Fireball
+Arcanologist
+Frostbolt
+Mana Bind
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Mirror Entity
+Arcane Intellect
+Kirin Tor Mage
+Ghastly Conjurer
+Counterspell
+Archmage Antonidas
+Fireball
+Medivh's Valet
+Frostbolt
+Primordial Glyph
+Sorcerer's Apprentice
+Arcanologist
+Mana Wyrm
+Primordial Glyph
+The Black Knight
+Kirin Tor Mage
+---------------------------------------
+Winrate - 56,7901234567901
+Sorcerer's Apprentice
+Medivh's Valet
+Novice Engineer
+Mana Wyrm
+Burgly Bully
+Arcanologist
+Frostbolt
+Mirror Entity
+Ghastly Conjurer
+Firelands Portal
+Kirin Tor Mage
+Fireball
+Archmage Antonidas
+Fireball
+Primordial Glyph
+Arcanologist
+Mana Bind
+Counterspell
+Kabal Crystal Runner
+Medivh's Valet
+Kirin Tor Mage
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcane Intellect
+Mana Wyrm
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+Counterspell
+The Black Knight
+---------------------------------------
+Winrate - 56,7901234567901
+Firelands Portal
+Primordial Glyph
+Mana Addict
+Burgly Bully
+Arcane Intellect
+Arcane Intellect
+Ghastly Conjurer
+Arcanologist
+Primordial Glyph
+Frostbolt
+Mana Bind
+Firelands Portal
+Mirror Entity
+Counterspell
+Mana Wyrm
+Medivh's Valet
+Sorcerer's Apprentice
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+Kabal Crystal Runner
+The Black Knight
+Kirin Tor Mage
+Sorcerer's Apprentice
+Fireball
+Kirin Tor Mage
+Frostbolt
+Arcanologist
+Archmage Antonidas
+Counterspell
+---------------------------------------
+Winrate - 56,7901234567901
+Arcane Intellect
+Elven Archer
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Fireball
+Firelands Portal
+Arcanologist
+Primordial Glyph
+Counterspell
+Firelands Portal
+Frostbolt
+Sorcerer's Apprentice
+Mana Wyrm
+Counterspell
+Primordial Glyph
+The Black Knight
+Medivh's Valet
+Kirin Tor Mage
+Arcanologist
+Kabal Crystal Runner
+Medivh's Valet
+Mana Bind
+Archmage Antonidas
+Burgly Bully
+Kabal Crystal Runner
+Mirror Entity
+Sorcerer's Apprentice
+Arcane Intellect
+Ghastly Conjurer
+---------------------------------------
+Winrate - 56,7901234567901
+Counterspell
+Ghastly Conjurer
+Burgly Bully
+Murloc Warleader
+Fireball
+Primordial Glyph
+Mirror Entity
+Kirin Tor Mage
+Arcanologist
+Medivh's Valet
+Kirin Tor Mage
+Arcanologist
+Fireball
+Sorcerer's Apprentice
+Medivh's Valet
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Archmage Antonidas
+Sorcerer's Apprentice
+Counterspell
+Arcane Intellect
+The Black Knight
+Mana Bind
+Kabal Crystal Runner
+Frostbolt
+Mana Wyrm
+Arcane Intellect
+Firelands Portal
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 58,0246913580247
+Arcane Intellect
+Young Priestess
+Firelands Portal
+Arcane Intellect
+Medivh's Valet
+Primordial Glyph
+Kirin Tor Mage
+Arcanologist
+Sorcerer's Apprentice
+Medivh's Valet
+Fireball
+Counterspell
+Firelands Portal
+Counterspell
+Kabal Crystal Runner
+Mana Wyrm
+The Black Knight
+Archmage Antonidas
+Mana Wyrm
+Mana Bind
+Sorcerer's Apprentice
+Ghastly Conjurer
+Kirin Tor Mage
+Primordial Glyph
+Arcanologist
+Fireball
+Frostbolt
+Mirror Entity
+Burgly Bully
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 58,0246913580247
+Kirin Tor Mage
+Fireball
+Ice Walker
+Counterspell
+Mana Bind
+Primordial Glyph
+Firelands Portal
+Mirror Entity
+Medivh's Valet
+Sorcerer's Apprentice
+Burgly Bully
+Sorcerer's Apprentice
+Counterspell
+Kabal Crystal Runner
+Arcane Intellect
+Ghastly Conjurer
+Frostbolt
+Kabal Crystal Runner
+Mana Wyrm
+Archmage Antonidas
+Kirin Tor Mage
+Mana Wyrm
+The Black Knight
+Frostbolt
+Arcanologist
+Primordial Glyph
+Arcane Intellect
+Arcanologist
+Firelands Portal
+Fireball
+---------------------------------------
+Winrate - 58,0246913580247
+Kirin Tor Mage
+Mirror Entity
+Arcanologist
+Shattered Sun Cleric
+Mana Wyrm
+Kabal Crystal Runner
+Counterspell
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Primordial Glyph
+Primordial Glyph
+Arcanologist
+Firelands Portal
+Medivh's Valet
+Ghastly Conjurer
+Counterspell
+Arcane Intellect
+Arcane Intellect
+Kirin Tor Mage
+Mana Bind
+Firelands Portal
+Fireball
+Mana Wyrm
+Archmage Antonidas
+Sorcerer's Apprentice
+Burgly Bully
+Medivh's Valet
+Frostbolt
+Fireball
+The Black Knight
+---------------------------------------
+Winrate - 58,0246913580247
+Frostbolt
+Kabal Crystal Runner
+Firelands Portal
+Coldwraith
+Counterspell
+Arcanologist
+Primordial Glyph
+The Black Knight
+Arcane Intellect
+Mirror Entity
+Kirin Tor Mage
+Arcane Intellect
+Mana Wyrm
+Frostbolt
+Sorcerer's Apprentice
+Archmage Antonidas
+Mana Bind
+Arcanologist
+Counterspell
+Fireball
+Primordial Glyph
+Ghastly Conjurer
+Mana Wyrm
+Firelands Portal
+Kabal Crystal Runner
+Kirin Tor Mage
+Medivh's Valet
+Burgly Bully
+Sorcerer's Apprentice
+Fireball
+---------------------------------------
+Winrate - 58,0246913580247
+Mirror Entity
+Sorcerer's Apprentice
+Mad Bomber
+Counterspell
+Mana Bind
+Counterspell
+Arcane Intellect
+Kabal Crystal Runner
+Primordial Glyph
+Fireball
+Mana Wyrm
+Arcanologist
+Firelands Portal
+Mana Wyrm
+Kirin Tor Mage
+Kirin Tor Mage
+Frostbolt
+Medivh's Valet
+Fireball
+Burgly Bully
+Primordial Glyph
+Medivh's Valet
+Ghastly Conjurer
+Arcane Intellect
+Arcanologist
+Sorcerer's Apprentice
+Firelands Portal
+The Black Knight
+Kabal Crystal Runner
+Archmage Antonidas
+---------------------------------------
+Winrate - 58,0246913580247
+The Black Knight
+Ghastly Conjurer
+Kirin Tor Mage
+Raging Worgen
+Frostbolt
+Kabal Crystal Runner
+Kirin Tor Mage
+Firelands Portal
+Archmage Antonidas
+Medivh's Valet
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Firelands Portal
+Arcanologist
+Fireball
+Fireball
+Arcane Intellect
+Mana Wyrm
+Mana Wyrm
+Primordial Glyph
+Medivh's Valet
+Arcanologist
+Mana Bind
+Kabal Crystal Runner
+Counterspell
+Arcane Intellect
+Mirror Entity
+Burgly Bully
+Counterspell
+Primordial Glyph
+---------------------------------------
+Winrate - 58,0246913580247
+Arcane Intellect
+Voodoo Doctor
+The Black Knight
+Archmage Antonidas
+Kirin Tor Mage
+Mana Wyrm
+Kabal Crystal Runner
+Mana Wyrm
+Kirin Tor Mage
+Firelands Portal
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+Mirror Entity
+Burgly Bully
+Medivh's Valet
+Sorcerer's Apprentice
+Firelands Portal
+Ghastly Conjurer
+Arcanologist
+Fireball
+Medivh's Valet
+Primordial Glyph
+Primordial Glyph
+Arcanologist
+Counterspell
+Counterspell
+Frostbolt
+Kabal Crystal Runner
+Mana Bind
+---------------------------------------
+Winrate - 58,0246913580247
+Burgly Bully
+Fireball
+Arcanologist
+Hyldnir Frostrider
+Fireball
+The Black Knight
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Ghastly Conjurer
+Mana Wyrm
+Arcane Intellect
+Mana Wyrm
+Kirin Tor Mage
+Kirin Tor Mage
+Firelands Portal
+Sorcerer's Apprentice
+Primordial Glyph
+Mana Bind
+Archmage Antonidas
+Arcane Intellect
+Kabal Crystal Runner
+Frostbolt
+Counterspell
+Counterspell
+Mirror Entity
+Arcanologist
+Medivh's Valet
+Firelands Portal
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 58,0246913580247
+Counterspell
+Kabal Crystal Runner
+The Black Knight
+Southsea Captain
+Mana Bind
+Archmage Antonidas
+Arcane Intellect
+Mana Wyrm
+Mirror Entity
+Medivh's Valet
+Kirin Tor Mage
+Burgly Bully
+Mana Wyrm
+Ghastly Conjurer
+Kabal Crystal Runner
+Arcanologist
+Fireball
+Arcanologist
+Primordial Glyph
+Medivh's Valet
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Counterspell
+Firelands Portal
+Frostbolt
+Primordial Glyph
+Firelands Portal
+Fireball
+Arcane Intellect
+Kirin Tor Mage
+---------------------------------------
+Winrate - 58,0246913580247
+Sorcerer's Apprentice
+Firelands Portal
+Friendly Bartender
+Mirror Entity
+Mana Wyrm
+Arcane Intellect
+Fireball
+Medivh's Valet
+Primordial Glyph
+Archmage Antonidas
+Arcanologist
+Primordial Glyph
+Arcanologist
+Arcane Intellect
+Mana Wyrm
+Firelands Portal
+Sorcerer's Apprentice
+Mana Bind
+Frostbolt
+Counterspell
+Counterspell
+Frostbolt
+The Black Knight
+Ghastly Conjurer
+Fireball
+Kirin Tor Mage
+Kabal Crystal Runner
+Burgly Bully
+Kirin Tor Mage
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 58,0246913580247
+Counterspell
+Burgly Bully
+Counterspell
+Thrallmar Farseer
+Archmage Antonidas
+Arcane Intellect
+Firelands Portal
+Sorcerer's Apprentice
+The Black Knight
+Mana Wyrm
+Sorcerer's Apprentice
+Medivh's Valet
+Arcane Intellect
+Arcanologist
+Kabal Crystal Runner
+Ghastly Conjurer
+Frostbolt
+Firelands Portal
+Mana Bind
+Primordial Glyph
+Primordial Glyph
+Fireball
+Kirin Tor Mage
+Kabal Crystal Runner
+Mana Wyrm
+Fireball
+Mirror Entity
+Arcanologist
+Frostbolt
+Kirin Tor Mage
+---------------------------------------
+Winrate - 58,0246913580247
+Kabal Crystal Runner
+Archmage Antonidas
+Knife Juggler
+Primordial Glyph
+Counterspell
+Primordial Glyph
+Fireball
+Counterspell
+Burgly Bully
+Arcanologist
+The Black Knight
+Kirin Tor Mage
+Mana Bind
+Ghastly Conjurer
+Kirin Tor Mage
+Frostbolt
+Mana Wyrm
+Arcane Intellect
+Arcanologist
+Mirror Entity
+Arcane Intellect
+Medivh's Valet
+Sorcerer's Apprentice
+Firelands Portal
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Mana Wyrm
+Frostbolt
+Firelands Portal
+Fireball
+---------------------------------------
+Winrate - 58,0246913580247
+Sorcerer's Apprentice
+Firelands Portal
+Mana Wraith
+Medivh's Valet
+Kirin Tor Mage
+Arcane Intellect
+Mirror Entity
+Kabal Crystal Runner
+Fireball
+Kirin Tor Mage
+The Black Knight
+Counterspell
+Mana Bind
+Primordial Glyph
+Mana Wyrm
+Fireball
+Counterspell
+Kabal Crystal Runner
+Arcanologist
+Ghastly Conjurer
+Mana Wyrm
+Firelands Portal
+Arcanologist
+Arcane Intellect
+Frostbolt
+Primordial Glyph
+Frostbolt
+Sorcerer's Apprentice
+Archmage Antonidas
+Burgly Bully
+---------------------------------------
+Winrate - 58,0246913580247
+Burgly Bully
+Runic Egg
+Counterspell
+Firelands Portal
+Archmage Antonidas
+Kirin Tor Mage
+Frostbolt
+Frostbolt
+Mana Wyrm
+Sorcerer's Apprentice
+Arcane Intellect
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+Primordial Glyph
+Ghastly Conjurer
+Firelands Portal
+Counterspell
+Mana Bind
+Primordial Glyph
+Mana Wyrm
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcanologist
+Medivh's Valet
+Mirror Entity
+Arcanologist
+The Black Knight
+Kabal Crystal Runner
+Fireball
+---------------------------------------
+Winrate - 58,0246913580247
+Fireball
+Mana Bind
+Arcane Intellect
+Violet Illusionist
+Kirin Tor Mage
+Medivh's Valet
+Arcane Intellect
+Kabal Crystal Runner
+Mirror Entity
+Kirin Tor Mage
+Fireball
+Mana Wyrm
+Burgly Bully
+Arcanologist
+Firelands Portal
+Primordial Glyph
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Mana Wyrm
+Ghastly Conjurer
+The Black Knight
+Primordial Glyph
+Arcanologist
+Frostbolt
+Medivh's Valet
+Archmage Antonidas
+Counterspell
+Sorcerer's Apprentice
+Firelands Portal
+Counterspell
+---------------------------------------
+Winrate - 58,0246913580247
+Kabal Crystal Runner
+Counterspell
+Frostbolt
+Ironforge Rifleman
+Sorcerer's Apprentice
+Frostbolt
+Medivh's Valet
+Arcanologist
+The Black Knight
+Burgly Bully
+Mana Wyrm
+Ghastly Conjurer
+Fireball
+Counterspell
+Archmage Antonidas
+Arcane Intellect
+Fireball
+Mana Bind
+Kabal Crystal Runner
+Kirin Tor Mage
+Mana Wyrm
+Primordial Glyph
+Sorcerer's Apprentice
+Arcane Intellect
+Firelands Portal
+Kirin Tor Mage
+Firelands Portal
+Arcanologist
+Primordial Glyph
+Mirror Entity
+---------------------------------------
+Winrate - 58,0246913580247
+Fireball
+Mirror Entity
+Archmage Antonidas
+Injured Blademaster
+Arcanologist
+Ghastly Conjurer
+Fireball
+Arcane Intellect
+Medivh's Valet
+Sorcerer's Apprentice
+The Black Knight
+Primordial Glyph
+Mana Wyrm
+Mana Wyrm
+Kabal Crystal Runner
+Firelands Portal
+Burgly Bully
+Primordial Glyph
+Frostbolt
+Firelands Portal
+Mana Bind
+Kirin Tor Mage
+Counterspell
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Frostbolt
+Kirin Tor Mage
+Arcane Intellect
+Arcanologist
+Counterspell
+---------------------------------------
+Winrate - 58,0246913580247
+Fireball
+Mana Wyrm
+Twisted Worgen
+Counterspell
+Arcanologist
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Primordial Glyph
+Arcane Intellect
+Medivh's Valet
+Arcanologist
+Kirin Tor Mage
+Primordial Glyph
+Fireball
+Sorcerer's Apprentice
+Arcane Intellect
+Frostbolt
+Kabal Crystal Runner
+Mana Bind
+Counterspell
+Mirror Entity
+Archmage Antonidas
+Medivh's Valet
+The Black Knight
+Firelands Portal
+Mana Wyrm
+Firelands Portal
+Burgly Bully
+Ghastly Conjurer
+Kirin Tor Mage
+---------------------------------------
+Winrate - 58,0246913580247
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcanologist
+Grimestreet Smuggler
+Mana Wyrm
+Kirin Tor Mage
+Sorcerer's Apprentice
+Firelands Portal
+The Black Knight
+Kabal Crystal Runner
+Counterspell
+Fireball
+Counterspell
+Archmage Antonidas
+Primordial Glyph
+Mana Wyrm
+Mirror Entity
+Arcanologist
+Firelands Portal
+Burgly Bully
+Medivh's Valet
+Kirin Tor Mage
+Arcane Intellect
+Mana Bind
+Fireball
+Primordial Glyph
+Arcane Intellect
+Ghastly Conjurer
+Medivh's Valet
+Frostbolt
+---------------------------------------
+Winrate - 58,0246913580247
+Firelands Portal
+Medivh's Valet
+Cult Sorcerer
+Kirin Tor Mage
+Mana Wyrm
+Medivh's Valet
+Ghastly Conjurer
+Arcane Intellect
+Primordial Glyph
+Arcanologist
+Firelands Portal
+Archmage Antonidas
+Kabal Crystal Runner
+Counterspell
+Sorcerer's Apprentice
+Burgly Bully
+Mana Bind
+The Black Knight
+Arcanologist
+Fireball
+Fireball
+Mana Wyrm
+Arcane Intellect
+Kirin Tor Mage
+Mirror Entity
+Sorcerer's Apprentice
+Primordial Glyph
+Counterspell
+Frostbolt
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 59,2592592592593
+Medivh's Valet
+Primordial Glyph
+Pompous Thespian
+Burgly Bully
+Firelands Portal
+Primordial Glyph
+Mana Wyrm
+Arcane Intellect
+Archmage Antonidas
+Kirin Tor Mage
+Kabal Crystal Runner
+Fireball
+Sorcerer's Apprentice
+Arcane Intellect
+Arcanologist
+Ghastly Conjurer
+Arcanologist
+Mana Bind
+Frostbolt
+The Black Knight
+Counterspell
+Kirin Tor Mage
+Counterspell
+Mana Wyrm
+Fireball
+Frostbolt
+Mirror Entity
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 59,2592592592593
+Arcane Intellect
+Mana Bind
+Kabal Crystal Runner
+Harvest Golem
+Sorcerer's Apprentice
+Firelands Portal
+Medivh's Valet
+Ghastly Conjurer
+Kirin Tor Mage
+Counterspell
+Mirror Entity
+Fireball
+Arcanologist
+Archmage Antonidas
+Counterspell
+Mana Wyrm
+Fireball
+Primordial Glyph
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Frostbolt
+Arcane Intellect
+Burgly Bully
+Medivh's Valet
+Kabal Crystal Runner
+Primordial Glyph
+Arcanologist
+Mana Wyrm
+The Black Knight
+---------------------------------------
+Winrate - 59,2592592592593
+Arcanologist
+Sorcerer's Apprentice
+Fireball
+Manic Soulcaster
+Mirror Entity
+Arcane Intellect
+Sorcerer's Apprentice
+Arcanologist
+Counterspell
+Burgly Bully
+Mana Bind
+Kirin Tor Mage
+Ghastly Conjurer
+Frostbolt
+Medivh's Valet
+Archmage Antonidas
+Primordial Glyph
+Arcane Intellect
+Kabal Crystal Runner
+Fireball
+Firelands Portal
+Kabal Crystal Runner
+The Black Knight
+Primordial Glyph
+Medivh's Valet
+Mana Wyrm
+Counterspell
+Mana Wyrm
+Kirin Tor Mage
+Firelands Portal
+---------------------------------------
+Winrate - 59,2592592592593
+Firelands Portal
+Burgly Bully
+Nat Pagle
+The Black Knight
+Arcanologist
+Mirror Entity
+Frostbolt
+Archmage Antonidas
+Mana Wyrm
+Sorcerer's Apprentice
+Ghastly Conjurer
+Counterspell
+Arcane Intellect
+Sorcerer's Apprentice
+Kirin Tor Mage
+Kabal Crystal Runner
+Primordial Glyph
+Arcane Intellect
+Kirin Tor Mage
+Kabal Crystal Runner
+Mana Bind
+Primordial Glyph
+Fireball
+Frostbolt
+Medivh's Valet
+Arcanologist
+Counterspell
+Mana Wyrm
+Firelands Portal
+Fireball
+---------------------------------------
+Winrate - 59,2592592592593
+Burgly Bully
+Sorcerer's Apprentice
+Mana Wyrm
+Gluttonous Ooze
+Fireball
+Mana Bind
+Archmage Antonidas
+Arcane Intellect
+Medivh's Valet
+Kabal Crystal Runner
+Counterspell
+Ghastly Conjurer
+Arcanologist
+Firelands Portal
+The Black Knight
+Firelands Portal
+Kirin Tor Mage
+Medivh's Valet
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Arcane Intellect
+Primordial Glyph
+Primordial Glyph
+Kirin Tor Mage
+Fireball
+Frostbolt
+Mirror Entity
+Counterspell
+Arcanologist
+Mana Wyrm
+---------------------------------------
+Winrate - 59,2592592592593
+Kabal Crystal Runner
+Fireball
+Rockpool Hunter
+Arcane Intellect
+Kirin Tor Mage
+Mana Wyrm
+Sorcerer's Apprentice
+Mirror Entity
+Kirin Tor Mage
+Firelands Portal
+Primordial Glyph
+Mana Wyrm
+The Black Knight
+Archmage Antonidas
+Ghastly Conjurer
+Counterspell
+Arcanologist
+Sorcerer's Apprentice
+Counterspell
+Arcane Intellect
+Kabal Crystal Runner
+Frostbolt
+Fireball
+Burgly Bully
+Primordial Glyph
+Medivh's Valet
+Firelands Portal
+Mana Bind
+Medivh's Valet
+Arcanologist
+---------------------------------------
+Winrate - 59,2592592592593
+Primordial Glyph
+Frostbolt
+Fireball
+Mindbreaker
+Mana Bind
+Kirin Tor Mage
+Arcanologist
+Arcanologist
+Firelands Portal
+Mirror Entity
+Kabal Crystal Runner
+Counterspell
+Burgly Bully
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcane Intellect
+Fireball
+Medivh's Valet
+Archmage Antonidas
+Arcane Intellect
+Mana Wyrm
+Counterspell
+Kabal Crystal Runner
+Primordial Glyph
+Mana Wyrm
+Sorcerer's Apprentice
+Frostbolt
+The Black Knight
+Ghastly Conjurer
+Firelands Portal
+---------------------------------------
+Winrate - 59,2592592592593
+Mana Bind
+Primordial Glyph
+Sorcerer's Apprentice
+Mind Control Tech
+Mana Wyrm
+Counterspell
+Arcanologist
+Fireball
+Archmage Antonidas
+Burgly Bully
+Sorcerer's Apprentice
+Arcane Intellect
+Counterspell
+The Black Knight
+Fireball
+Medivh's Valet
+Kabal Crystal Runner
+Arcane Intellect
+Primordial Glyph
+Ghastly Conjurer
+Firelands Portal
+Kirin Tor Mage
+Frostbolt
+Kirin Tor Mage
+Firelands Portal
+Arcanologist
+Kabal Crystal Runner
+Medivh's Valet
+Mirror Entity
+Mana Wyrm
+---------------------------------------
+Winrate - 59,2592592592593
+The Black Knight
+Frostbolt
+Kirin Tor Mage
+Demolisher
+Mana Bind
+Primordial Glyph
+Arcane Intellect
+Fireball
+Firelands Portal
+Arcanologist
+Arcane Intellect
+Mirror Entity
+Mana Wyrm
+Kabal Crystal Runner
+Firelands Portal
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Counterspell
+Fireball
+Kirin Tor Mage
+Archmage Antonidas
+Medivh's Valet
+Arcanologist
+Medivh's Valet
+Sorcerer's Apprentice
+Ghastly Conjurer
+Mana Wyrm
+Burgly Bully
+Primordial Glyph
+Counterspell
+---------------------------------------
+Winrate - 59,2592592592593
+Mana Bind
+Arcanologist
+Nat Pagle
+Primordial Glyph
+Mana Wyrm
+Burgly Bully
+Arcane Intellect
+Sorcerer's Apprentice
+Primordial Glyph
+Medivh's Valet
+Firelands Portal
+Counterspell
+Kirin Tor Mage
+The Black Knight
+Archmage Antonidas
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Arcanologist
+Kabal Crystal Runner
+Mana Wyrm
+Mirror Entity
+Counterspell
+Fireball
+Frostbolt
+Arcane Intellect
+Firelands Portal
+Ghastly Conjurer
+Fireball
+Medivh's Valet
+Kirin Tor Mage
+---------------------------------------
+Winrate - 59,2592592592593
+Kirin Tor Mage
+Counterspell
+Primordial Glyph
+Squirming Tentacle
+Primordial Glyph
+Sorcerer's Apprentice
+Ghastly Conjurer
+Archmage Antonidas
+Frostbolt
+Mirror Entity
+Fireball
+Medivh's Valet
+Sorcerer's Apprentice
+Burgly Bully
+Mana Bind
+Counterspell
+Arcane Intellect
+Mana Wyrm
+Firelands Portal
+Kirin Tor Mage
+Firelands Portal
+Medivh's Valet
+Arcanologist
+Arcanologist
+The Black Knight
+Arcane Intellect
+Kabal Crystal Runner
+Fireball
+Kabal Crystal Runner
+Mana Wyrm
+---------------------------------------
+Winrate - 59,2592592592593
+Sorcerer's Apprentice
+Primordial Glyph
+Kirin Tor Mage
+Twilight Elder
+Mana Bind
+Ghastly Conjurer
+Frostbolt
+Kabal Crystal Runner
+Mana Wyrm
+Burgly Bully
+Mana Wyrm
+Counterspell
+Firelands Portal
+Counterspell
+Arcanologist
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Medivh's Valet
+Arcanologist
+Mirror Entity
+Kirin Tor Mage
+Fireball
+Archmage Antonidas
+The Black Knight
+Medivh's Valet
+Kabal Crystal Runner
+Firelands Portal
+Arcane Intellect
+Primordial Glyph
+---------------------------------------
+Winrate - 59,2592592592593
+Medivh's Valet
+Voodoo Doctor
+Counterspell
+Firelands Portal
+Fireball
+Mana Wyrm
+Kirin Tor Mage
+Mana Bind
+Firelands Portal
+Primordial Glyph
+Arcane Intellect
+Frostbolt
+Counterspell
+Primordial Glyph
+Ghastly Conjurer
+Archmage Antonidas
+Arcanologist
+Sorcerer's Apprentice
+Mana Wyrm
+Sorcerer's Apprentice
+Arcane Intellect
+Mirror Entity
+Arcanologist
+Fireball
+Burgly Bully
+Kabal Crystal Runner
+Kabal Crystal Runner
+The Black Knight
+Frostbolt
+Kirin Tor Mage
+---------------------------------------
+Winrate - 59,2592592592593
+Mana Bind
+Arcane Intellect
+Sorcerer's Apprentice
+Injured Blademaster
+Mana Wyrm
+Fireball
+Medivh's Valet
+Kabal Crystal Runner
+Medivh's Valet
+Kirin Tor Mage
+Primordial Glyph
+Mana Wyrm
+Kirin Tor Mage
+Kabal Crystal Runner
+Counterspell
+The Black Knight
+Arcane Intellect
+Burgly Bully
+Firelands Portal
+Fireball
+Firelands Portal
+Archmage Antonidas
+Arcanologist
+Ghastly Conjurer
+Arcanologist
+Counterspell
+Primordial Glyph
+Mirror Entity
+Sorcerer's Apprentice
+Frostbolt
+---------------------------------------
+Winrate - 59,2592592592593
+Kabal Crystal Runner
+Firelands Portal
+Kirin Tor Mage
+Ironfur Grizzly
+Kirin Tor Mage
+Mana Wyrm
+Arcane Intellect
+Burgly Bully
+Mana Wyrm
+Mana Bind
+Kabal Crystal Runner
+Medivh's Valet
+Arcanologist
+Frostbolt
+Archmage Antonidas
+Arcanologist
+Counterspell
+Medivh's Valet
+Primordial Glyph
+Ghastly Conjurer
+Sorcerer's Apprentice
+Counterspell
+Primordial Glyph
+Firelands Portal
+Arcane Intellect
+The Black Knight
+Fireball
+Sorcerer's Apprentice
+Fireball
+Mirror Entity
+---------------------------------------
+Winrate - 59,2592592592593
+Kabal Crystal Runner
+Kabal Crystal Runner
+Arcanologist
+Mind Control Tech
+Mana Wyrm
+Primordial Glyph
+Mana Wyrm
+Frostbolt
+Fireball
+Burgly Bully
+Frostbolt
+Arcane Intellect
+Kirin Tor Mage
+Kirin Tor Mage
+Archmage Antonidas
+Ghastly Conjurer
+Counterspell
+Sorcerer's Apprentice
+Arcanologist
+Firelands Portal
+Fireball
+Medivh's Valet
+Arcane Intellect
+Sorcerer's Apprentice
+Counterspell
+Mirror Entity
+Mana Bind
+The Black Knight
+Firelands Portal
+Primordial Glyph
+---------------------------------------
+Winrate - 60,4938271604938
+Arcanologist
+Fireball
+Counterspell
+Prince Taldaram
+Frostbolt
+Mana Wyrm
+Medivh's Valet
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+The Black Knight
+Arcanologist
+Kabal Crystal Runner
+Arcane Intellect
+Mana Bind
+Ghastly Conjurer
+Mana Wyrm
+Primordial Glyph
+Primordial Glyph
+Kirin Tor Mage
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Archmage Antonidas
+Mirror Entity
+Frostbolt
+Kirin Tor Mage
+Firelands Portal
+Counterspell
+---------------------------------------
+Winrate - 60,4938271604938
+Medivh's Valet
+Mana Wyrm
+Bloodfen Raptor
+Kabal Crystal Runner
+Counterspell
+Mirror Entity
+Medivh's Valet
+Arcanologist
+Frostbolt
+Counterspell
+Mana Wyrm
+Burgly Bully
+Kirin Tor Mage
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcane Intellect
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Archmage Antonidas
+Primordial Glyph
+Arcane Intellect
+Fireball
+Fireball
+Arcanologist
+Primordial Glyph
+Mana Bind
+Firelands Portal
+Firelands Portal
+The Black Knight
+Ghastly Conjurer
+---------------------------------------
+Winrate - 60,4938271604938
+Arcane Intellect
+Kabal Lackey
+Frostbolt
+Ghastly Conjurer
+Fireball
+Kirin Tor Mage
+Sorcerer's Apprentice
+Arcanologist
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Burgly Bully
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Mirror Entity
+Arcanologist
+Frostbolt
+Archmage Antonidas
+Medivh's Valet
+Mana Wyrm
+Mana Wyrm
+The Black Knight
+Primordial Glyph
+Arcane Intellect
+Fireball
+Kabal Crystal Runner
+Counterspell
+Mana Bind
+Counterspell
+---------------------------------------
+Winrate - 60,4938271604938
+Counterspell
+Arcanologist
+Arcane Intellect
+Toxic Sewer Ooze
+Kirin Tor Mage
+Firelands Portal
+Mana Wyrm
+Mirror Entity
+Archmage Antonidas
+Counterspell
+Kabal Crystal Runner
+The Black Knight
+Kirin Tor Mage
+Primordial Glyph
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Burgly Bully
+Frostbolt
+Arcanologist
+Primordial Glyph
+Arcane Intellect
+Ghastly Conjurer
+Fireball
+Medivh's Valet
+Firelands Portal
+Mana Wyrm
+Frostbolt
+Fireball
+Sorcerer's Apprentice
+Mana Bind
+---------------------------------------
+Winrate - 60,4938271604938
+Medivh's Valet
+Ghastly Conjurer
+Pint-Sized Summoner
+Burgly Bully
+Mana Bind
+Medivh's Valet
+Fireball
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Mana Wyrm
+Counterspell
+Mirror Entity
+Arcane Intellect
+Kabal Crystal Runner
+Kirin Tor Mage
+The Black Knight
+Primordial Glyph
+Counterspell
+Mana Wyrm
+Archmage Antonidas
+Firelands Portal
+Kirin Tor Mage
+Frostbolt
+Sorcerer's Apprentice
+Fireball
+Arcanologist
+Sorcerer's Apprentice
+Arcane Intellect
+Arcanologist
+---------------------------------------
+Winrate - 60,4938271604938
+Frostbolt
+Mana Bind
+Ghastly Conjurer
+Murloc Warleader
+Primordial Glyph
+Firelands Portal
+Mirror Entity
+Arcane Intellect
+Mana Wyrm
+Fireball
+The Black Knight
+Frostbolt
+Arcane Intellect
+Primordial Glyph
+Kabal Crystal Runner
+Kabal Crystal Runner
+Kirin Tor Mage
+Arcanologist
+Archmage Antonidas
+Firelands Portal
+Sorcerer's Apprentice
+Medivh's Valet
+Burgly Bully
+Fireball
+Sorcerer's Apprentice
+Counterspell
+Kirin Tor Mage
+Arcanologist
+Counterspell
+Mana Wyrm
+---------------------------------------
+Winrate - 60,4938271604938
+Arcanologist
+Arcanologist
+Stubborn Gastropod
+Mana Wyrm
+Burgly Bully
+The Black Knight
+Mirror Entity
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Mana Bind
+Medivh's Valet
+Firelands Portal
+Primordial Glyph
+Archmage Antonidas
+Medivh's Valet
+Counterspell
+Arcane Intellect
+Sorcerer's Apprentice
+Fireball
+Kabal Crystal Runner
+Primordial Glyph
+Mana Wyrm
+Counterspell
+Fireball
+Ghastly Conjurer
+Frostbolt
+Firelands Portal
+Kirin Tor Mage
+Kirin Tor Mage
+Arcane Intellect
+---------------------------------------
+Winrate - 60,4938271604938
+Counterspell
+Mana Bind
+Flame Geyser
+Medivh's Valet
+Archmage Antonidas
+Arcane Intellect
+The Black Knight
+Mana Wyrm
+Primordial Glyph
+Ghastly Conjurer
+Firelands Portal
+Medivh's Valet
+Sorcerer's Apprentice
+Arcanologist
+Arcanologist
+Kirin Tor Mage
+Primordial Glyph
+Kabal Crystal Runner
+Kirin Tor Mage
+Burgly Bully
+Kabal Crystal Runner
+Arcane Intellect
+Firelands Portal
+Fireball
+Counterspell
+Mana Wyrm
+Sorcerer's Apprentice
+Fireball
+Frostbolt
+Mirror Entity
+---------------------------------------
+Winrate - 60,4938271604938
+Burgly Bully
+Firelands Portal
+Medivh's Valet
+Flesheating Ghoul
+The Black Knight
+Kabal Crystal Runner
+Mirror Entity
+Frostbolt
+Kirin Tor Mage
+Kabal Crystal Runner
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Counterspell
+Arcanologist
+Medivh's Valet
+Fireball
+Mana Wyrm
+Arcane Intellect
+Arcanologist
+Mana Bind
+Archmage Antonidas
+Fireball
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Counterspell
+Ghastly Conjurer
+Kirin Tor Mage
+Primordial Glyph
+Arcane Intellect
+---------------------------------------
+Winrate - 60,4938271604938
+Frostbolt
+Mana Wyrm
+Loot Hoarder
+Kabal Crystal Runner
+Mana Bind
+Archmage Antonidas
+Firelands Portal
+Counterspell
+Sorcerer's Apprentice
+Fireball
+Arcane Intellect
+Kabal Crystal Runner
+Mirror Entity
+Counterspell
+Fireball
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Primordial Glyph
+Frostbolt
+Arcanologist
+Primordial Glyph
+Ghastly Conjurer
+Kirin Tor Mage
+Mana Wyrm
+Arcanologist
+Burgly Bully
+Medivh's Valet
+The Black Knight
+Arcane Intellect
+---------------------------------------
+Winrate - 60,4938271604938
+Kirin Tor Mage
+Sorcerer's Apprentice
+Mana Wyrm
+Fel Orc Soulfiend
+Firelands Portal
+Frostbolt
+Mirror Entity
+Kabal Crystal Runner
+Kirin Tor Mage
+The Black Knight
+Ghastly Conjurer
+Fireball
+Counterspell
+Arcane Intellect
+Archmage Antonidas
+Frostbolt
+Mana Bind
+Kabal Crystal Runner
+Mana Wyrm
+Arcanologist
+Sorcerer's Apprentice
+Medivh's Valet
+Primordial Glyph
+Primordial Glyph
+Firelands Portal
+Counterspell
+Fireball
+Arcanologist
+Burgly Bully
+Arcane Intellect
+---------------------------------------
+Winrate - 60,4938271604938
+Arcanologist
+Mirror Entity
+Arcanologist
+Vryghoul
+Counterspell
+Arcane Intellect
+Kirin Tor Mage
+Kabal Crystal Runner
+Fireball
+Sorcerer's Apprentice
+Mana Bind
+Mana Wyrm
+Mana Wyrm
+Kirin Tor Mage
+Ghastly Conjurer
+Medivh's Valet
+Firelands Portal
+Sorcerer's Apprentice
+Firelands Portal
+Primordial Glyph
+Medivh's Valet
+Burgly Bully
+Primordial Glyph
+Kabal Crystal Runner
+Arcane Intellect
+Archmage Antonidas
+The Black Knight
+Frostbolt
+Counterspell
+Fireball
+---------------------------------------
+Winrate - 61,7283950617284
+Primordial Glyph
+Firelands Portal
+Sorcerer's Apprentice
+Blood Knight
+Fireball
+Mana Wyrm
+Firelands Portal
+Kirin Tor Mage
+Kabal Crystal Runner
+Frostbolt
+Archmage Antonidas
+Mana Bind
+Kabal Crystal Runner
+Mana Wyrm
+Ghastly Conjurer
+Counterspell
+Sorcerer's Apprentice
+Arcanologist
+Counterspell
+Fireball
+Kirin Tor Mage
+Frostbolt
+Burgly Bully
+Mirror Entity
+Medivh's Valet
+Arcanologist
+The Black Knight
+Arcane Intellect
+Primordial Glyph
+Arcane Intellect
+---------------------------------------
+Winrate - 61,7283950617284
+Counterspell
+Medivh's Valet
+Arcane Intellect
+Igneous Elemental
+Mana Wyrm
+Firelands Portal
+Medivh's Valet
+Primordial Glyph
+Burgly Bully
+Arcanologist
+Kirin Tor Mage
+Counterspell
+Archmage Antonidas
+Sorcerer's Apprentice
+Arcane Intellect
+The Black Knight
+Mana Bind
+Frostbolt
+Kirin Tor Mage
+Ghastly Conjurer
+Arcanologist
+Fireball
+Firelands Portal
+Kabal Crystal Runner
+Mana Wyrm
+Primordial Glyph
+Mirror Entity
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Fireball
+---------------------------------------
+Winrate - 61,7283950617284
+Counterspell
+Counterspell
+Burgly Bully
+Stonehill Defender
+Sorcerer's Apprentice
+Arcane Intellect
+Fireball
+Kirin Tor Mage
+Arcane Intellect
+The Black Knight
+Kirin Tor Mage
+Medivh's Valet
+Sorcerer's Apprentice
+Medivh's Valet
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Mana Wyrm
+Kabal Crystal Runner
+Primordial Glyph
+Mana Bind
+Arcanologist
+Kabal Crystal Runner
+Mirror Entity
+Ghastly Conjurer
+Fireball
+Firelands Portal
+Archmage Antonidas
+Frostbolt
+Arcanologist
+---------------------------------------
+Winrate - 61,7283950617284
+Sorcerer's Apprentice
+Medivh's Valet
+Firelands Portal
+Jungle Panther
+Kabal Crystal Runner
+Fireball
+Arcanologist
+Arcanologist
+Primordial Glyph
+Arcane Intellect
+Ghastly Conjurer
+Primordial Glyph
+Kirin Tor Mage
+The Black Knight
+Frostbolt
+Archmage Antonidas
+Mana Wyrm
+Mirror Entity
+Fireball
+Frostbolt
+Counterspell
+Mana Wyrm
+Kirin Tor Mage
+Counterspell
+Sorcerer's Apprentice
+Arcane Intellect
+Burgly Bully
+Kabal Crystal Runner
+Firelands Portal
+Mana Bind
+---------------------------------------
+Winrate - 61,7283950617284
+Arcane Intellect
+Sorcerer's Apprentice
+Mirror Entity
+Toxic Sewer Ooze
+Sorcerer's Apprentice
+Counterspell
+Arcane Intellect
+Ghastly Conjurer
+Kirin Tor Mage
+Fireball
+Counterspell
+Kabal Crystal Runner
+Arcanologist
+Medivh's Valet
+The Black Knight
+Kirin Tor Mage
+Firelands Portal
+Arcanologist
+Mana Wyrm
+Primordial Glyph
+Fireball
+Frostbolt
+Mana Bind
+Kabal Crystal Runner
+Primordial Glyph
+Firelands Portal
+Mana Wyrm
+Medivh's Valet
+Archmage Antonidas
+Burgly Bully
+---------------------------------------
+Winrate - 61,7283950617284
+Sorcerer's Apprentice
+Primordial Glyph
+Acidic Swamp Ooze
+Counterspell
+Primordial Glyph
+Medivh's Valet
+The Black Knight
+Burgly Bully
+Fireball
+Arcane Intellect
+Ghastly Conjurer
+Medivh's Valet
+Mirror Entity
+Kirin Tor Mage
+Arcanologist
+Archmage Antonidas
+Mana Bind
+Mana Wyrm
+Counterspell
+Sorcerer's Apprentice
+Fireball
+Firelands Portal
+Kabal Crystal Runner
+Firelands Portal
+Kabal Crystal Runner
+Arcane Intellect
+Frostbolt
+Arcanologist
+Kirin Tor Mage
+Mana Wyrm
+---------------------------------------
+Winrate - 61,7283950617284
+Mana Wyrm
+Argent Squire
+Sorcerer's Apprentice
+Arcanologist
+Counterspell
+Kabal Crystal Runner
+Kirin Tor Mage
+Burgly Bully
+Medivh's Valet
+Arcane Intellect
+Firelands Portal
+Mana Bind
+The Black Knight
+Primordial Glyph
+Mana Wyrm
+Medivh's Valet
+Counterspell
+Kabal Crystal Runner
+Archmage Antonidas
+Fireball
+Sorcerer's Apprentice
+Arcanologist
+Arcane Intellect
+Frostbolt
+Ghastly Conjurer
+Mirror Entity
+Firelands Portal
+Fireball
+Kirin Tor Mage
+Primordial Glyph
+---------------------------------------
+Winrate - 61,7283950617284
+Arcane Intellect
+Mana Wyrm
+Murloc Tidehunter
+Kirin Tor Mage
+Frostbolt
+Kabal Crystal Runner
+Primordial Glyph
+Firelands Portal
+Archmage Antonidas
+Kabal Crystal Runner
+Fireball
+Mana Bind
+Frostbolt
+Arcane Intellect
+Mirror Entity
+Burgly Bully
+Kirin Tor Mage
+Fireball
+Mana Wyrm
+Ghastly Conjurer
+Medivh's Valet
+Primordial Glyph
+The Black Knight
+Arcanologist
+Counterspell
+Sorcerer's Apprentice
+Counterspell
+Sorcerer's Apprentice
+Arcanologist
+Firelands Portal
+---------------------------------------
+Winrate - 62,962962962963
+Medivh's Valet
+Fire Fly
+Mirror Entity
+Arcanologist
+Ghastly Conjurer
+Archmage Antonidas
+Arcane Intellect
+Kirin Tor Mage
+Counterspell
+Primordial Glyph
+Kabal Crystal Runner
+The Black Knight
+Arcanologist
+Medivh's Valet
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Frostbolt
+Kabal Crystal Runner
+Firelands Portal
+Fireball
+Primordial Glyph
+Sorcerer's Apprentice
+Fireball
+Counterspell
+Arcane Intellect
+Mana Wyrm
+Mana Bind
+Mana Wyrm
+Burgly Bully
+---------------------------------------
+Winrate - 62,962962962963
+Medivh's Valet
+Archmage Antonidas
+Burgly Bully
+Tauren Warrior
+Mirror Entity
+Frostbolt
+Sorcerer's Apprentice
+Mana Wyrm
+Mana Bind
+Kabal Crystal Runner
+Fireball
+Counterspell
+Primordial Glyph
+Kirin Tor Mage
+Sorcerer's Apprentice
+Arcane Intellect
+Medivh's Valet
+Primordial Glyph
+Arcane Intellect
+Arcanologist
+Kirin Tor Mage
+Mana Wyrm
+Ghastly Conjurer
+Fireball
+Firelands Portal
+Arcanologist
+Kabal Crystal Runner
+Firelands Portal
+Counterspell
+The Black Knight
+---------------------------------------
+Winrate - 62,962962962963
+Kabal Crystal Runner
+Frostbolt
+Counterspell
+Scarlet Crusader
+Kabal Crystal Runner
+Fireball
+Primordial Glyph
+Counterspell
+Firelands Portal
+Mana Wyrm
+Arcanologist
+Firelands Portal
+Burgly Bully
+Arcanologist
+Medivh's Valet
+Medivh's Valet
+Mana Bind
+Ghastly Conjurer
+Arcane Intellect
+Sorcerer's Apprentice
+The Black Knight
+Archmage Antonidas
+Mana Wyrm
+Kirin Tor Mage
+Arcane Intellect
+Primordial Glyph
+Sorcerer's Apprentice
+Mirror Entity
+Fireball
+Kirin Tor Mage
+---------------------------------------
+Winrate - 62,962962962963
+Medivh's Valet
+Firelands Portal
+Counterspell
+Coldlight Seer
+Kirin Tor Mage
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Frostbolt
+Mana Wyrm
+Arcanologist
+The Black Knight
+Arcanologist
+Mana Wyrm
+Fireball
+Burgly Bully
+Arcane Intellect
+Kabal Crystal Runner
+Primordial Glyph
+Medivh's Valet
+Kirin Tor Mage
+Firelands Portal
+Ghastly Conjurer
+Sorcerer's Apprentice
+Mana Bind
+Arcane Intellect
+Counterspell
+Mirror Entity
+Fireball
+Primordial Glyph
+Archmage Antonidas
+---------------------------------------
+Winrate - 62,962962962963
+Mana Wyrm
+Medivh's Valet
+Loot Hoarder
+Counterspell
+The Black Knight
+Medivh's Valet
+Burgly Bully
+Sorcerer's Apprentice
+Archmage Antonidas
+Counterspell
+Fireball
+Primordial Glyph
+Kirin Tor Mage
+Sorcerer's Apprentice
+Arcanologist
+Kabal Crystal Runner
+Frostbolt
+Mana Wyrm
+Primordial Glyph
+Mana Bind
+Fireball
+Kirin Tor Mage
+Arcane Intellect
+Mirror Entity
+Arcanologist
+Kabal Crystal Runner
+Firelands Portal
+Firelands Portal
+Arcane Intellect
+Ghastly Conjurer
+---------------------------------------
+Winrate - 62,962962962963
+Burgly Bully
+Counterspell
+Archmage Antonidas
+Auctionmaster Beardo
+Sorcerer's Apprentice
+Kirin Tor Mage
+Medivh's Valet
+Mirror Entity
+Sorcerer's Apprentice
+Arcanologist
+Primordial Glyph
+Mana Wyrm
+Arcane Intellect
+Primordial Glyph
+Mana Wyrm
+Kabal Crystal Runner
+Fireball
+Arcanologist
+Ghastly Conjurer
+The Black Knight
+Kabal Crystal Runner
+Kirin Tor Mage
+Counterspell
+Medivh's Valet
+Fireball
+Frostbolt
+Mana Bind
+Firelands Portal
+Arcane Intellect
+Firelands Portal
+---------------------------------------
+Winrate - 62,962962962963
+Sorcerer's Apprentice
+Medivh's Valet
+Counterspell
+Grimestreet Smuggler
+Ghastly Conjurer
+Counterspell
+The Black Knight
+Arcane Intellect
+Burgly Bully
+Firelands Portal
+Sorcerer's Apprentice
+Kirin Tor Mage
+Kabal Crystal Runner
+Mirror Entity
+Mana Wyrm
+Primordial Glyph
+Arcane Intellect
+Kabal Crystal Runner
+Mana Wyrm
+Primordial Glyph
+Arcanologist
+Arcanologist
+Fireball
+Firelands Portal
+Mana Bind
+Kirin Tor Mage
+Frostbolt
+Archmage Antonidas
+Frostbolt
+Fireball
+---------------------------------------
+Winrate - 64,1975308641975
+Firelands Portal
+Kabal Crystal Runner
+Arcane Intellect
+King Mukla
+Mana Wyrm
+Ghastly Conjurer
+Mirror Entity
+Arcanologist
+Arcanologist
+Frostbolt
+Primordial Glyph
+The Black Knight
+Kirin Tor Mage
+Kirin Tor Mage
+Arcane Intellect
+Firelands Portal
+Frostbolt
+Counterspell
+Counterspell
+Mana Bind
+Medivh's Valet
+Sorcerer's Apprentice
+Fireball
+Mana Wyrm
+Burgly Bully
+Primordial Glyph
+Fireball
+Kabal Crystal Runner
+Sorcerer's Apprentice
+Archmage Antonidas
+---------------------------------------
+Winrate - 64,1975308641975
+Arcane Intellect
+Archmage Antonidas
+Gadgetzan Socialite
+Primordial Glyph
+Medivh's Valet
+Sorcerer's Apprentice
+Firelands Portal
+Mana Bind
+Fireball
+Firelands Portal
+Kabal Crystal Runner
+Mirror Entity
+Burgly Bully
+The Black Knight
+Sorcerer's Apprentice
+Mana Wyrm
+Fireball
+Kabal Crystal Runner
+Counterspell
+Ghastly Conjurer
+Primordial Glyph
+Frostbolt
+Arcanologist
+Arcane Intellect
+Arcanologist
+Counterspell
+Kirin Tor Mage
+Medivh's Valet
+Kirin Tor Mage
+Mana Wyrm
+---------------------------------------
+Winrate - 64,1975308641975
+Kirin Tor Mage
+Arcane Intellect
+Kirin Tor Mage
+Violet Illusionist
+Mana Wyrm
+Counterspell
+Sorcerer's Apprentice
+Frostbolt
+Arcane Intellect
+Burgly Bully
+Mirror Entity
+Mana Wyrm
+The Black Knight
+Mana Bind
+Arcanologist
+Firelands Portal
+Primordial Glyph
+Kabal Crystal Runner
+Archmage Antonidas
+Ghastly Conjurer
+Frostbolt
+Medivh's Valet
+Fireball
+Kabal Crystal Runner
+Fireball
+Firelands Portal
+Sorcerer's Apprentice
+Counterspell
+Primordial Glyph
+Arcanologist
+---------------------------------------
+Winrate - 64,1975308641975
+Primordial Glyph
+Kirin Tor Mage
+Arcanologist
+Tar Creeper
+Mirror Entity
+The Black Knight
+Arcane Intellect
+Medivh's Valet
+Mana Bind
+Fireball
+Firelands Portal
+Sorcerer's Apprentice
+Mana Wyrm
+Primordial Glyph
+Archmage Antonidas
+Kabal Crystal Runner
+Medivh's Valet
+Counterspell
+Arcane Intellect
+Sorcerer's Apprentice
+Kirin Tor Mage
+Arcanologist
+Ghastly Conjurer
+Mana Wyrm
+Firelands Portal
+Fireball
+Burgly Bully
+Counterspell
+Kabal Crystal Runner
+Frostbolt
+---------------------------------------
+Winrate - 65,4320987654321
+Counterspell
+Fireball
+Primordial Glyph
+Manic Soulcaster
+Sorcerer's Apprentice
+Frostbolt
+Archmage Antonidas
+Medivh's Valet
+Arcane Intellect
+Kirin Tor Mage
+The Black Knight
+Counterspell
+Burgly Bully
+Fireball
+Sorcerer's Apprentice
+Primordial Glyph
+Mana Wyrm
+Kabal Crystal Runner
+Firelands Portal
+Kirin Tor Mage
+Mana Bind
+Arcanologist
+Kabal Crystal Runner
+Arcanologist
+Mirror Entity
+Mana Wyrm
+Firelands Portal
+Ghastly Conjurer
+Arcane Intellect
+Frostbolt
+---------------------------------------
+Winrate - 65,4320987654321
+Counterspell
+Kabal Crystal Runner
+Ghastly Conjurer
+Prince Taldaram
+Medivh's Valet
+Kirin Tor Mage
+Kabal Crystal Runner
+Arcane Intellect
+Primordial Glyph
+Sorcerer's Apprentice
+Counterspell
+Burgly Bully
+Mana Wyrm
+Primordial Glyph
+The Black Knight
+Arcanologist
+Firelands Portal
+Mana Wyrm
+Mana Bind
+Firelands Portal
+Mirror Entity
+Medivh's Valet
+Fireball
+Kirin Tor Mage
+Arcanologist
+Archmage Antonidas
+Arcane Intellect
+Fireball
+Sorcerer's Apprentice
+Frostbolt
+---------------------------------------
+Winrate - 66,6666666666667
+Arcane Intellect
+Mana Wyrm
+Mad Bomber
+Mana Wyrm
+Ghastly Conjurer
+Fireball
+Primordial Glyph
+Medivh's Valet
+Counterspell
+Arcanologist
+Arcanologist
+Mana Bind
+Kirin Tor Mage
+Kirin Tor Mage
+Counterspell
+Sorcerer's Apprentice
+Primordial Glyph
+Burgly Bully
+The Black Knight
+Frostbolt
+Frostbolt
+Firelands Portal
+Fireball
+Arcane Intellect
+Firelands Portal
+Kabal Crystal Runner
+Archmage Antonidas
+Sorcerer's Apprentice
+Mirror Entity
+Kabal Crystal Runner
+---------------------------------------
+Winrate - 66,6666666666667
+The Black Knight
+Fireball
+Faerie Dragon
+Primordial Glyph
+Firelands Portal
+Arcanologist
+Medivh's Valet
+Mana Bind
+Kabal Crystal Runner
+Frostbolt
+Arcane Intellect
+Arcanologist
+Mana Wyrm
+Mana Wyrm
+Counterspell
+Ghastly Conjurer
+Archmage Antonidas
+Primordial Glyph
+Counterspell
+Fireball
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Arcane Intellect
+Mirror Entity
+Kirin Tor Mage
+Burgly Bully
+Medivh's Valet
+Kirin Tor Mage
+Kabal Crystal Runner
+Firelands Portal
+---------------------------------------
+Winrate - 67,9012345679012
+Ghastly Conjurer
+Primordial Glyph
+Mana Bind
+King Mukla
+Arcane Intellect
+Arcane Intellect
+Mana Wyrm
+Fireball
+Firelands Portal
+Mirror Entity
+Kirin Tor Mage
+Medivh's Valet
+Kirin Tor Mage
+Counterspell
+Burgly Bully
+Sorcerer's Apprentice
+Sorcerer's Apprentice
+Kabal Crystal Runner
+Archmage Antonidas
+Arcanologist
+Kabal Crystal Runner
+Arcanologist
+Counterspell
+Frostbolt
+Firelands Portal
+Fireball
+Primordial Glyph
+Medivh's Valet
+Mana Wyrm
+The Black Knight
+---------------------------------------
+Winrate - 67,9012345679012
+Fireball
+Firelands Portal
+Burgly Bully
+Shattered Sun Cleric
+Mirror Entity
+Kirin Tor Mage
+Kabal Crystal Runner
+The Black Knight
+Counterspell
+Primordial Glyph
+Primordial Glyph
+Medivh's Valet
+Mana Bind
+Frostbolt
+Kabal Crystal Runner
+Arcanologist
+Sorcerer's Apprentice
+Kirin Tor Mage
+Sorcerer's Apprentice
+Firelands Portal
+Ghastly Conjurer
+Frostbolt
+Fireball
+Counterspell
+Arcane Intellect
+Mana Wyrm
+Arcanologist
+Archmage Antonidas
+Mana Wyrm
+Arcane Intellect
+---------------------------------------
+Winrate - 70,3703703703704
+Mana Wyrm
+Primordial Glyph
+Burgly Bully
+Giant Wasp
+Mirror Entity
+Sorcerer's Apprentice
+Medivh's Valet
+Firelands Portal
+Firelands Portal
+Kabal Crystal Runner
+Fireball
+Counterspell
+Kirin Tor Mage
+Fireball
+Archmage Antonidas
+Mana Bind
+Medivh's Valet
+Arcanologist
+Arcane Intellect
+Sorcerer's Apprentice
+Ghastly Conjurer
+Arcanologist
+The Black Knight
+Counterspell
+Primordial Glyph
+Kabal Crystal Runner
+Frostbolt
+Kirin Tor Mage
+Mana Wyrm
+Arcane Intellect
+---------------------------------------
+Winrate - 71,6049382716049
+Sorcerer's Apprentice
+Firelands Portal
+Kirin Tor Mage
+Coldwraith
+Kabal Crystal Runner
+The Black Knight
+Sorcerer's Apprentice
+Arcanologist
+Primordial Glyph
+Arcane Intellect
+Fireball
+Counterspell
+Mirror Entity
+Kirin Tor Mage
+Burgly Bully
+Arcanologist
+Ghastly Conjurer
+Medivh's Valet
+Mana Wyrm
+Arcane Intellect
+Counterspell
+Primordial Glyph
+Mana Wyrm
+Mana Bind
+Firelands Portal
+Archmage Antonidas
+Frostbolt
+Fireball
+Medivh's Valet
+Kabal Crystal Runner
+---------------------------------------

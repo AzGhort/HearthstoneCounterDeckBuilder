@@ -1,0 +1,20 @@
+BasicHunter
+2x_Arcane Shot
+2x_Hunter's Mark
+1x_Tracking
+2x_Animal Companion
+2x_Kill Command
+2x_Houndmaster
+2x_Multi-Shot
+1x_Stonetusk Boar
+1x_Acidic Swamp Ooze
+2x_Bloodfen Raptor
+2x_River Crocolisk
+2x_Ironfur Grizzly
+1x_Razorfen Hunter
+1x_Shattered Sun Cleric
+1x_Chillwind Yeti
+1x_Oasis Snapjaw
+2x_Frostwolf Warlord
+2x_Boulderfist Ogre
+1x_Stormwind Champion

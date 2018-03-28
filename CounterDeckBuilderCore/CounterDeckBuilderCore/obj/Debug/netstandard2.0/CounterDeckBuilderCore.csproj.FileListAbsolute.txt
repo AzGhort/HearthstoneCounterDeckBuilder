@@ -1,0 +1,11 @@
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Debug\netstandard2.0\CounterDeckBuilderCore.csprojResolveAssemblyReference.cache
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Debug\netstandard2.0\CounterDeckBuilderCore.csproj.CoreCompileInputs.cache
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Debug\netstandard2.0\CounterDeckBuilderCore.AssemblyInfoInputs.cache
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Debug\netstandard2.0\CounterDeckBuilderCore.AssemblyInfo.cs
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Debug\netstandard2.0\CounterDeckBuilderCore.deps.json
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Debug\netstandard2.0\CounterDeckBuilderCore.dll
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Debug\netstandard2.0\CounterDeckBuilderCore.pdb
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Debug\netstandard2.0\SabberStoneCore.dll
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Debug\netstandard2.0\SabberStoneCore.pdb
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Debug\netstandard2.0\CounterDeckBuilderCore.dll
+D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Debug\netstandard2.0\CounterDeckBuilderCore.pdb

@@ -1,0 +1,33 @@
+Worst 15 mutations:
+1	Devilsaur Egg		(nemùže útoèit)
+2	Humongous Razorleaf	(nemùže útoèit)
+3	Ticking Abomination	(synergická karta)
+4	Street Trickster	(nemùže útoèit)
+5	Ticking Abomination	(nemùže útoèit)
+6	Humongous Razorleaf	(nemùže útoèit)
+7	Street Trickster	(nemùže útoèit)
+8	Blubber Baron		(velmi špatné staty)
+9	Ancient Watcher		(nemùže útoèit)
+10 	Meat Wagon		(velmi špatné staty)
+11	Lorewalker Cho		(nemùže útoèit)
+12	Lorewalker Cho		(nemùže útoèit)
+13	Street Trickster	(nemùže útoèit)
+14	Lorewalker Cho		(nemùže útoèit)
+15	Humongous Razorleaf	(nemùže útoèit)
+
+Best 15 mutations:
+1	Senjin Shieldmasta	(dobré staty)
+2	Kabal Lackey		!! synergická karta se zbytkem balíèku
+3	Emperor Cobra		(prùmìrná karta, nejspíš ale jedna z "oblíbených" AI)
+4	Fire Plume Phoenix	(lehce nadprùmìrná karta)
+5	Coldwraith		(dobré staty - 3 many 3/4)
+6	Hired Gun		(docela dobré staty - 3 many 4/3)
+7	Twilight Elder		(dobré staty - 3 many 3/4)
+8	Kabal Lackey		!! synergická karta se zbytkem balíèku
+9	Pint-Sized Sumonner	(prùmìrná karta)
+10 	King Mukla		(dobré staty - 3 many 5/5)
+11	Injured Blademaster	(docela dobré staty - 3 many 4/3)
+12	Coldwraith		(dobré staty - 3 many 3/4)
+13	King Mukla		(dobré staty - 3 many 5/5)
+14	King Mukla		(dobré staty - 3 many 5/5)
+15	Blizzard 		(AOE kouzlo)

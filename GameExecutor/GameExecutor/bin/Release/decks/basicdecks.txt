@@ -1,0 +1,37 @@
+BasicHunter
+2x_Arcane Shot
+2x_Hunter's Mark
+1x_Tracking
+2x_Animal Companion
+2x_Kill Command
+2x_Houndmaster
+2x_Multi-Shot
+1x_Stonetusk Boar
+1x_Acidic Swamp Ooze
+2x_Bloodfen Raptor
+2x_River Crocolisk
+2x_Ironfur Grizzly
+1x_Razorfen Hunter
+1x_Shattered Sun Cleric
+1x_Chillwind Yeti
+1x_Oasis Snapjaw
+2x_Frostwolf Warlord
+2x_Boulderfist Ogre
+1x_Stormwind Champion
+
+SecretMage#3589
+2x_Babbling Book
+2x_Kabal Lackey
+2x_Mana Wyrm
+2x_Arcanologist
+2x_Frostbolt
+2x_Medivh's Valet
+2x_Primordial Glyph
+2x_Sorcerer's Apprentice
+2x_Arcane Intellect
+2x_Counterspell
+2x_Kirin Tor Mage
+2x_Mirror Entity
+2x_Fireball
+2x_Kabal Crystal Runner
+2x_Firelands Portal
