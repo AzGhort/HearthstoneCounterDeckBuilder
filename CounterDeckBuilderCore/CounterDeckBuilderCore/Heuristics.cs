@@ -11,7 +11,7 @@ namespace CounterDeckBuilder
 
     public enum Heuristic
     {
-        FACE_HUNTER, HEARTH_AGENT, AGGRO_PALLY, SECRET_MAGE, BASIC, DEFAULT
+        FACE_HUNTER, HEARTH_AGENT, AGGRO_PALLY, SECRET_MAGE, CONTROL_PRIEST, BASIC, DEFAULT
     }
 
     public static class HeuristicExtension
@@ -30,6 +30,8 @@ namespace CounterDeckBuilder
                     return new BasicHeuristic();
                 case Heuristic.DEFAULT:
                     return new DefaultHeuristic();
+                case Heuristic.CONTROL_PRIEST:
+                    return new ControlPriestHeuristic();
                 default:
                     return new DefaultHeuristic();
             }
@@ -185,6 +187,8 @@ namespace CounterDeckBuilder
                 minionScore += 1.5f * baseScore;
             }
 
+            if (minion.AttackDamage == 0) minionScore /= 2;
+
             return minionScore;
         }
 
@@ -271,6 +275,8 @@ namespace CounterDeckBuilder
             {
                 minionScore += 2;
             }
+
+            if (minion.AttackDamage == 0) minionScore /= 2;
 
             return minionScore;
         }
@@ -361,6 +367,8 @@ namespace CounterDeckBuilder
                 minionScore += 2;
             }
 
+            if (minion.AttackDamage == 0) minionScore /= 2;
+
             return minionScore;
         }
 
@@ -420,14 +428,6 @@ namespace CounterDeckBuilder
             {
                 minionScore += 1.5f * baseScore;
             }
-            if (minion.Card.Tags.ContainsKey(SabberStoneCore.Enums.GameTag.SPELLPOWER))
-            {
-                minionScore += minion.Card.Tags[SabberStoneCore.Enums.GameTag.SPELLPOWER];
-            }
-            if (minion.IsEnraged)
-            {
-                minionScore += 1;
-            }
             if (minion.HasStealth)
             {
                 minionScore += 1;
@@ -448,6 +448,8 @@ namespace CounterDeckBuilder
             {
                 minionScore += 1;
             }
+
+            if (minion.AttackDamage == 0) minionScore = 0;
 
             return minionScore;
         }
@@ -475,6 +477,86 @@ namespace CounterDeckBuilder
             score += game.CurrentPlayer.BoardZone.Count * 2;
             score -= game.CurrentOpponent.BoardZone.Count * 2;
             
+            foreach (Minion minion in game.CurrentPlayer.BoardZone)
+            {
+                score += GetMinionScore(minion);
+            }
+            foreach (Minion minion in game.CurrentOpponent.BoardZone)
+            {
+                score -= GetMinionScore(minion);
+            }
+
+            return score;
+        }
+    }
+
+    public class ControlPriestHeuristic : IGameStateHeuristic
+    {
+        private double GetMinionScore(Minion minion)
+        {
+            double minionScore = minion.AttackDamage + minion.Health;
+            double baseScore = minionScore;
+
+            if (minion.IsFrozen)
+            {
+                return minion.Health;
+            }
+            if (minion.HasTaunt)
+            {
+                minionScore += 2;
+            }
+            if (minion.HasWindfury)
+            {
+                minionScore += minion.AttackDamage * 0.5;
+            }
+            if (minion.HasDivineShield)
+            {
+                minionScore += 1.5f * baseScore;
+            }
+            if (minion.Card.Tags.ContainsKey(SabberStoneCore.Enums.GameTag.SPELLPOWER))
+            {
+                minionScore += minion.Card.Tags[SabberStoneCore.Enums.GameTag.SPELLPOWER];
+            }
+            if (minion.IsEnraged)
+            {
+                minionScore += 1;
+            }
+            if (minion.HasStealth)
+            {
+                minionScore += 1;
+            }
+            if (minion.CantBeTargetedBySpells)
+            {
+                minionScore += 1.5f * baseScore;
+            }
+
+            if (minion.AttackDamage == 0) minionScore /= 2;
+
+            return minionScore;
+        }
+
+        public double GetScore(Game game)
+        {
+            double score = 0;
+
+            if (game.CurrentPlayer.ToBeDestroyed)
+            {
+                return Double.MinValue;
+            }
+            if (game.CurrentOpponent.ToBeDestroyed)
+            {
+                return Double.MaxValue;
+            }
+
+            int ownHp = game.CurrentPlayer.Hero.Health + game.CurrentPlayer.Hero.Armor;
+            int opponentHp = game.CurrentOpponent.Hero.Health + game.CurrentOpponent.Hero.Armor;
+            score += 0.8*ownHp;
+
+            score += game.CurrentPlayer.BoardZone.Count * 3;
+            score -= game.CurrentOpponent.BoardZone.Count * 3;
+
+            score += 1.5*(game.CurrentPlayer.HandZone.Count - game.CurrentOpponent.HandZone.Count);
+
             foreach (Minion minion in game.CurrentPlayer.BoardZone)
             {
                 score += GetMinionScore(minion);

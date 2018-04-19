@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Dark Pact</string>
+    <string>Dark Pact</string>
+    <string>Kobold Librarian</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Mortal Coil</string>
+    <string>Lesser Amethyst Spellstone</string>
+    <string>Carnivorous Cube</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Bloodreaver Gul'dan</string>
+    <string>Mountain Giant</string>
+    <string>Mountain Giant</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

@@ -155,8 +155,10 @@ namespace CounterDeckBuilder
                             throw new Exception();
                         }
 
+                        // if you want to know whats happening in the game...
                         //Console.WriteLine(option.FullPrint());
                         //Console.ReadLine();
+
                         if (option is EndTurnTask)
                         {
                             error_counter = 0;

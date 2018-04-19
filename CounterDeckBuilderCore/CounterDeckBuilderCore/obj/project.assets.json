@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\mff\\bakal\\mine\\HearthstoneAI\\CounterDeckBuilderCore\\CounterDeckBuilderCore\\CounterDeckBuilderCore.csproj",
+      "projectUniqueName": "D:\\___\\GitHub\\HearthstoneCounterDeckBuilder\\CounterDeckBuilderCore\\CounterDeckBuilderCore\\CounterDeckBuilderCore.csproj",
       "projectName": "CounterDeckBuilderCore",
-      "projectPath": "D:\\mff\\bakal\\mine\\HearthstoneAI\\CounterDeckBuilderCore\\CounterDeckBuilderCore\\CounterDeckBuilderCore.csproj",
+      "projectPath": "D:\\___\\GitHub\\HearthstoneCounterDeckBuilder\\CounterDeckBuilderCore\\CounterDeckBuilderCore\\CounterDeckBuilderCore.csproj",
       "packagesPath": "C:\\Users\\Šimon\\.nuget\\packages\\",
-      "outputPath": "D:\\mff\\bakal\\mine\\HearthstoneAI\\CounterDeckBuilderCore\\CounterDeckBuilderCore\\obj\\",
+      "outputPath": "D:\\___\\GitHub\\HearthstoneCounterDeckBuilder\\CounterDeckBuilderCore\\CounterDeckBuilderCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

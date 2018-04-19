@@ -19,6 +19,56 @@ BasicHunter
 2x_Boulderfist Ogre
 1x_Stormwind Champion
 
+BasicPriest
+2x_Holy Smite
+2x_Northshire Cleric
+2x_Power Word: Shield
+1x_Divine Spirit
+2x_Shadow Word: Pain
+1x_Shadow Word: Death
+2x_Holy Nova
+1x_Mind Control
+1x_Voodoo Doctor
+1x_Acidic Swamp Ooze
+2x_River Crocolisk
+2x_Ironfur Grizzly
+2x_Shattered Sun Cleric
+2x_Chillwind Yeti
+1x_Gnomish Inventor
+2x_Darkscale Healer
+1x_Gurubashi Berserker
+2x_Boulderfist Ogre
+1x_Stormwind Champion
+
+RandomHunter1
+1x_Baron Geddon
+1x_Ironforge Rifleman
+1x_Dire Mole
+1x_Frostwolf Warlord
+2x_Humongous Razorleaf
+1x_Knuckles
+1x_Emerald Reaver
+1x_Fel Orc Soulfiend
+1x_Angry Chicken
+2x_Gentle Megasaur
+1x_Prince Taldaram
+1x_Scaled Nightmare
+1x_Faceless Shambler
+1x_Kobold Geomancer
+1x_Stampede
+1x_Rockpool Hunter
+1x_Arcane Golem
+1x_Savannah Highmane
+1x_Patches the Pirate
+2x_Midnight Drake
+1x_Unleash the Hounds
+1x_Tuskarr Fisherman
+1x_Silvermoon Guardian
+1x_Twilight Geomancer
+1x_Coldlight Seer
+1x_Kill Command
+1x_Murloc Tidecaller
+
 SecretMage#3589
 2x_Babbling Book
 2x_Kabal Lackey

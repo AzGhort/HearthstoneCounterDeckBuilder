@@ -9,3 +9,14 @@ D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\ob
 D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.AssemblyInfo.cs
 D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.dll
 D:\mff\bakal\mine\HearthstoneAI\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Release\netstandard2.0\CounterDeckBuilderCore.deps.json
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Release\netstandard2.0\CounterDeckBuilderCore.dll
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Release\netstandard2.0\CounterDeckBuilderCore.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Release\netstandard2.0\SabberStoneCore.dll
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\bin\Release\netstandard2.0\SabberStoneCore.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.csprojResolveAssemblyReference.cache
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.csproj.CoreCompileInputs.cache
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.AssemblyInfoInputs.cache
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.AssemblyInfo.cs
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.dll
+D:\___\GitHub\HearthstoneCounterDeckBuilder\CounterDeckBuilderCore\CounterDeckBuilderCore\obj\Release\netstandard2.0\CounterDeckBuilderCore.pdb

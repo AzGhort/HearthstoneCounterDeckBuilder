@@ -56,6 +56,22 @@ namespace CounterDeckBuilder
 
             return Math.Sqrt(EsquaredX - squaredEX);
         }
+
+        public static double GetVariance(this IEnumerable<double> list)
+        {
+            double EX = 0;
+            double EsquaredX = 0;
+            var count = list.Count();
+
+            foreach (var dou in list)
+            {
+                EX += dou / count;
+                EsquaredX += (dou * dou) / count;
+            }
+            double squaredEX = EX * EX;
+
+            return Math.Sqrt(EsquaredX - squaredEX);
+        }
     }
 
     /// <summary>

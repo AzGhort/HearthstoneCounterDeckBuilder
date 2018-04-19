@@ -59,6 +59,8 @@ namespace CounterDeckBuilder
                     return Heuristic.AGGRO_PALLY;
                 case "SECRETMAGE":
                     return Heuristic.SECRET_MAGE;
+                case "CONTROLPRIEST":
+                    return Heuristic.CONTROL_PRIEST;
                 default:
                     return Heuristic.DEFAULT;
             }
@@ -128,6 +130,7 @@ namespace CounterDeckBuilder
             string line = "";
             bool deckFound = false;
             Random randomCards = new Random();
+            List<int> curve = new List<int>();
             while (_reader.Peek() >= 0)
             {
                 line = _reader.ReadLine();
@@ -155,13 +158,19 @@ namespace CounterDeckBuilder
                         }
                     }
                     deck.Add(card);
-                    if (tokens[0] == "x2" || tokens[0] == "2x") deck.Add(card);
+                    curve.Add(card.Cost);
+                    if (tokens[0] == "x2" || tokens[0] == "2x")
+                    {
+                        deck.Add(card);
+                        curve.Add(card.Cost);
+                    }
                     deckFound = true;
                 }
             }
             _reader.DiscardBufferedData();
             _reader.BaseStream.Seek(0, SeekOrigin.Begin);
             Deck.deck = deck;
+            Deck.myCurve = curve;
             if (!deckFound) Deck = GetRandomDeck(cl);
             return Deck;
         }
@@ -274,7 +283,7 @@ namespace CounterDeckBuilder
                 int.TryParse(args[1], out index);
             }
             
-            Deck Deck1 = parser.GetDeckByName("basicdecks.txt","BasicHunter", CardClass.HUNTER);
+            Deck Deck1 = parser.GetDeckByName("basicdecks.txt","BasicPriest", CardClass.PRIEST);
             EvolutionConfiguration config = comm.GetCommands("commands.txt");
 
             Stopwatch s = new Stopwatch();

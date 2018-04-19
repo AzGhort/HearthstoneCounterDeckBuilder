@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Alleycat</string>
+    <string>Alleycat</string>
+    <string>Candleshot</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Hungry Crab</string>
+    <string>Dire Wolf Alpha</string>
+    <string>Bittertide Hydra</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Bittertide Hydra</string>
+    <string>Bittertide Hydra</string>
+    <string>Leeroy Jenkins</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

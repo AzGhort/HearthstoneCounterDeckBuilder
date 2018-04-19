@@ -83,49 +83,18 @@ namespace CounterDeckBuilder
         /// </summary>
         /// <param name="referenceCurve"></param>
         /// <param name="classindex"></param>
-        public Deck(List<int> referenceCurve, List<Card> referenceDeck, int classindex)
+        public Deck(List<int> referenceCurve, CardClass heroClass)
         {
-            myCurve = new List<int>();
-
-            //numbers 2 - 10
-            classindex %= 9;
-            classindex += 2;
-            var a = CardClass.DRUID;
-            heroClass = (CardClass) Enum.GetValues(a.GetType()).GetValue(classindex);
-
+            this.heroClass = heroClass;
             foreach (int cost in referenceCurve)
             {
                 Card c = GetRandomCardOfManaCost(heroClass, cost);
-                while ((c.Rarity == Rarity.LEGENDARY && deck.Contains(c)) || (deck.FindAll(card => card.Name == c.Name).Count == 2))
+                while (!CardAvailable(c) || (c.Class != CardClass.NEUTRAL && c.Class != heroClass))
                 {
                     c = GetRandomCardOfManaCost(heroClass, cost);
                 }
                 deck.Add(c);
-            }
-
-            Draft myhand = new Draft(3);
-            //only one hand for now...
-            myhand.cards = new Card[] { deck[r.Next(0, 4)], deck[r.Next(5, 9)], deck[r.Next(10, 14)] };
-            myHands.Add(myhand);
-
-            /*
-            foreach (var hand in refHands)
-            {
-                Draft myhand = new Draft(3);
-                int counter = 0;
-                List<int> usedIndices = new List<int>();
-                foreach (var card in hand.cards)
-                {
-                    int indexToCurve = referenceDeck.FindIndex(c => c == card);
-                    if (usedIndices.Contains(indexToCurve)) indexToCurve++;
-                    Card newCard = deck[indexToCurve];
-                    myhand.cards[counter] = newCard;
-                    counter++;
-                    usedIndices.Add(indexToCurve);
-                }
-                myHands.Add(myhand);
-            }*/
-
+            }   
         }    
 
         public Deck()
@@ -135,6 +104,7 @@ namespace CounterDeckBuilder
 
         public void FindHands(int[][] costs)
         {
+            this.myHands = new List<Draft>();
             foreach (int[] handCost in costs)
             {
                Draft hand = new Draft(3);
@@ -196,7 +166,7 @@ namespace CounterDeckBuilder
             {
                 Deck refd = referenceDecks[i % referenceDecks.Count];
                 int hero = r.Next(2, 11);
-                Deck deck = new Deck(refd.myCurve, refd.deck, 4); //MAGE NOW
+                Deck deck = new Deck(refd.myCurve, CardClass.MAGE); //MAGE NOW
                 result.Add(new DumbEvolvingDeck() { thisDeck = deck });
             }
             return result;
@@ -207,7 +177,9 @@ namespace CounterDeckBuilder
 
         public int CompareTo(IEvolvable other)
         {
-            return thisDeck.Winrate.CompareTo(other.GetThisDeck().Winrate);
+            return (thisDeck.Winrate == other.GetThisDeck().Winrate) ? -(thisDeck.Variance.CompareTo(other.GetThisDeck().Variance)) : (thisDeck.Winrate.CompareTo(other.GetThisDeck().Winrate));
+            //return (thisDeck.Winrate - 2 * thisDeck.Variance).CompareTo(other.GetThisDeck().Winrate - 2 * other.GetThisDeck().Variance);
+            //return (thisDeck.Winrate - thisDeck.Variance).CompareTo(other.GetThisDeck().Winrate - other.GetThisDeck().Variance);
         }
 
         public IEvolvable Crossover(IEvolvable partner)
@@ -261,23 +233,25 @@ namespace CounterDeckBuilder
 
     public class EvolutionTester
     {
-        public static void TestDeckWinrate(IEvolvable deck, List<Deck> referenceDecks, int numTries, int numberOfGames, int numThreads = 0)
+        public static List<IEvolvable> TestDeckWinrate(EvolutionConfiguration config, int numTries, bool hands, int numThreads = 0)
         {
             List<IEvolvable> pop = new List<IEvolvable>();
             for (int i = 0; i < numTries; i++)
             {
-                pop.Add(new DumbEvolvingDeck() { thisDeck = deck.GetThisDeck().DeepCopy() });
-                pop[i].GetThisDeck().FindHands(new int[][] { new int[] { 1, 2, 3 }, new int[] { 2, 4, 5 }, new int[] { 4, 5, 6 } });
+                pop.Add(new DumbEvolvingDeck() { thisDeck = config.population[0].GetThisDeck().DeepCopy() });                
             }
-            Evolution evol = new Evolution(pop, referenceDecks, numberOfGames);
-            evol.Evolve(1, numThreads);
+            config.population = pop;
+            Evolution evol = new Evolution(config);
+            if (hands) evol.hands = false;
+            return evol.EvaluateGeneration(pop, numThreads);
         }
 
-        public static void TestMutationStability(IEvolvable parent, List<Deck> referenceDecks, int numberOfGames, int numThreads = 0)
+        public static void TestMutationStability(EvolutionConfiguration config, int numThreads = 0)
         {
-            var population = EvolutionTester.GetAllMutations(parent, true);
+            var population = EvolutionTester.GetAllMutations(config.population[0], true);
+            config.population = population;
 
-            Evolution evol = new Evolution(population, referenceDecks, numberOfGames);
+            Evolution evol = new Evolution(config);
             var lastgen = evol.Evolve(1, numThreads);
 
             StringBuilder buffer = new StringBuilder();
@@ -295,7 +269,7 @@ namespace CounterDeckBuilder
                 file.WriteLine(str);
             }
         }
-
+        
         public static List<IEvolvable> GetAllMutations(IEvolvable parent, bool costBound)
         {
             List<IEvolvable> population = new List<IEvolvable>();
@@ -305,6 +279,8 @@ namespace CounterDeckBuilder
             class_ok.AddRange(Cards.AllStandard.ToList().Where(card => (card.Class == CardClass.NEUTRAL) || (card.Class == heroClass)));
             //need to initialize this with some real card, 10 mana ultrasaur cannot be the first card of the deck hopefully
             Card lastcard = Cards.FromName("Ultrasaur");
+
+            parent.GetThisDeck().deck.Sort((c1, c2) => c1.Name.CompareTo(c2.Name));
 
             for (int i = 0; i < parent.GetThisDeck().deck.Count(); i++)
             {
@@ -327,7 +303,7 @@ namespace CounterDeckBuilder
                         continue;
                     }
                     // these cards fuck up the heuristics
-                    if (mutation.Name == "The Darkness")
+                    if (mutation.Name == "The Darkness" || mutation.Name == "Devilsaur Egg")
                     {
                         continue;
                     }
@@ -356,6 +332,7 @@ namespace CounterDeckBuilder
         private List<Deck> testingDecks;
         private int numGames;
         private static Random r = new Random();
+        public bool hands = true;
 
         private List<List<double>> results = new List<List<double>>();
         private Heuristic heuristic1;
@@ -404,6 +381,7 @@ namespace CounterDeckBuilder
             }
             currentGeneration.Sort();
 
+            /*
             using (System.IO.StreamWriter file = new System.IO.StreamWriter("outcurve.txt", true))
             {
                 foreach (var list in results)
@@ -411,7 +389,7 @@ namespace CounterDeckBuilder
                     string tog = String.Join(" ", list);
                     file.WriteLine(tog);
                 }
-            }
+            }*/
 
             return currentGeneration;
         }
@@ -469,53 +447,16 @@ namespace CounterDeckBuilder
             evaluated.Sort();
 
             return evaluated;
-        }
-
-        /// <summary>
-        /// Tests efficiency of mutation, eg. what is the winrate difference of two decks that differ in exactly one card, given that they draw that card always on time.  
-        /// </summary>
-        /// <param name="deck1"></param>
-        /// <param name="deck2"></param>
-        /// <returns></returns>
-        public Tuple<double, double> TestMutationEfficiency(Deck deck1, Deck deck2, int numgames)
-        {
-            var cop1 = new List<Card>(deck1.deck);
-            var cop2 = new List<Card>(deck2.deck);
-
-            foreach (Card c in deck2.deck)
-            {
-                cop1.Remove(c);
-            }
-            foreach (Card c in deck1.deck)
-            {
-                cop2.Remove(c);
-            }
-
-            var card1 = cop1[0];
-            var card2 = cop2[0];
-
-            deck1.FindHands(new int[][] { new int[] { 1, 2, 3 }, new int[] { 2, 4, 5 }, new int[] { 4, 5, 6 } });
-            deck2.FindHands(new int[][] { new int[] { 1, 2, 3 }, new int[] { 2, 4, 5 }, new int[] { 4, 5, 6 } });
-
-            deck1.positions.Add(card1, card1.Cost - 1);
-            deck2.positions.Add(card2, card2.Cost - 1);
-
-            numGames = numgames;
-
-            TestDeck(new DumbEvolvingDeck() { thisDeck = deck1 });
-            TestDeck(new DumbEvolvingDeck() { thisDeck = deck2 });
-            var result = new Tuple<double, double>(deck1.Winrate, deck2.Winrate);
-
-            return result;
-        }
+        }  
        
         #region Private stuff
         /// <summary>
-        /// Stochasticly chooses between top 20 steps. 
+        /// Returns the best one. 
         /// </summary>
         /// <returns></returns>
         private IEvolvable HillClimbStep(int top)
-        {
+        { 
+            /*
             if (top > 100) top = 100;
 
             //normal (0,1) random number
@@ -535,7 +476,9 @@ namespace CounterDeckBuilder
 
             int index = (int) Math.Floor(rand) / (100 / top);
 
-            return candidates[index];
+            //return candidates[index];*/
+
+            return currentGeneration[currentGeneration.Count - 1];
         }
 
         private List<IEvolvable> GetNextGeneration()
@@ -559,7 +502,7 @@ namespace CounterDeckBuilder
         /// <param name="population"></param>
         /// <param name="threads"></param>
         /// <returns></returns>
-        private List<IEvolvable> EvaluateGeneration(List<IEvolvable> population, int threads)
+        public List<IEvolvable> EvaluateGeneration(List<IEvolvable> population, int threads)
         {
             List<IEvolvable> retval = new List<IEvolvable>();
             if (threads == 0)
@@ -570,13 +513,7 @@ namespace CounterDeckBuilder
             {
                 Stopwatch s = new Stopwatch();
                 s.Start();
-                //int test = threads;
-
-                foreach (var deck in population)
-                {
-                    //deck.GetThisDeck().FindHands(new int[][] { new int[] { 1, 2, 3 }, new int[] { 2, 4, 5 }, new int[] { 4, 5, 6 } });
-                }
-
+                                
                 var copyGen = new List<IEvolvable>(population);
                 int part = copyGen.Count / threads;
                 int mod = copyGen.Count % threads;
@@ -595,7 +532,6 @@ namespace CounterDeckBuilder
                     List<IEvolvable> partGen = copyGen.Take(part).ToList();
                     copyGen = copyGen.Skip(part).ToList();
                     tasks[other] = Task<List<IEvolvable>>.Factory.StartNew(() => TestPopulation(partGen));
-                    //results[j] = TestPopulation(partGen);
                 }
 
                 Task.WaitAll(tasks);
@@ -604,19 +540,15 @@ namespace CounterDeckBuilder
                 {
                     retval.AddRange(tasks[i].Result);
                 }
-
-                //retval = tasks.ToList().SelectMany(x => x).ToList();
-
-                //retval = TestPopulation(testpart);
+                
                 s.Stop();
 
                 Console.WriteLine("{0} decks were evaluated in " + (s.ElapsedMilliseconds / 1000).ToString() + " seconds.", population.Count());
-                //Console.ReadLine();
             }
 
             return retval;
         }
-
+        
         /// <summary>
         /// Or maybe do the parallelization here..?
         /// </summary>
@@ -627,7 +559,8 @@ namespace CounterDeckBuilder
             for (int i = 0; i < population.Count(); i++)
             {
                 Console.WriteLine("Testing deck number {0}.", i);
-                TestDeck(population[i]);
+                if (hands) TestDeck(population[i]);
+                else TestDeckNoHands(population[i]);
             }
             return population;
         }
@@ -639,15 +572,15 @@ namespace CounterDeckBuilder
             int gamesWon = 0;
             IPlayer AI1 = player1.GetPlayer(heuristic1);
             IPlayer AI2 = player2.GetPlayer(heuristic2);
-
-            deck.GetThisDeck().FindHands(new int[][] { new int[] { r.Next(5), r.Next(5), r.Next(5) }});
-
+            
             foreach (Deck d in testingDecks)
             {
                 int deckGamesWon = 0;
                 int deckGamesCount = 0;
+
                 foreach (Draft draft in d.myHands)
                 {
+                    deck.GetThisDeck().FindHands(new int[][] { new int[] { r.Next(5), r.Next(5), r.Next(5) } });
                     foreach (Draft draft2 in deck.GetThisDeck().myHands)
                     {
                         deckGamesCount += numGames;
@@ -662,6 +595,52 @@ namespace CounterDeckBuilder
             }
             deck.GetThisDeck().Winrate = gamesWon / (gamesCount / 100.0);
             deck.GetThisDeck().simulationResult.Winrate = gamesWon / (gamesCount / 100.0);
+            deck.GetThisDeck().Variance = deck.GetThisDeck().Variance();
+        }
+
+        /// <summary>
+        /// Tests deck with random hands for both ref decks and tested deck.
+        /// </summary>
+        /// <param name="deck"></param>
+        private void TestDeckNoHands(IEvolvable deck)
+        {
+            Simulator simulator = new Simulator();
+            int gamesCount = 0;
+            int gamesWon = 0;
+            IPlayer AI1 = player1.GetPlayer(heuristic1);
+            IPlayer AI2 = player2.GetPlayer(heuristic2);
+
+            //no time to explain
+            try
+            {
+                foreach (Deck d in testingDecks)
+                {
+                    int deckGamesWon = 0;
+                    int deckGamesCount = 0;
+
+                    for (int i = 0; i < numGames; i++)
+                    {
+                        deck.GetThisDeck().FindHands(new int[][] { new int[] { r.Next(5), r.Next(5), r.Next(5) } });
+                        d.FindHands(new int[][] { new int[] { r.Next(5), r.Next(5), r.Next(5) } });
+                        deckGamesCount += 1;
+                        var result = simulator.SimulateGames(AI1, AI2, 1, deck.GetThisDeck(), d, "", "", deck.GetThisDeck().myHands[0].cards.ToList(), d.myHands[0].cards.ToList());
+                        deckGamesWon += result.Item1;
+                    }
+                    deck.GetThisDeck().simulationResult.Results.Add(deckGamesWon);
+                    gamesWon += deckGamesWon;
+                    gamesCount += deckGamesCount;
+                    deck.GetThisDeck().simulationResult.DeckGames = deckGamesCount;
+                }
+                deck.GetThisDeck().Winrate = gamesWon / (gamesCount / 100.0);
+                deck.GetThisDeck().simulationResult.Winrate = gamesWon / (gamesCount / 100.0);
+                deck.GetThisDeck().Variance = deck.GetThisDeck().Variance();
+            }
+            catch (Exception e)
+            {
+                deck.GetThisDeck().Winrate = 0;
+                deck.GetThisDeck().simulationResult.Winrate = 0;
+                deck.GetThisDeck().Variance = 0;
+            }
         }
         #endregion
     }

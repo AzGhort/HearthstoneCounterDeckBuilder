@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>Candleshot</string>
+    <string>Candleshot</string>
+    <string>Hunter's Mark</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Cat Trick</string>
+    <string>Eaglehorn Bow</string>
+    <string>Rhok'delar</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>Crushing Walls</string>
+    <string>Rhok'delar</string>
+    <string>Y'Shaarj, Rage Unbound</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

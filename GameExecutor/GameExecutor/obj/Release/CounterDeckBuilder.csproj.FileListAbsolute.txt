@@ -9,3 +9,14 @@ D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Release\GameExecut
 D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\obj\Release\CounterDeckBuilder.csprojResolveAssemblyReference.cache
 D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\CounterDeckBuilderCore.dll
 D:\mff\bakal\mine\HearthstoneAI\GameExecutor\GameExecutor\bin\Release\CounterDeckBuilderCore.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\GameExecutor.exe.config
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\GameExecutor.exe
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\GameExecutor.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\CounterDeckBuilderCore.dll
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\SabberStoneCore.dll
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\CounterDeckBuilderCore.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\bin\Release\SabberStoneCore.pdb
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\obj\Release\CounterDeckBuilder.csprojResolveAssemblyReference.cache
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\obj\Release\CounterDeckBuilder.csproj.CoreCompileInputs.cache
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\obj\Release\GameExecutor.exe
+D:\___\GitHub\HearthstoneCounterDeckBuilder\GameExecutor\GameExecutor\obj\Release\GameExecutor.pdb

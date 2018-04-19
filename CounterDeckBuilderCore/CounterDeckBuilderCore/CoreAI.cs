@@ -307,48 +307,4 @@ namespace CounterDeckBuilder
         }
 
     }
-
-    /* Default AI Player, not working now
-    //not really working, sabberstone has changed
-    class DefaultAIPlayer : IPlayer
-    {
-        public Game CurrentGame { get; set; }
-
-        private SabberStoneCoreAi.Score.Score Strategy;
-        int maxDepth = 10;
-        int maxWidth = 500;
-
-        public DefaultAIPlayer(FatigueScore tactic, int depth, int width)
-        {
-            Strategy = tactic;
-            maxDepth = depth;
-            maxWidth = width;
-        }
-
-        public PlayerTask GetNextMove()
-        {
-            var solutions = SabberOptionNode.GetSolutions(CurrentGame, CurrentGame.CurrentPlayer.Id, Strategy, maxDepth, maxWidth);
-
-            var solution = new List<PlayerTask>();
-            solutions.OrderByDescending(p => p.Score).First().PlayerTasks(ref solution);
-
-            return solution[0];
-        }
-
-        public bool HasNextMove()
-        {
-            return CurrentGame.CurrentPlayer.Choice != null;
-        }
-
-        public void SetGame(Game game)
-        {
-            CurrentGame = game;
-        }
-
-        public override string ToString()
-        {
-            return "Default " + Strategy.ToString() + " AI";
-        }
-    }
-    */
 }
