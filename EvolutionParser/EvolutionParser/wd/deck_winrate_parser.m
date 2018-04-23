@@ -1,5 +1,5 @@
 clear;
-fid = fopen('outcurve3.txt');
+fid = fopen('outcurve5.txt');
 tline = fgetl(fid);
 x=1:1001;
 y=[];

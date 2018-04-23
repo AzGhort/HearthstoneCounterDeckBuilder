@@ -172,7 +172,7 @@ namespace EvolutionParser
                 d.myHands = drafts;
             }
             
-            /*foreach (var dir in directories)
+            foreach (var dir in directories)
             {
                 if (!Char.IsDigit(dir, 2)) continue; // every directory starts with .\\
                 
@@ -193,30 +193,40 @@ namespace EvolutionParser
                 double fitness1 = win1;
                 double fitness2 = win2;
                 double fitness3 = win3;
-
+                
                 if (num == 1)
                 {
-                    
+                   /*
                     var best = GetBestDeckOfGeneration(dir);
 
                     EvolutionConfiguration config = new EvolutionConfiguration();
-                    config.player1 = Player.HEURISTIC_STEP;
-                    config.player2 = Player.HEURISTIC_STEP;
-                    config.heuristic1 = Heuristic.FACE_HUNTER;
-                    config.heuristic2 = Heuristic.DEFAULT;
+                    config.player1 = Player.RANDOM_DUMB_GREEDY;
+                    config.player2 = Player.RANDOM_DUMB_GREEDY;
+                    config.heuristic1 = Heuristic.BASIC;
+                    config.heuristic2 = Heuristic.BASIC;
                     config.numGames = 5;
                     config.refdecks = decks;
                     config.population = new List<IEvolvable>() { best };
 
                     initialwinrates = EvolutionTester.TestDeckWinrate(config, 1000, false, 4);
                     
-                    using (StreamWriter sw = new StreamWriter("outcurve3.txt"))
+                    for (int i = 0; i < 1000; i++)
+                    {
+                        while (initialwinrates[i].GetThisDeck().Winrate == 0)
+                        {
+                            var r = EvolutionTester.TestDeckWinrate(config, 1, true);
+                            initialwinrates[i] = r[0];
+                        }
+                    }
+
+
+                    using (StreamWriter sw = new StreamWriter("outcurve8.txt"))
                     {
                         foreach (var deck in initialwinrates)
                         {
                             sw.Write(deck.GetThisDeck().Winrate + " ");
                         }
-                    }
+                    }*/
                 }
 
                 string res = fitness1 + "-" + fitness2 + "-" + fitness3; 
@@ -224,9 +234,9 @@ namespace EvolutionParser
                 Console.WriteLine("Generation " + num + " parsed.");
                 counter++;
             }
-            */
             
-            using (StreamReader sr = new StreamReader("outcurve4.txt"))
+            /*
+            using (StreamReader sr = new StreamReader("outcurve7.txt"))
             {
                 string s = sr.ReadLine();
                 var tokens = s.Split(' ');
@@ -238,7 +248,7 @@ namespace EvolutionParser
                 }
                 double res = d.GetVariance();
             }
-            using (StreamReader sr = new StreamReader("outcurve3.txt"))
+            using (StreamReader sr = new StreamReader("outcurve8.txt"))
             {
                 string s = sr.ReadLine();
                 var tokens = s.Split(' ');
@@ -249,12 +259,12 @@ namespace EvolutionParser
                     d.Add(Double.Parse(s1));
                 }
                 double res = d.GetVariance();
-            }
-            //using (StreamWriter sw = new StreamWriter("outcurve.txt"))
+            }*/
+            using (StreamWriter sw = new StreamWriter("outcurve.txt"))
             {
                 foreach (string fit in allgen_fitness)
                 {
-                    //sw.WriteLine(fit);
+                    sw.WriteLine(fit);
                 }
             }
         }

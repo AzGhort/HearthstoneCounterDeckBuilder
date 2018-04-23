@@ -208,7 +208,6 @@ namespace CounterDeckBuilder
             int ownHp = game.CurrentPlayer.Hero.Health + game.CurrentPlayer.Hero.Armor;
             int opponentHp = game.CurrentOpponent.Hero.Health + game.CurrentOpponent.Hero.Armor;
             score += 0.5*(ownHp - opponentHp);
-            
 
             score += game.CurrentPlayer.BoardZone.Count * 2;
             score -= game.CurrentOpponent.BoardZone.Count * 2;
@@ -503,7 +502,7 @@ namespace CounterDeckBuilder
             }
             if (minion.HasTaunt)
             {
-                minionScore += 2;
+                minionScore += 3;
             }
             if (minion.HasWindfury)
             {
@@ -551,6 +550,7 @@ namespace CounterDeckBuilder
             int ownHp = game.CurrentPlayer.Hero.Health + game.CurrentPlayer.Hero.Armor;
             int opponentHp = game.CurrentOpponent.Hero.Health + game.CurrentOpponent.Hero.Armor;
             score += 0.8*ownHp;
+            score -= 0.2 * opponentHp;
 
             score += game.CurrentPlayer.BoardZone.Count * 3;
             score -= game.CurrentOpponent.BoardZone.Count * 3;

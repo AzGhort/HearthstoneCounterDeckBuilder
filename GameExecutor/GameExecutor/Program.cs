@@ -273,7 +273,7 @@ namespace CounterDeckBuilder
             CommandsParser comm = new CommandsParser();
             var decks = parser.GetAllDecks();
 
-            int threads = 4;
+            int threads = 1;
             int parts = 1;
             int index = 0;
 
