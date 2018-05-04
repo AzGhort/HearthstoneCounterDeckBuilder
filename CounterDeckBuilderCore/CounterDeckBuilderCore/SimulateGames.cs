@@ -8,17 +8,35 @@ using System.Collections.Generic;
 
 namespace CounterDeckBuilder
 {
+    /// <summary>
+    /// Detail info about simulation result.
+    /// </summary>
     public class SimulationResult
     {
+        /// <summary>
+        /// Number of games won/lost.
+        /// </summary>
         public Tuple<int, int> Total;
 
+        /// <summary>
+        /// Number of games for every opponent deck.
+        /// </summary>
         public int DeckGames = 0;
 
+        /// <summary>
+        /// Number of games WON against every opponent deck.
+        /// </summary>
         public List<int> Results = new List<int>();
 
+        /// <summary>
+        /// Winrate of deck in percents.
+        /// </summary>
         public double Winrate;
     }
 
+    /// <summary>
+    /// Configuration for Simulation class (eg. IPlayers, decks, num of games, ...)
+    /// </summary>
     public class SimulatorConfiguration
     {
         public IPlayer ai1;
@@ -26,25 +44,24 @@ namespace CounterDeckBuilder
         public int numGames;
         public Deck deck1;
         public Deck deck2;
-        public string name1;
-        public string name2;
         public List<Card> hand1;
         public List<Card> hand2;
 
-        public SimulatorConfiguration(IPlayer ai1, IPlayer ai2, int totalGames, Deck deck_1, Deck deck_2, string deckn1, string deckn2, List<Card> hand1, List<Card> hand2)
+        public SimulatorConfiguration(IPlayer ai1, IPlayer ai2, int totalGames, Deck deck_1, Deck deck_2, List<Card> hand1, List<Card> hand2)
         {
             this.ai1 = ai1;
             this.ai2 = ai2;
             numGames = totalGames;
             deck1 = deck_1;
             deck2 = deck_2;
-            name1 = deckn1;
-            name2 = deckn2;
             this.hand1 = hand1;
             this.hand2 = hand2;
         }
     }
 
+    /// <summary>
+    /// Simulator class, used for executing games with given configuration in SabberStone.
+    /// </summary>
     public class Simulator
     {
         private int _numberOfGamesToSimulate;
@@ -60,12 +77,28 @@ namespace CounterDeckBuilder
         
         Game currentGame;
 
+        /// <summary>
+        /// Calls SimulateGames with given configuration.
+        /// </summary>
+        /// <param name="conf"> Configuration of simulations. </param>
+        /// <returns> Just number of games won/lost (memory issues, and we do not need more info in our algorithm). </returns>
         public Tuple<int, int> SimulateGames(SimulatorConfiguration conf)
         {
-            return this.SimulateGames(conf.ai1, conf.ai2, conf.numGames, conf.deck1, conf.deck2, conf.name1, conf.name2, conf.hand1, conf.hand2);
+            return this.SimulateGames(conf.ai1, conf.ai2, conf.numGames, conf.deck1, conf.deck2, conf.hand1, conf.hand2);
         }
 
-        public Tuple<int, int> SimulateGames(IPlayer ai1, IPlayer ai2, int totalGames, Deck deck_1, Deck deck_2, string deckn1, string deckn2, List<Card> hand1, List<Card> hand2)
+        /// <summary>
+        /// Main method executing games with given config.
+        /// </summary>
+        /// <param name="ai1"> IPlayer for first player. </param>
+        /// <param name="ai2"> IPlayer for second player. </param>
+        /// <param name="totalGames"> Number of games to play. </param>
+        /// <param name="deck_1"> Deck of first player. </param>
+        /// <param name="deck_2"> Deck of second player. </param>
+        /// <param name="hand1"> Can be null. If not null, then second hand is also expected to not be null. Hand to use for first player. </param>
+        /// <param name="hand2"> Hand to use for second player. </param>
+        /// <returns></returns>
+        public Tuple<int, int> SimulateGames(IPlayer ai1, IPlayer ai2, int totalGames, Deck deck_1, Deck deck_2, List<Card> hand1, List<Card> hand2)
         {
             SimulationResult sim = new SimulationResult();
             AI1 = ai1;
@@ -73,8 +106,6 @@ namespace CounterDeckBuilder
             _numberOfGamesToSimulate = totalGames;
             Deck1 = deck_1;
             Deck2 = deck_2;
-            deckname1 = deckn1;
-            deckname2 = deckn2;
 
             int total = _numberOfGamesToSimulate;
             int Player1Wins = 0;

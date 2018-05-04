@@ -179,10 +179,11 @@ namespace EvolutionParser
                 var tokens = dir.Split('.');
                 string rem = tokens[1].Replace("\\", "");
                 int num = int.Parse(rem);
-                
+
+                /*
                 var gen = GetGeneration(dir);
                 gen.Sort();
-
+                
                 double win1 = gen[0].GetThisDeck().Winrate;
                 double var1 = gen[0].GetThisDeck().Variance;
                 double win2 = gen[gen.Count / 2].GetThisDeck().Winrate;
@@ -193,43 +194,28 @@ namespace EvolutionParser
                 double fitness1 = win1;
                 double fitness2 = win2;
                 double fitness3 = win3;
-                
-                if (num == 1)
-                {
-                   /*
-                    var best = GetBestDeckOfGeneration(dir);
+                */
 
-                    EvolutionConfiguration config = new EvolutionConfiguration();
-                    config.player1 = Player.RANDOM_DUMB_GREEDY;
-                    config.player2 = Player.RANDOM_DUMB_GREEDY;
-                    config.heuristic1 = Heuristic.BASIC;
-                    config.heuristic2 = Heuristic.BASIC;
-                    config.numGames = 5;
-                    config.refdecks = decks;
-                    config.population = new List<IEvolvable>() { best };
+                var best = GetBestDeckOfGeneration(dir);
 
-                    initialwinrates = EvolutionTester.TestDeckWinrate(config, 1000, false, 4);
-                    
-                    for (int i = 0; i < 1000; i++)
-                    {
-                        while (initialwinrates[i].GetThisDeck().Winrate == 0)
-                        {
-                            var r = EvolutionTester.TestDeckWinrate(config, 1, true);
-                            initialwinrates[i] = r[0];
-                        }
-                    }
+                EvolutionConfiguration config = new EvolutionConfiguration();
+                config.player1 = Player.HEURISTIC_STEP;
+                config.player2 = Player.HEURISTIC_STEP;
+                config.heuristic1 = Heuristic.FACE_HUNTER;
+                config.heuristic2 = Heuristic.BASIC;
+                config.numGames = 15;
+                config.refdecks = decks;
+                config.population = new List<IEvolvable>() { best };
 
+                initialwinrates = EvolutionTester.TestDeckWinrate(config, 100, true, 4);
+                initialwinrates = initialwinrates.FindAll(deck => deck.GetThisDeck().Winrate != 0);
+                List<double> winrates = initialwinrates.ConvertAll(d => d.GetThisDeck().Winrate);
 
-                    using (StreamWriter sw = new StreamWriter("outcurve8.txt"))
-                    {
-                        foreach (var deck in initialwinrates)
-                        {
-                            sw.Write(deck.GetThisDeck().Winrate + " ");
-                        }
-                    }*/
-                }
+                double a = winrates.Average();
+                double b = winrates.Max();
+                double c = winrates.Min();
 
-                string res = fitness1 + "-" + fitness2 + "-" + fitness3; 
+                string res = c + "-" + a + "-" + b; 
                 allgen_fitness[num - 1] = res;
                 Console.WriteLine("Generation " + num + " parsed.");
                 counter++;

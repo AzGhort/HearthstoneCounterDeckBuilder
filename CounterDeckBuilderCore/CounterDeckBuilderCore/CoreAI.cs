@@ -7,21 +7,51 @@ using System.Collections.Generic;
 
 namespace CounterDeckBuilder
 {
+    /// <summary>
+    /// General interface for any agent.
+    /// </summary>
     public interface IPlayer
     {
+        /// <summary>
+        /// Current game that agent plays.
+        /// </summary>
         Game CurrentGame { get; set; }
+        /// <summary>
+        /// Does the agent want to do any more actions?
+        /// </summary>
+        /// <returns> Whether the agent want to do more actions. </returns>
         bool HasNextMove();
+        /// <summary>
+        /// Get next action of agent.
+        /// </summary>
+        /// <returns> Next action of the agent. </returns>
         PlayerTask GetNextMove();
+        /// <summary>
+        /// Sets the current game for agent to play.
+        /// </summary>
+        /// <param name="game"> Game to be set. </param>
         void SetGame(Game game);
     }
 
+    /// <summary>
+    /// Enum containing all implemented agents.
+    /// </summary>
     public enum Player
     {
         RANDOM_NON_GREEDY, HEURISTIC_STEP, HEURISTIC_TURN, RANDOM_DUMB_GREEDY
     }
 
+    /// <summary>
+    /// Extension class containg auxiliary methods of agents.
+    /// </summary>
     public static class PlayerExtension
     {
+        /// <summary>
+        /// Returns actual IPlayer class, given the input Player enum.
+        /// </summary>
+        /// <param name="pl"> Player from enum. </param>
+        /// <param name="heuristic"> Heuristic that the player can use. </param>
+        /// <returns> Actual IPlayer class. </returns>
         public static IPlayer GetPlayer(this Player pl, Heuristic heuristic)
         {
             switch (pl)
@@ -48,15 +78,17 @@ namespace CounterDeckBuilder
     public class RandomNonGreedyPlayer : IPlayer
     {
         Random Brain = new Random();
-
         public Game CurrentGame { get; set; }
-        public GameStateObserver Observer { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public void SetGame(Game game)
         {
             CurrentGame = game;
         }
 
+        /// <summary>
+        /// Get random action.
+        /// </summary>
+        /// <returns>Random action of player. </returns>
         public PlayerTask GetNextMove()
         {
             if (!HasNextMove()) return null;
@@ -161,6 +193,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Heuristic greedy player. Tries to look for best sequence of actions in one turn (can fail sometimes, SabberStone issues..)
+    /// </summary>
     public class HeuristicTurnGreedyPlayer : IPlayer
     {
         public Game CurrentGame { get; set; }
@@ -178,16 +213,21 @@ namespace CounterDeckBuilder
             CurrentGame = game;
         }
 
+        /// <summary>
+        /// Returns next action from the "best sequence", or finds the sequence if it was not found yet.
+        /// </summary>
+        /// <returns></returns>
         public PlayerTask GetNextMove()
         {
             try
             {
                 if (!HasNextMove()) return null;
 
+                /*
                 //just for debugging...
                 var a = CurrentGame.CurrentPlayer.HandZone;
                 Console.WriteLine(String.Join("-", a));
-                Console.WriteLine(CurrentGame.CurrentPlayer.RemainingMana);
+                Console.WriteLine(CurrentGame.CurrentPlayer.RemainingMana);*/
 
                 var options = CurrentGame.CurrentPlayer.Options();
                 //only end turn task
@@ -270,6 +310,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Random greedy player, always takes as much actions as possible.
+    /// </summary>
     public class RandomDumbGreedyPlayer : IPlayer
     {
         Random Brain = new Random();
@@ -281,6 +324,10 @@ namespace CounterDeckBuilder
             CurrentGame = game;
         }
 
+        /// <summary>
+        /// Get random action that is not "EndTurn".
+        /// </summary>
+        /// <returns> Random action of agent. </returns>
         public PlayerTask GetNextMove()
         {
             if (!HasNextMove()) return null;

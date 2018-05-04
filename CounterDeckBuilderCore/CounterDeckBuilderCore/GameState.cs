@@ -3,12 +3,18 @@ using SabberStoneCore.Model.Entities;
 
 namespace CounterDeckBuilder
 {
+    /// <summary>
+    /// OBSOLETE - Metric used in GameState class.
+    /// </summary>
     public struct Metric
     {
         public string Player { get; set; }
         public int Value { get; set; }
     }
 
+    /// <summary>
+    /// OBSOLETE - GameState class, representing current state of game by metrics.
+    /// </summary>
     public struct GameState
     {
         public string Name;
@@ -82,8 +88,16 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// OBSOLETE - Observer returning state of game.
+    /// </summary>
     public class GameStateObserver
     {
+        /// <summary>
+        /// Get current game state (defined by metrics).
+        /// </summary>
+        /// <param name="game"> Game to create the state from. </param>
+        /// <returns> GameState class with current metrics. </returns>
         public static GameState GetGameState(Game game)
         {
             GameState state = new GameState();

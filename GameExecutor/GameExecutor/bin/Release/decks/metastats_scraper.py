@@ -22,7 +22,7 @@ def create_deck_file(url):
     source = urllib.request.urlopen(url)
     soup = BeautifulSoup(source, "lxml")
     global filename
-    filename = "meta_" + soup.head.find_all('meta')[3]["content"][-19:-9] + ".txt"
+    filename = "decks.txt"
 
 url = "http://metastats.net"
 page = urllib.request.urlopen(url)

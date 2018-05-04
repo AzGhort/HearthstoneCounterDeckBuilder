@@ -9,14 +9,35 @@ using System.Threading.Tasks;
 
 namespace CounterDeckBuilder
 {
+    /// <summary>
+    /// Interface for any evolvable deck.
+    /// </summary>
     public interface IEvolvable : IComparable<IEvolvable>
     {
+        /// <summary>
+        /// Returns deck wrapped in interface.
+        /// </summary>
+        /// <returns></returns>
         Deck GetThisDeck();
 
+        /// <summary>
+        /// List of all mutations (card for card).
+        /// </summary>
+        /// <returns></returns>
         List<Tuple<string, string>> Mutations();
         
+        /// <summary>
+        /// Crossover this deck with another.
+        /// </summary>
+        /// <param name="deck"> Another deck to crossover. </param>
+        /// <returns></returns>
         IEvolvable Crossover(IEvolvable deck);
 
+        /// <summary>
+        /// Mutates given number of times.
+        /// </summary>
+        /// <param name="num"> Number of times to mutate. </param>
+        /// <returns></returns>
         IEvolvable Mutate(int num);
     }
 
@@ -102,6 +123,10 @@ namespace CounterDeckBuilder
 
         }
 
+        /// <summary>
+        /// Finds "hands" for a deck, given the hand's cards mana costs.
+        /// </summary>
+        /// <param name="costs"> Expected format: array of 3-integer arrays. Mana costs of cards in hands. </param>
         public void FindHands(int[][] costs)
         {
             this.myHands = new List<Draft>();
@@ -126,6 +151,11 @@ namespace CounterDeckBuilder
             }          
         }
 
+        /// <summary>
+        /// Checks whether the card is available for the deck. (regarding Hearthstone rules)
+        /// </summary>
+        /// <param name="c">Card to be checked. </param>
+        /// <returns> Availability of a card for deck. </returns>
         public bool CardAvailable(Card c)
         {
             int count = deck.FindAll(card => card.Name == c.Name).Count;
@@ -138,6 +168,10 @@ namespace CounterDeckBuilder
             return (Deck) MemberwiseClone();
         }
 
+        /// <summary>
+        /// Creates a deep copy of this deck.
+        /// </summary>
+        /// <returns> Deep copy of this deck. </returns>
         public Deck DeepCopy()
         {
             Deck d = new Deck();
@@ -154,34 +188,28 @@ namespace CounterDeckBuilder
     }
 
     /// <summary>
-    /// Dumb ievolvable deck, doesn't care about combos.
+    /// Deck that only knows mutations.
     /// </summary>
-    public class DumbEvolvingDeck : IEvolvable
+    public class MutatingDeck : IEvolvable
     {
-        public static List<IEvolvable> GetFirstGeneration(List<Deck> referenceDecks, int generationCount)
-        {
-            Random r = new Random();
-            List<IEvolvable> result = new List<IEvolvable>();
-            for (int i = 0; i < generationCount; i++)
-            {
-                Deck refd = referenceDecks[i % referenceDecks.Count];
-                int hero = r.Next(2, 11);
-                Deck deck = new Deck(refd.myCurve, CardClass.MAGE); //MAGE NOW
-                result.Add(new DumbEvolvingDeck() { thisDeck = deck });
-            }
-            return result;
-        }
-
         public Deck thisDeck;
         public List<Tuple<string, string>> mutations;
 
+        /// <summary>
+        /// Compares this deck to another lexicographically (thisDeck's winrate and variance)
+        /// </summary>
+        /// <param name="other"> Deck to compare to.</param>
+        /// <returns></returns>
         public int CompareTo(IEvolvable other)
         {
             return (thisDeck.Winrate == other.GetThisDeck().Winrate) ? -(thisDeck.Variance.CompareTo(other.GetThisDeck().Variance)) : (thisDeck.Winrate.CompareTo(other.GetThisDeck().Winrate));
-            //return (thisDeck.Winrate - 2 * thisDeck.Variance).CompareTo(other.GetThisDeck().Winrate - 2 * other.GetThisDeck().Variance);
-            //return (thisDeck.Winrate - thisDeck.Variance).CompareTo(other.GetThisDeck().Winrate - other.GetThisDeck().Variance);
         }
 
+        /// <summary>
+        /// This deck cannot crossover with other...
+        /// </summary>
+        /// <param name="partner"> Other deck to crossover.</param>
+        /// <returns></returns>
         public IEvolvable Crossover(IEvolvable partner)
         {
             return this;
@@ -192,6 +220,11 @@ namespace CounterDeckBuilder
             return thisDeck;
         }
 
+        /// <summary>
+        /// Changes given number of cards in deck.
+        /// </summary>
+        /// <param name="mutations"> Number of cards to change.</param>
+        /// <returns></returns>
         public IEvolvable Mutate(int mutations)
         {
             Random r = new Random();
@@ -206,7 +239,7 @@ namespace CounterDeckBuilder
             {
                 new Draft(3) { cards = new Card[3] { toMutate.deck[0], toMutate.deck[5], toMutate.deck[9] } }
             };
-            return new DumbEvolvingDeck()
+            return new MutatingDeck()
             {
                 thisDeck = toMutate
             };
@@ -218,7 +251,10 @@ namespace CounterDeckBuilder
         }
     }
 
-    public class EvolutionConfiguration
+    /// <summary>
+    /// Configuration of the hill-climbing algo. 
+    /// </summary>
+    public class HillClimbingConfiguration
     {
         public Heuristic heuristic1;
         public Heuristic heuristic2;
@@ -231,45 +267,38 @@ namespace CounterDeckBuilder
         public List<IEvolvable> population;
     }
 
-    public class EvolutionTester
+    /// <summary>
+    /// Few auxiliary methods for Hill-climbing.
+    /// </summary>
+    public class HillClimbingTester
     {
-        public static List<IEvolvable> TestDeckWinrate(EvolutionConfiguration config, int numTries, bool hands, int numThreads = 0)
+        /// <summary>
+        /// Tests input deck (expects the population of config to be one) given number of tries.
+        /// </summary>
+        /// <param name="config"> Configuration of hill-climbing algorithm. </param>
+        /// <param name="numTries"> Number of times to test the input deck. </param>
+        /// <param name="hands"> Should it use random hands for ref decks? </param>
+        /// <param name="numThreads"> Number of threads to use. </param>
+        /// <returns></returns>
+        public static List<IEvolvable> TestDeckWinrate(HillClimbingConfiguration config, int numTries, bool hands, int numThreads = 0)
         {
             List<IEvolvable> pop = new List<IEvolvable>();
             for (int i = 0; i < numTries; i++)
             {
-                pop.Add(new DumbEvolvingDeck() { thisDeck = config.population[0].GetThisDeck().DeepCopy() });                
+                pop.Add(new MutatingDeck() { thisDeck = config.population[0].GetThisDeck().DeepCopy() });                
             }
             config.population = pop;
-            Evolution evol = new Evolution(config);
+            HillClimbing evol = new HillClimbing(config);
             if (hands) evol.hands = false;
             return evol.EvaluateGeneration(pop, numThreads);
         }
-
-        public static void TestMutationStability(EvolutionConfiguration config, int numThreads = 0)
-        {
-            var population = EvolutionTester.GetAllMutations(config.population[0], true);
-            config.population = population;
-
-            Evolution evol = new Evolution(config);
-            var lastgen = evol.Evolve(1, numThreads);
-
-            StringBuilder buffer = new StringBuilder();
-            foreach (IEvolvable deck in lastgen)
-            {
-                buffer.Append(deck.Mutations()[0].Item1);
-                buffer.Append(" => ");
-                buffer.Append(deck.Mutations()[0].Item2);
-                buffer.Append(" \n ");
-            }
-            string str = buffer.ToString();
-
-            using (System.IO.StreamWriter file = new System.IO.StreamWriter("mutations.txt", true))
-            {
-                file.WriteLine(str);
-            }
-        }
-        
+      
+        /// <summary>
+        /// Generates all mutations of a deck (that differ in exactly one card).
+        /// </summary>
+        /// <param name="parent"> Parent to deck to generate mutations. </param>
+        /// <param name="costBound"> Should it only use mutations that have similar mana costs? </param>
+        /// <returns></returns>
         public static List<IEvolvable> GetAllMutations(IEvolvable parent, bool costBound)
         {
             List<IEvolvable> population = new List<IEvolvable>();
@@ -307,7 +336,7 @@ namespace CounterDeckBuilder
                     {
                         continue;
                     }
-                    DumbEvolvingDeck deck = new DumbEvolvingDeck()
+                    MutatingDeck deck = new MutatingDeck()
                     {
                         thisDeck = parent.GetThisDeck().DeepCopy(),
                         mutations = new List<Tuple<string, string>>(new Tuple<string, string>[] { new Tuple<string, string>(parent.GetThisDeck().deck[i].Name, mutation.Name) })
@@ -326,7 +355,10 @@ namespace CounterDeckBuilder
         }
     }
 
-    public class Evolution
+    /// <summary>
+    /// Represents hill-climbing algorithm.
+    /// </summary>
+    public class HillClimbing
     {
         private List<IEvolvable> currentGeneration;
         private List<Deck> testingDecks;
@@ -341,7 +373,11 @@ namespace CounterDeckBuilder
         private Player player1;
         private Player player2;
 
-        public Evolution(EvolutionConfiguration config)
+        /// <summary>
+        /// Initializas hill-climbing.
+        /// </summary>
+        /// <param name="config"> Initial data/configuration of hill-climbing. </param>
+        public HillClimbing(HillClimbingConfiguration config)
         {
             testingDecks = config.refdecks;
             numGames = config.numGames;
@@ -354,79 +390,65 @@ namespace CounterDeckBuilder
             player2 = config.player2;
         }
 
-        public Evolution(List<IEvolvable> population, List<Deck> referenceDecks, int numberOfGames)
+        /// <summary>
+        /// Initializes hill-climbing. 
+        /// </summary>
+        /// <param name="population"> Initial population. </param>
+        /// <param name="referenceDecks"> Reference decks. </param>
+        /// <param name="numberOfGames"> Number of games to simulate for every ref deck. </param>
+        public HillClimbing(List<IEvolvable> population, List<Deck> referenceDecks, int numberOfGames)
         {
             currentGeneration = population;
             testingDecks = referenceDecks;
             numGames = numberOfGames;
         }
 
-        public List<IEvolvable> Evolve(int generations, int threads = 0)
-        {
-            for (int i = 0; i < generations; i++)
-            {
-                currentGeneration = EvaluateGeneration(currentGeneration, threads);
-
-                List<double> res = new List<double>();
-                foreach (IEvolvable deck in currentGeneration)
-                {
-                    res.Add(deck.GetThisDeck().Winrate);
-                }
-                res.Sort();
-                results.Add(res);
-
-                //Console.WriteLine(String.Format("Getting generation number {0}...", i + 2));
-                //not the last iteration...
-                if (i < generations - 1) currentGeneration = GetNextGeneration();
-            }
-            currentGeneration.Sort();
-
-            /*
-            using (System.IO.StreamWriter file = new System.IO.StreamWriter("outcurve.txt", true))
-            {
-                foreach (var list in results)
-                {
-                    string tog = String.Join(" ", list);
-                    file.WriteLine(tog);
-                }
-            }*/
-
-            return currentGeneration;
-        }
-
         /// <summary>
         /// Executes the hill climbing algorithm with given number of steps. Expects the number of decks in initial population is 1.
         /// </summary>
-        /// <param name="iterations"></param>
-        /// <param name="threads"></param>
+        /// <param name="iterations"> Number of iterations for hill-climbing. </param>
+        /// <param name="threads">Number of threads to use. </param>
         /// <returns></returns>
         public IEvolvable HillClimb(int iterations, int threads = 0)
         {
             IEvolvable parent = currentGeneration[0];
             for (int i = 0; i < iterations; i++)
             {
-                var population = EvolutionTester.GetAllMutations(parent, true);
+                var population = HillClimbingTester.GetAllMutations(parent, true);
                 Console.WriteLine("Generation number " + (i+1).ToString() + " in progress.");
                 Console.WriteLine("Testing " + population.Count() + " decks...");
                 //Console.WriteLine("-------------------------------------------");
-                var evaluated = EvaluateGeneration(population, threads);
+                currentGeneration = EvaluateGeneration(population, threads);
 
                 currentGeneration.Sort();
 
-                parent = HillClimbStep(20);
+                parent = HillClimbStep();
             }
             return parent;
         }
 
-        public IEvolvable HillClimbLastGeneration(int num_top)
+        /// <summary>
+        /// Public method to access hill-climb step.
+        /// </summary>
+        /// <returns> Best deck of last generation. </returns>
+        public IEvolvable HillClimbLastGeneration()
         {
-            return HillClimbStep(num_top);
+            currentGeneration.Sort();
+
+            return HillClimbStep();
         }
 
+        /// <summary>
+        /// Tests part of current generation (chosen by parts and index). Used on servers, because parallelization.
+        /// </summary>
+        /// <param name="parts"> Number of parts to split current generation. </param>
+        /// <param name="index"> Zero-based index of part to be evaluated. </param>
+        /// <param name="threads"> Number of threads to use. </param>
+        /// <returns></returns>
         public List<IEvolvable> TestGenerationPartForBash(int parts, int index, int threads = 0)
         {
             IEvolvable parent = currentGeneration[0];
-            var population = EvolutionTester.GetAllMutations(parent, true);
+            var population = HillClimbingTester.GetAllMutations(parent, true);
 
             int part = population.Count / parts;
             int mod = population.Count % parts;
@@ -451,57 +473,20 @@ namespace CounterDeckBuilder
        
         #region Private stuff
         /// <summary>
-        /// Returns the best one. 
+        /// Returns the best deck of current generation. 
         /// </summary>
-        /// <returns></returns>
-        private IEvolvable HillClimbStep(int top)
+        /// <returns> Best deck of current generation. </returns>
+        private IEvolvable HillClimbStep()
         { 
-            /*
-            if (top > 100) top = 100;
-
-            //normal (0,1) random number
-            double rand = r.NextGaussian();
-            //fit into 0-4..
-            if (rand < 0.0) rand *= -1.0;
-            if (rand >= 4.0) rand = 3.99999;
-            //fit into 0-100
-            rand *= 100.0;
-            rand /= 4.0;
-
-            List<IEvolvable> candidates = new List<IEvolvable>();
-            for (int i = 0; i < top; i++)
-            {
-                candidates.Add(currentGeneration[currentGeneration.Count - 1 - i]);
-            }
-
-            int index = (int) Math.Floor(rand) / (100 / top);
-
-            //return candidates[index];*/
-
             return currentGeneration[currentGeneration.Count - 1];
         }
 
-        private List<IEvolvable> GetNextGeneration()
-        {
-            List<IEvolvable> newGeneration = new List<IEvolvable>();
-            currentGeneration.Sort();
-            for (int i = currentGeneration.Count() - 10; i < currentGeneration.Count(); i++)
-            {
-                for (int j = 0; j < 5; j++)
-                {
-                    newGeneration.Add(currentGeneration[i].Mutate(3));
-                }
-                newGeneration.Add(currentGeneration[i]);
-            }
-            return newGeneration;
-        }
-
         /// <summary>
-        /// Last (and only) method that knows anything about threads.
+        /// Handles threading - eg. split population into parts, test them in separate threads.
         /// </summary>
-        /// <param name="population"></param>
-        /// <param name="threads"></param>
-        /// <returns></returns>
+        /// <param name="population"> Population to be tested. </param>
+        /// <param name="threads"> Number of threads to evaluate in. </param>
+        /// <returns> Evaluated generation. </returns>
         public List<IEvolvable> EvaluateGeneration(List<IEvolvable> population, int threads)
         {
             List<IEvolvable> retval = new List<IEvolvable>();
@@ -550,10 +535,10 @@ namespace CounterDeckBuilder
         }
         
         /// <summary>
-        /// Or maybe do the parallelization here..?
+        /// Tests all decks in given population.
         /// </summary>
-        /// <param name="population"></param>
-        /// <returns></returns>
+        /// <param name="population"> Population to be tested. </param>
+        /// <returns>Evaluated population. </returns>
         private List<IEvolvable> TestPopulation(List<IEvolvable> population)
         {
             for (int i = 0; i < population.Count(); i++)
@@ -565,6 +550,10 @@ namespace CounterDeckBuilder
             return population;
         }
 
+        /// <summary>
+        /// Tests deck with random hands for tested deck, and given hands for ref decks.
+        /// </summary>
+        /// <param name="deck"> Deck to be tested. </param>
         private void TestDeck(IEvolvable deck)
         {
             Simulator simulator = new Simulator();
@@ -584,7 +573,7 @@ namespace CounterDeckBuilder
                     foreach (Draft draft2 in deck.GetThisDeck().myHands)
                     {
                         deckGamesCount += numGames;
-                        var result = simulator.SimulateGames(AI1, AI2, numGames, deck.GetThisDeck(), d, "", "", draft2.cards.ToList(), draft.cards.ToList());
+                        var result = simulator.SimulateGames(AI1, AI2, numGames, deck.GetThisDeck(), d, draft2.cards.ToList(), draft.cards.ToList());
                         deckGamesWon += result.Item1;
                     }
                 }
@@ -601,7 +590,7 @@ namespace CounterDeckBuilder
         /// <summary>
         /// Tests deck with random hands for both ref decks and tested deck.
         /// </summary>
-        /// <param name="deck"></param>
+        /// <param name="deck"> Deck to be tested. </param>
         private void TestDeckNoHands(IEvolvable deck)
         {
             Simulator simulator = new Simulator();
@@ -610,7 +599,6 @@ namespace CounterDeckBuilder
             IPlayer AI1 = player1.GetPlayer(heuristic1);
             IPlayer AI2 = player2.GetPlayer(heuristic2);
 
-            //no time to explain
             try
             {
                 foreach (Deck d in testingDecks)
@@ -623,7 +611,7 @@ namespace CounterDeckBuilder
                         deck.GetThisDeck().FindHands(new int[][] { new int[] { r.Next(5), r.Next(5), r.Next(5) } });
                         d.FindHands(new int[][] { new int[] { r.Next(5), r.Next(5), r.Next(5) } });
                         deckGamesCount += 1;
-                        var result = simulator.SimulateGames(AI1, AI2, 1, deck.GetThisDeck(), d, "", "", deck.GetThisDeck().myHands[0].cards.ToList(), d.myHands[0].cards.ToList());
+                        var result = simulator.SimulateGames(AI1, AI2, 1, deck.GetThisDeck(), d, deck.GetThisDeck().myHands[0].cards.ToList(), d.myHands[0].cards.ToList());
                         deckGamesWon += result.Item1;
                     }
                     deck.GetThisDeck().simulationResult.Results.Add(deckGamesWon);

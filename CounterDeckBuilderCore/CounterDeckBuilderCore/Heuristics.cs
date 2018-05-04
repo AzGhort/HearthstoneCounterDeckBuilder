@@ -4,18 +4,37 @@ using System;
 
 namespace CounterDeckBuilder
 {
+    /// <summary>
+    /// Interface for heuristic, has to return double "score" from given game.
+    /// </summary>
     public interface IGameStateHeuristic
     {
+        /// <summary>
+        /// Get score from current state of game.
+        /// </summary>
+        /// <param name="game"> Current game. </param>
+        /// <returns> Score of current state. </returns>
         double GetScore(Game game);
     }
 
+    /// <summary>
+    /// Enum containing all implemented heuristics. 
+    /// </summary>
     public enum Heuristic
     {
         FACE_HUNTER, HEARTH_AGENT, AGGRO_PALLY, SECRET_MAGE, CONTROL_PRIEST, BASIC, DEFAULT
     }
 
+    /// <summary>
+    /// Extension class containing auxiliary methods of Heuristics.
+    /// </summary>
     public static class HeuristicExtension
     {
+        /// <summary>
+        /// Constructs actual IGameStateHeuristic, given Heuristic enum.
+        /// </summary>
+        /// <param name="heuristic"> Heuristic name enum. </param>
+        /// <returns> Actual IGameStateHeuristic. </returns>
         public static IGameStateHeuristic GetHeuristic(this Heuristic heuristic)
         {
             switch (heuristic)
@@ -43,6 +62,11 @@ namespace CounterDeckBuilder
     /// </summary>
     public class BasicHeuristic : IGameStateHeuristic
     {
+        /// <summary>
+        /// Cares about board mana advantage, card advantage, damage set up and health advantage.
+        /// </summary>
+        /// <param name="game"> Current game. </param>
+        /// <returns> Score. </returns>
         public double GetScore(Game game)
         {
             CounterDeckBuilder.GameState x = GameStateObserver.GetGameState(game);
@@ -66,10 +90,14 @@ namespace CounterDeckBuilder
     /// 
     /// Cannot use secrets! 
     /// Does not care about some static abilities - poisonous, lifesteal, charge, ...
-    /// What to do with battlecries and deathrattles?
     /// </summary>
     public class HearthAgentHeuristic : IGameStateHeuristic
     {
+        /// <summary>
+        /// Get score of a minion. 
+        /// </summary>
+        /// <param name="minion"> Minion to be rated. </param>
+        /// <returns> Score of minion. </returns>
         private double GetMinionScore(Minion minion)
         {
             double minionScore = minion.AttackDamage + minion.Health;
@@ -147,8 +175,16 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Default heuristic, used for most of meta-decks during our experiments. Highly inspired by Metastone's heuristic.
+    /// </summary>
     public class DefaultHeuristic : IGameStateHeuristic
     {
+        /// <summary>
+        /// Get score of a minion. 
+        /// </summary>
+        /// <param name="minion"> Minion to be rated. </param>
+        /// <returns> Score of the minion. </returns>
         private double GetMinionScore(Minion minion)
         {
             double minionScore = minion.AttackDamage + minion.Health;
@@ -227,6 +263,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Secret mage heuristic, keeps playing secrets in mind.
+    /// </summary>
     public class SecretMageHeuristic : IGameStateHeuristic
     {
         private double GetMinionScore(Minion minion)
@@ -318,6 +357,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Intended aggro palladin heuristic (board count of minions, ...)
+    /// </summary>
     public class AggroPallyHeuristic : IGameStateHeuristic
     {
         private double GetMinionScore(Minion minion)
@@ -404,6 +446,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Aggro hunter heuristic, used during experiment 1.
+    /// </summary>
     public class FaceHunterHeuristic : IGameStateHeuristic
     {
         private double GetMinionScore(Minion minion)
@@ -489,6 +534,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Control priest heuristic, used during experiment 2.
+    /// </summary>
     public class ControlPriestHeuristic : IGameStateHeuristic
     {
         private double GetMinionScore(Minion minion)

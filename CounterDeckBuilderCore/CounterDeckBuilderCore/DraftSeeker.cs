@@ -16,15 +16,29 @@ using System.Xml.Serialization;
 namespace CounterDeckBuilder
 {
     /// <summary>
-    /// Utility extensions to IEnumerable
+    /// Some utility "mathematic" extensions. 
     /// </summary>
     public static class MathsExtension
     {
+        /// <summary>
+        /// Get all combinations of K elements from IEnumerable.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="elements"> This IEnumerable. </param>
+        /// <param name="k"> Number of elements to choose. </param>
+        /// <returns> Combinations from elements. </returns>
         public static IEnumerable<IEnumerable<T>> Combinations<T>(this IEnumerable<T> elements, int k)
         {
             return k == 0 ? new[] { new T[0] } : elements.SelectMany((e, i) =>   elements.Skip(i + 1).Combinations(k - 1).Select(c => (new[] { e }).Concat(c)));
         }
 
+        /// <summary>
+        /// Shuffles randomly first N elements of IEnumerable.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="list"> List to shuffle. </param>
+        /// <param name="size"> Number of elements to shuffle in list. </param>
+        /// <returns> Shufffled list. </returns>
         public static IEnumerable<T> Shuffle<T>(this IEnumerable<T> list, int size)
         {
             var r = new Random();
@@ -33,6 +47,11 @@ namespace CounterDeckBuilder
             return shuffledList.ToList();
         }
 
+        /// <summary>
+        /// Get a random gaussian number.
+        /// </summary>
+        /// <param name="random"> Random to use. </param>
+        /// <returns> Next Gaussian random in between 0 and 1. </returns>
         public static double NextGaussian(this Random random)
         {
             double u1 = 1.0 - random.NextDouble(); 
@@ -41,6 +60,11 @@ namespace CounterDeckBuilder
             return Math.Sqrt(-2.0 * Math.Log(u1)) * Math.Sin(2.0 * Math.PI * u2);
         }
 
+        /// <summary>
+        /// Returns variance of deck's wins against all opponent's decks.
+        /// </summary>
+        /// <param name="deck"> Deck to get the variance. </param>
+        /// <returns>BVariance of winrate. </returns>
         public static double Variance(this Deck deck)
         {
             int numgames = deck.simulationResult.DeckGames;
@@ -57,6 +81,11 @@ namespace CounterDeckBuilder
             return Math.Sqrt(EsquaredX - squaredEX);
         }
 
+        /// <summary>
+        /// Get variance of list of doubles.
+        /// </summary>
+        /// <param name="list"> List to get the variance. </param>
+        /// <returns> Variance of the list. </returns>
         public static double GetVariance(this IEnumerable<double> list)
         {
             double EX = 0;
@@ -80,11 +109,13 @@ namespace CounterDeckBuilder
     public static class GameExtension
     {
         /// <summary>
-        /// Hack into Sabberstone, fake cards in starting hand, do not shuffle, player1 always starts.
+        /// Hack into SabberStone, fakes starting hands, do not shuffle.
         /// </summary>
-        /// <param name="game"></param>
-        /// <param name="hand"></param>
-        /// <param name="deck"></param>
+        /// <param name="game"> Game to fake. </param>
+        /// <param name="hand"> Hand for the fist player. </param>
+        /// <param name="deck"> Deck for the first player. </param>
+        /// <param name="refHand"> Hand for the second player. </param>
+        /// <param name="refdeck"> Deck for the second player. </param>
         public static void FairStartGame(this Game game, List<Card> hand, List<Card> deck, List<Card> refHand, List<Card> refdeck)
         {
             GameConfig _gameConfig = game.GetPrivateField<GameConfig>("_gameConfig");
@@ -170,14 +201,19 @@ namespace CounterDeckBuilder
         /// <summary>
         /// No power history and other useless stuff...
         /// </summary>
-        /// <param name="game"></param>
-        /// <param name="gameTask"></param>
+        /// <param name="game"> Game to process the task. </param>
+        /// <param name="gameTask"> Task to be processed. </param>
         public static void LazyProcess(this Game game, PlayerTask gameTask)
         {
             gameTask.Game = game;
             gameTask.Process();
         }
 
+        /// <summary>
+        /// Clone game without cloning stuff useless in our project.
+        /// </summary>
+        /// <param name="game"> Game to be cloned. </param>
+        /// <returns> Lazy clone of the game</returns>
         public static Game LazyClone(this Game game)
         {
             GameConfig _gameConfig = game.GetPrivateField<GameConfig>("_gameConfig");
@@ -196,7 +232,13 @@ namespace CounterDeckBuilder
             return newgame;
         }
 
-        //extension methods cannot access private fields, so we have to "hack" into Sabberstone
+        /// <summary>
+        /// Extension methods cannot access private fields, so we have to "hack" into Sabberstone.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="obj"> Object with private field. </param>
+        /// <param name="name"> Name of private field. </param>
+        /// <returns> Private field. </returns>
         public static T GetPrivateField<T>(this object obj, string name)
         {
             BindingFlags flags = BindingFlags.Instance | BindingFlags.NonPublic;
@@ -206,21 +248,38 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Draft of cards.
+    /// </summary>
     public class Draft : IComparable<Draft>
     {
         public Card[] cards;
         public double Winrate = 0.0;
 
+        /// <summary>
+        /// Initializes a new draft with given number of cards.
+        /// </summary>
+        /// <param name="draftCount"> Number of cards in draft. </param>
         public Draft(int draftCount)
         {
             cards = new Card[draftCount];
         }
 
+        /// <summary>
+        /// Drafts are compared based on their winrate.
+        /// </summary>
+        /// <param name="other"> Other deck to compare to. </param>
+        /// <returns></returns>
         public int CompareTo(Draft other)
         {
             return Winrate.CompareTo(other.Winrate);
         }
 
+        /// <summary>
+        /// Serializes draft under given name.
+        /// </summary>
+        /// <param name="drafts"> Drafts to serialize. </param>
+        /// <param name="deckname"> Name of deck to use for serialization. </param>
         public static void SerializeDrafts(List<Draft> drafts, string deckname)
         {
             IFormatter formatter = new BinaryFormatter();
@@ -241,6 +300,11 @@ namespace CounterDeckBuilder
             stream.Close();
         }
 
+        /// <summary>
+        /// Serializes draft into xml file under given name.
+        /// </summary>
+        /// <param name="drafts"> Drafts to serialize. </param>
+        /// <param name="deckname"> Name of deck to use for serialization. </param>
         public static void XmlSerializeDrafts(List<Draft> drafts, string deckname)
         {
             XmlSerializer formatter = new XmlSerializer(typeof(List<List<string>>));
@@ -261,6 +325,11 @@ namespace CounterDeckBuilder
             stream.Close();
         }
 
+        /// <summary>
+        /// Deserializes draft for a deck with given name.
+        /// </summary>
+        /// <param name="deckname"> Name of deck to get the drafts. </param>
+        /// <returns> Drafts of the deck. </returns>
         public static List<Draft> DeserializeDrafts(string deckname)
         {
             IFormatter formatter = new BinaryFormatter();
@@ -290,6 +359,11 @@ namespace CounterDeckBuilder
             return result;
         }
 
+        /// <summary>
+        /// Deserializes draft from a xml file for a deck with given name.
+        /// </summary>
+        /// <param name="deckname"> Name of deck to get the drafts. </param>
+        /// <returns> Drafts of the deck. </returns>
         public static List<Draft> XmlDeserializeDrafts(string deckname)
         {
             XmlSerializer formatter = new XmlSerializer(typeof(List<List<string>>));
@@ -322,6 +396,9 @@ namespace CounterDeckBuilder
         }
     }
 
+    /// <summary>
+    /// Class to find drafts of deck.
+    /// </summary>
     public class DraftSeeker
     {
         private List<Card> _draftDeck = null;
@@ -338,6 +415,11 @@ namespace CounterDeckBuilder
             class1 = c1;
         }
 
+        /// <summary>
+        /// Looks for the best hands/drafts, tries a game with every possible N cards on top of the deck.
+        /// </summary>
+        /// <param name="sequenceLength"> How long sequences should it check. </param>
+        /// <returns> Drafts of the deck. </returns>
         public List<Draft> GetAllDrafts(int sequenceLength)
         {
             //does not make sense for less than four cards
