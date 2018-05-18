@@ -1,5 +1,5 @@
 clear;
-fid = fopen('outcurve5.txt');
+fid = fopen('outcurve10.txt');
 tline = fgetl(fid);
 x=1:1001;
 y=[];
@@ -11,5 +11,5 @@ for (i = 1: length(num))
     y = [y, num(i)];
 end
 figure;
-plot(x,y);
+plot(x,y, '-r');
 fclose(fid);
